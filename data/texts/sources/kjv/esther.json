@@ -1,0 +1,735 @@
+{
+  "book": "Esther",
+  "full_title": "The Book of Esther",
+  "lds_slug": "esth",
+  "chapters": [
+    {
+      "chapter": 1,
+      "reference": "Esther 1",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Esther 1:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Esther 1:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Esther 1:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Esther 1:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Esther 1:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Esther 1:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Esther 1:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Esther 1:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Esther 1:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Esther 1:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Esther 1:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Esther 1:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Esther 1:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Esther 1:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Esther 1:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Esther 1:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Esther 1:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Esther 1:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Esther 1:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Esther 1:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Esther 1:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Esther 1:22"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "reference": "Esther 2",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Esther 2:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Esther 2:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Esther 2:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Esther 2:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Esther 2:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Esther 2:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Esther 2:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Esther 2:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Esther 2:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Esther 2:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Esther 2:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Esther 2:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Esther 2:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Esther 2:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Esther 2:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Esther 2:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Esther 2:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Esther 2:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Esther 2:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Esther 2:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Esther 2:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Esther 2:22"
+        },
+        {
+          "verse": 23,
+          "reference": "Esther 2:23"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "reference": "Esther 3",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Esther 3:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Esther 3:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Esther 3:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Esther 3:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Esther 3:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Esther 3:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Esther 3:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Esther 3:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Esther 3:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Esther 3:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Esther 3:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Esther 3:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Esther 3:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Esther 3:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Esther 3:15"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "reference": "Esther 4",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Esther 4:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Esther 4:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Esther 4:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Esther 4:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Esther 4:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Esther 4:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Esther 4:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Esther 4:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Esther 4:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Esther 4:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Esther 4:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Esther 4:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Esther 4:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Esther 4:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Esther 4:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Esther 4:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Esther 4:17"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "reference": "Esther 5",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Esther 5:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Esther 5:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Esther 5:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Esther 5:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Esther 5:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Esther 5:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Esther 5:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Esther 5:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Esther 5:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Esther 5:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Esther 5:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Esther 5:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Esther 5:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Esther 5:14"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "reference": "Esther 6",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Esther 6:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Esther 6:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Esther 6:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Esther 6:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Esther 6:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Esther 6:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Esther 6:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Esther 6:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Esther 6:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Esther 6:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Esther 6:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Esther 6:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Esther 6:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Esther 6:14"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "reference": "Esther 7",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Esther 7:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Esther 7:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Esther 7:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Esther 7:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Esther 7:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Esther 7:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Esther 7:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Esther 7:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Esther 7:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Esther 7:10"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "reference": "Esther 8",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Esther 8:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Esther 8:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Esther 8:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Esther 8:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Esther 8:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Esther 8:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Esther 8:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Esther 8:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Esther 8:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Esther 8:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Esther 8:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Esther 8:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Esther 8:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Esther 8:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Esther 8:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Esther 8:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Esther 8:17"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "reference": "Esther 9",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Esther 9:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Esther 9:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Esther 9:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Esther 9:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Esther 9:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Esther 9:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Esther 9:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Esther 9:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Esther 9:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Esther 9:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Esther 9:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Esther 9:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Esther 9:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Esther 9:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Esther 9:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Esther 9:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Esther 9:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Esther 9:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Esther 9:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Esther 9:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Esther 9:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Esther 9:22"
+        },
+        {
+          "verse": 23,
+          "reference": "Esther 9:23"
+        },
+        {
+          "verse": 24,
+          "reference": "Esther 9:24"
+        },
+        {
+          "verse": 25,
+          "reference": "Esther 9:25"
+        },
+        {
+          "verse": 26,
+          "reference": "Esther 9:26"
+        },
+        {
+          "verse": 27,
+          "reference": "Esther 9:27"
+        },
+        {
+          "verse": 28,
+          "reference": "Esther 9:28"
+        },
+        {
+          "verse": 29,
+          "reference": "Esther 9:29"
+        },
+        {
+          "verse": 30,
+          "reference": "Esther 9:30"
+        },
+        {
+          "verse": 31,
+          "reference": "Esther 9:31"
+        },
+        {
+          "verse": 32,
+          "reference": "Esther 9:32"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "reference": "Esther 10",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Esther 10:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Esther 10:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Esther 10:3"
+        }
+      ]
+    }
+  ]
+}

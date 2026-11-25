@@ -1,0 +1,254 @@
+{
+  "page": "Poems 276–300",
+  "postId": 270,
+  "url": "https://erslexicon.wordpress.com/poems-51-55/",
+  "published": "2014-11-18T22:42:42+00:00",
+  "modified": "2014-12-09T19:26:56+00:00",
+  "fetchedAt": "2026-09-26T03:43:28.527Z",
+  "count": 25,
+  "poems": [
+    {
+      "id": "276",
+      "number": 276,
+      "title": "To W. C. S.",
+      "date": "n.d.",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 11,
+      "lineCount": 44
+    },
+    {
+      "id": "277",
+      "number": 277,
+      "title": "Song for the 24th of July, 1857",
+      "composed": "ca. 24 July 1857",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 16,
+      "lineCount": 44
+    },
+    {
+      "id": "278",
+      "number": 278,
+      "title": "The Ladies of Utah",
+      "subtitle": "to the Ladies of the United States Camp in a Crusade against the ‘Mormons’",
+      "composed": "13 October 1857",
+      "published": "Deseret News, 14 October 1857",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 15,
+      "lineCount": 62
+    },
+    {
+      "id": "279",
+      "number": 279,
+      "title": "Response to “The Power of Song”",
+      "composed": "7 November 1857",
+      "published": "Contributor, May 1884",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 18,
+      "lineCount": 69
+    },
+    {
+      "id": "280",
+      "number": 280,
+      "title": "The Kingdom of God Is the Kingdom for Me",
+      "composed": "22 or 27 November 1857",
+      "published": "Deseret News, 2 December 1857",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 16,
+      "lineCount": 45
+    },
+    {
+      "id": "281",
+      "number": 281,
+      "title": "To Elder Wilford Woodruff",
+      "composed": "23 November 1857",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 12,
+      "lineCount": 48
+    },
+    {
+      "id": "282",
+      "number": 282,
+      "title": "“Young Sam” and His Uncle",
+      "composed": "4 December 1857",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 25,
+      "lineCount": 121
+    },
+    {
+      "id": "283",
+      "number": 283,
+      "title": "For the Album of Mrs. R—",
+      "composed": "1857",
+      "stanzaCount": 6,
+      "lineCount": 12
+    },
+    {
+      "id": "284",
+      "number": 284,
+      "title": "To a Philanthropist",
+      "subtitle": "[Thomas L. Kane]",
+      "composed": "6 March 1858",
+      "published": "Deseret News, 10 April 1861",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 7,
+      "lineCount": 58
+    },
+    {
+      "id": "285",
+      "number": 285,
+      "title": "“The Reign of the Constitution and Laws Has Been Restored” (in Utah)",
+      "subtitle": "James Buchanan’s Message to Congress",
+      "composed": "4 August 1858",
+      "published": "Deseret News, 1 September 1858",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 28
+    },
+    {
+      "id": "286",
+      "number": 286,
+      "title": "Do Right and Fear Not",
+      "subtitle": "[“Let those who would be Saints indeed”]",
+      "composed": "17 September 1858",
+      "published": "Deseret News, 13 October 1858",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 33
+    },
+    {
+      "id": "287",
+      "number": 287,
+      "title": "To Brother George Pitkin",
+      "composed": "7 December 1858",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 55
+    },
+    {
+      "id": "288",
+      "number": 288,
+      "title": "Condolence",
+      "subtitle": "[To Brother David and Sister Elizabeth Day]",
+      "composed": "1858",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 4,
+      "lineCount": 17
+    },
+    {
+      "id": "289",
+      "number": 289,
+      "title": "To Sister Nancy Farr",
+      "date": "n.d.",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 4,
+      "lineCount": 16
+    },
+    {
+      "id": "290",
+      "number": 290,
+      "title": "Eliza R. Snow",
+      "subtitle": "Daughter of Jesse Smith",
+      "date": "n.d.",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 6,
+      "lineCount": 25
+    },
+    {
+      "id": "291",
+      "number": 291,
+      "title": "To Mrs. Sarah Ann Cook",
+      "composed": "28 March 1859",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 7,
+      "lineCount": 28
+    },
+    {
+      "id": "292",
+      "number": 292,
+      "title": "Stanza",
+      "subtitle": "[To Miss Carmichael]",
+      "composed": "3 April 1859",
+      "published": "Deseret News, 13 April 1859",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 9,
+      "lineCount": 39
+    },
+    {
+      "id": "293",
+      "number": 293,
+      "title": "Ourselves and Our Enemies",
+      "composed": "21 April 1859",
+      "published": "Deseret News, 27 April 1859",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 9,
+      "lineCount": 36
+    },
+    {
+      "id": "294",
+      "number": 294,
+      "title": "To the Mother of Ann Eliza Wight",
+      "subtitle": "[“Your sweet little rose bud has left you”]",
+      "composed": "1 August 1859",
+      "published": "Deseret News, 10 August 1859",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 5,
+      "lineCount": 21
+    },
+    {
+      "id": "295",
+      "number": 295,
+      "title": "To the “Omer” of Nauvoo",
+      "composed": "November 1859",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 4,
+      "lineCount": 16
+    },
+    {
+      "id": "296",
+      "number": 296,
+      "title": "“On the tablet of my mem’ry”",
+      "date": "n.d.",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 3,
+      "lineCount": 12
+    },
+    {
+      "id": "297",
+      "number": 297,
+      "title": "To—Omer",
+      "date": "n.d.",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "298",
+      "number": 298,
+      "title": "When Should We Weep?",
+      "date": "n.d.",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "299",
+      "number": 299,
+      "title": "Retirement",
+      "composed": "December 1859",
+      "published": "Mountaineer, 24 December 1859",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 4,
+      "lineCount": 29
+    },
+    {
+      "id": "300",
+      "number": 300,
+      "title": "Our Religion",
+      "composed": "December 1859",
+      "published": "Deseret News, 28 December 1859",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 5,
+      "lineCount": 63
+    }
+  ]
+}

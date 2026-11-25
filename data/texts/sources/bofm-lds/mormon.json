@@ -1,0 +1,969 @@
+{
+  "book": "Mormon",
+  "full_title": "The Book of Mormon",
+  "lds_slug": "morm",
+  "chapters": [
+    {
+      "chapter": 1,
+      "reference": "Mormon 1",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Mormon 1:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Mormon 1:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Mormon 1:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Mormon 1:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Mormon 1:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Mormon 1:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Mormon 1:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Mormon 1:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Mormon 1:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Mormon 1:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Mormon 1:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Mormon 1:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Mormon 1:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Mormon 1:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Mormon 1:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Mormon 1:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Mormon 1:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Mormon 1:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Mormon 1:19"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "reference": "Mormon 2",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Mormon 2:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Mormon 2:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Mormon 2:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Mormon 2:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Mormon 2:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Mormon 2:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Mormon 2:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Mormon 2:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Mormon 2:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Mormon 2:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Mormon 2:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Mormon 2:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Mormon 2:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Mormon 2:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Mormon 2:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Mormon 2:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Mormon 2:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Mormon 2:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Mormon 2:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Mormon 2:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Mormon 2:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Mormon 2:22"
+        },
+        {
+          "verse": 23,
+          "reference": "Mormon 2:23"
+        },
+        {
+          "verse": 24,
+          "reference": "Mormon 2:24"
+        },
+        {
+          "verse": 25,
+          "reference": "Mormon 2:25"
+        },
+        {
+          "verse": 26,
+          "reference": "Mormon 2:26"
+        },
+        {
+          "verse": 27,
+          "reference": "Mormon 2:27"
+        },
+        {
+          "verse": 28,
+          "reference": "Mormon 2:28"
+        },
+        {
+          "verse": 29,
+          "reference": "Mormon 2:29"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "reference": "Mormon 3",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Mormon 3:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Mormon 3:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Mormon 3:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Mormon 3:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Mormon 3:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Mormon 3:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Mormon 3:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Mormon 3:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Mormon 3:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Mormon 3:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Mormon 3:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Mormon 3:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Mormon 3:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Mormon 3:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Mormon 3:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Mormon 3:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Mormon 3:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Mormon 3:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Mormon 3:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Mormon 3:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Mormon 3:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Mormon 3:22"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "reference": "Mormon 4",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Mormon 4:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Mormon 4:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Mormon 4:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Mormon 4:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Mormon 4:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Mormon 4:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Mormon 4:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Mormon 4:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Mormon 4:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Mormon 4:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Mormon 4:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Mormon 4:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Mormon 4:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Mormon 4:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Mormon 4:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Mormon 4:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Mormon 4:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Mormon 4:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Mormon 4:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Mormon 4:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Mormon 4:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Mormon 4:22"
+        },
+        {
+          "verse": 23,
+          "reference": "Mormon 4:23"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "reference": "Mormon 5",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Mormon 5:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Mormon 5:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Mormon 5:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Mormon 5:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Mormon 5:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Mormon 5:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Mormon 5:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Mormon 5:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Mormon 5:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Mormon 5:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Mormon 5:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Mormon 5:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Mormon 5:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Mormon 5:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Mormon 5:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Mormon 5:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Mormon 5:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Mormon 5:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Mormon 5:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Mormon 5:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Mormon 5:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Mormon 5:22"
+        },
+        {
+          "verse": 23,
+          "reference": "Mormon 5:23"
+        },
+        {
+          "verse": 24,
+          "reference": "Mormon 5:24"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "reference": "Mormon 6",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Mormon 6:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Mormon 6:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Mormon 6:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Mormon 6:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Mormon 6:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Mormon 6:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Mormon 6:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Mormon 6:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Mormon 6:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Mormon 6:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Mormon 6:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Mormon 6:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Mormon 6:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Mormon 6:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Mormon 6:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Mormon 6:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Mormon 6:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Mormon 6:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Mormon 6:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Mormon 6:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Mormon 6:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Mormon 6:22"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "reference": "Mormon 7",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Mormon 7:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Mormon 7:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Mormon 7:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Mormon 7:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Mormon 7:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Mormon 7:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Mormon 7:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Mormon 7:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Mormon 7:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Mormon 7:10"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "reference": "Mormon 8",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Mormon 8:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Mormon 8:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Mormon 8:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Mormon 8:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Mormon 8:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Mormon 8:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Mormon 8:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Mormon 8:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Mormon 8:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Mormon 8:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Mormon 8:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Mormon 8:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Mormon 8:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Mormon 8:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Mormon 8:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Mormon 8:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Mormon 8:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Mormon 8:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Mormon 8:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Mormon 8:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Mormon 8:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Mormon 8:22"
+        },
+        {
+          "verse": 23,
+          "reference": "Mormon 8:23"
+        },
+        {
+          "verse": 24,
+          "reference": "Mormon 8:24"
+        },
+        {
+          "verse": 25,
+          "reference": "Mormon 8:25"
+        },
+        {
+          "verse": 26,
+          "reference": "Mormon 8:26"
+        },
+        {
+          "verse": 27,
+          "reference": "Mormon 8:27"
+        },
+        {
+          "verse": 28,
+          "reference": "Mormon 8:28"
+        },
+        {
+          "verse": 29,
+          "reference": "Mormon 8:29"
+        },
+        {
+          "verse": 30,
+          "reference": "Mormon 8:30"
+        },
+        {
+          "verse": 31,
+          "reference": "Mormon 8:31"
+        },
+        {
+          "verse": 32,
+          "reference": "Mormon 8:32"
+        },
+        {
+          "verse": 33,
+          "reference": "Mormon 8:33"
+        },
+        {
+          "verse": 34,
+          "reference": "Mormon 8:34"
+        },
+        {
+          "verse": 35,
+          "reference": "Mormon 8:35"
+        },
+        {
+          "verse": 36,
+          "reference": "Mormon 8:36"
+        },
+        {
+          "verse": 37,
+          "reference": "Mormon 8:37"
+        },
+        {
+          "verse": 38,
+          "reference": "Mormon 8:38"
+        },
+        {
+          "verse": 39,
+          "reference": "Mormon 8:39"
+        },
+        {
+          "verse": 40,
+          "reference": "Mormon 8:40"
+        },
+        {
+          "verse": 41,
+          "reference": "Mormon 8:41"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "reference": "Mormon 9",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Mormon 9:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Mormon 9:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Mormon 9:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Mormon 9:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Mormon 9:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Mormon 9:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Mormon 9:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Mormon 9:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Mormon 9:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Mormon 9:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Mormon 9:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Mormon 9:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Mormon 9:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Mormon 9:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Mormon 9:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Mormon 9:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Mormon 9:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Mormon 9:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Mormon 9:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Mormon 9:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Mormon 9:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Mormon 9:22"
+        },
+        {
+          "verse": 23,
+          "reference": "Mormon 9:23"
+        },
+        {
+          "verse": 24,
+          "reference": "Mormon 9:24"
+        },
+        {
+          "verse": 25,
+          "reference": "Mormon 9:25"
+        },
+        {
+          "verse": 26,
+          "reference": "Mormon 9:26"
+        },
+        {
+          "verse": 27,
+          "reference": "Mormon 9:27"
+        },
+        {
+          "verse": 28,
+          "reference": "Mormon 9:28"
+        },
+        {
+          "verse": 29,
+          "reference": "Mormon 9:29"
+        },
+        {
+          "verse": 30,
+          "reference": "Mormon 9:30"
+        },
+        {
+          "verse": 31,
+          "reference": "Mormon 9:31"
+        },
+        {
+          "verse": 32,
+          "reference": "Mormon 9:32"
+        },
+        {
+          "verse": 33,
+          "reference": "Mormon 9:33"
+        },
+        {
+          "verse": 34,
+          "reference": "Mormon 9:34"
+        },
+        {
+          "verse": 35,
+          "reference": "Mormon 9:35"
+        },
+        {
+          "verse": 36,
+          "reference": "Mormon 9:36"
+        },
+        {
+          "verse": 37,
+          "reference": "Mormon 9:37"
+        }
+      ]
+    }
+  ]
+}

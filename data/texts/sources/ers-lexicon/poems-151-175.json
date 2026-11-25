@@ -1,0 +1,255 @@
+{
+  "page": "Poems 151–175",
+  "postId": 254,
+  "url": "https://erslexicon.wordpress.com/poems-20-25/",
+  "published": "2014-11-18T22:39:02+00:00",
+  "modified": "2014-12-09T04:39:31+00:00",
+  "fetchedAt": "2026-09-26T03:43:28.518Z",
+  "count": 25,
+  "poems": [
+    {
+      "id": "151",
+      "number": 151,
+      "title": "To Mrs. Loisa Lyman",
+      "date": "n.d.",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 4,
+      "lineCount": 24
+    },
+    {
+      "id": "152",
+      "number": 152,
+      "title": "My Father in Heaven",
+      "subtitle": "[“O my Father”]",
+      "composed": "October 1845",
+      "published": "Times and Seasons, 15 November 1845",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 33
+    },
+    {
+      "id": "153",
+      "number": 153,
+      "title": "President Brigham Young and His Lady, Presidentess Mary Ann Young",
+      "composed": "7 January 1846",
+      "stanzaCount": 1,
+      "lineCount": 5
+    },
+    {
+      "id": "154",
+      "number": 154,
+      "title": "The Camp of Israel",
+      "composed": "19 February 1846",
+      "published": "Millennial Star, 15 May 1848",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 12,
+      "lineCount": 34
+    },
+    {
+      "id": "155",
+      "number": 155,
+      "title": "Song for the Camp of Israel",
+      "composed": "1 March 1846",
+      "published": "Millennial Star, 1 July 1848",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 4,
+      "lineCount": 32
+    },
+    {
+      "id": "156",
+      "number": 156,
+      "title": "Song for the Camp of Israel",
+      "subtitle": "Let Us Go",
+      "composed": "22 March 1846",
+      "published": "Millennial Star, 1 June 1848",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 33
+    },
+    {
+      "id": "157",
+      "number": 157,
+      "title": "In All Things Rejoice",
+      "composed": "5 April 1846",
+      "published": "Poems 1, 1856",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 3,
+      "lineCount": 24
+    },
+    {
+      "id": "158",
+      "number": 158,
+      "title": "To Mrs. V. Kimball",
+      "composed": "25 April 1846",
+      "published": "Poems 1, 1856",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "159",
+      "number": 159,
+      "title": "Lines",
+      "subtitle": "Addressed to Father John Smith, a Patriarch in Zion",
+      "composed": "ca. 22 October 1846",
+      "published": "Millennial Star, 1 September 1848",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 33
+    },
+    {
+      "id": "160",
+      "number": 160,
+      "title": "To Mrs. Hester Ann Geen",
+      "subtitle": "on the Death of Her Husband, Elder William Geen",
+      "composed": "ca. 25 October 1846",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 6,
+      "lineCount": 25
+    },
+    {
+      "id": "161",
+      "number": 161,
+      "title": "“Belov’d Eliza, do not weep”",
+      "composed": "14 December 1846",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 4,
+      "lineCount": 16
+    },
+    {
+      "id": "162",
+      "number": 162,
+      "title": "“They are gone—they are gone to a kingdom of rest”",
+      "composed": "22 December 1846",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 3,
+      "lineCount": 13
+    },
+    {
+      "id": "163",
+      "number": 163,
+      "title": "Lines",
+      "subtitle": "on the Death of Three Small Children of W. & P. Woodruff Written by Her Request",
+      "composed": "11 January 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 6,
+      "lineCount": 26
+    },
+    {
+      "id": "164",
+      "number": 164,
+      "title": "To All the Ladies Who Reside",
+      "subtitle": "in the 2d Mansion of Prest. B. Young",
+      "composed": "26 January 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 33
+    },
+    {
+      "id": "165",
+      "number": 165,
+      "title": "To Charles and Vilate",
+      "composed": "4 February 1847",
+      "published": "Poems 1, 1856",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 4,
+      "lineCount": 16
+    },
+    {
+      "id": "166",
+      "number": 166,
+      "title": "Acrostic for Anna Geen",
+      "composed": "4 March 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 3,
+      "lineCount": 12
+    },
+    {
+      "id": "167",
+      "number": 167,
+      "title": "Lines for the Album of Mrs. Margarett Whitesides",
+      "composed": "4 March 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 4,
+      "lineCount": 17
+    },
+    {
+      "id": "168",
+      "number": 168,
+      "title": "Composed for Mrs. Patty Sessions",
+      "composed": "7 March 1847",
+      "published": "Woman’s Exponent, 1 June 1885",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "169",
+      "number": 169,
+      "title": "Lines for Mrs. Wooley’s Album",
+      "composed": "8 March 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "170",
+      "number": 170,
+      "title": "To Br. Robert Pierce & Family",
+      "subtitle": "on the Death of Mary",
+      "composed": "17 March 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 7,
+      "lineCount": 29
+    },
+    {
+      "id": "171",
+      "number": 171,
+      "title": "A Journeying Song",
+      "subtitle": "for the Camp of Israel",
+      "composed": "18 March 1847",
+      "published": "Millennial Star, 1 November 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 26,
+      "lineCount": 70
+    },
+    {
+      "id": "172",
+      "number": 172,
+      "title": "“Round the grave there are no shadows”",
+      "composed": "5 April 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 7,
+      "lineCount": 29
+    },
+    {
+      "id": "173",
+      "number": 173,
+      "title": "The Twelve",
+      "composed": "11 April 1847",
+      "published": "Poems 1, 1856",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "174",
+      "number": 174,
+      "title": "To Mrs. E. A. W.",
+      "composed": "13 April 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 4,
+      "lineCount": 16
+    },
+    {
+      "id": "175",
+      "number": 175,
+      "title": "To the Saints in Great Britain",
+      "composed": "23 April 1847",
+      "published": "Millennial Star, 15 December 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 32
+    }
+  ]
+}

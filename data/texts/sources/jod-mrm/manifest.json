@@ -1,0 +1,189 @@
+{
+  "source": "https://jod.mrm.org",
+  "generatedAt": "2026-07-16T21:25:12.758Z",
+  "totalDiscourses": 1426,
+  "volumes": [
+    {
+      "volume": 1,
+      "discourses": 54,
+      "ok": 54,
+      "errors": 0,
+      "file": "vol-01.json"
+    },
+    {
+      "volume": 2,
+      "discourses": 56,
+      "ok": 56,
+      "errors": 0,
+      "file": "vol-02.json"
+    },
+    {
+      "volume": 3,
+      "discourses": 51,
+      "ok": 51,
+      "errors": 0,
+      "file": "vol-03.json"
+    },
+    {
+      "volume": 4,
+      "discourses": 70,
+      "ok": 70,
+      "errors": 0,
+      "file": "vol-04.json"
+    },
+    {
+      "volume": 5,
+      "discourses": 62,
+      "ok": 62,
+      "errors": 0,
+      "file": "vol-05.json"
+    },
+    {
+      "volume": 6,
+      "discourses": 66,
+      "ok": 66,
+      "errors": 0,
+      "file": "vol-06.json"
+    },
+    {
+      "volume": 7,
+      "discourses": 58,
+      "ok": 58,
+      "errors": 0,
+      "file": "vol-07.json"
+    },
+    {
+      "volume": 8,
+      "discourses": 91,
+      "ok": 91,
+      "errors": 0,
+      "file": "vol-08.json"
+    },
+    {
+      "volume": 9,
+      "discourses": 76,
+      "ok": 76,
+      "errors": 0,
+      "file": "vol-09.json"
+    },
+    {
+      "volume": 10,
+      "discourses": 68,
+      "ok": 68,
+      "errors": 0,
+      "file": "vol-10.json"
+    },
+    {
+      "volume": 11,
+      "discourses": 56,
+      "ok": 56,
+      "errors": 0,
+      "file": "vol-11.json"
+    },
+    {
+      "volume": 12,
+      "discourses": 69,
+      "ok": 69,
+      "errors": 0,
+      "file": "vol-12.json"
+    },
+    {
+      "volume": 13,
+      "discourses": 47,
+      "ok": 47,
+      "errors": 0,
+      "file": "vol-13.json"
+    },
+    {
+      "volume": 14,
+      "discourses": 49,
+      "ok": 49,
+      "errors": 0,
+      "file": "vol-14.json"
+    },
+    {
+      "volume": 15,
+      "discourses": 46,
+      "ok": 46,
+      "errors": 0,
+      "file": "vol-15.json"
+    },
+    {
+      "volume": 16,
+      "discourses": 46,
+      "ok": 46,
+      "errors": 0,
+      "file": "vol-16.json"
+    },
+    {
+      "volume": 17,
+      "discourses": 50,
+      "ok": 50,
+      "errors": 0,
+      "file": "vol-17.json"
+    },
+    {
+      "volume": 18,
+      "discourses": 48,
+      "ok": 48,
+      "errors": 0,
+      "file": "vol-18.json"
+    },
+    {
+      "volume": 19,
+      "discourses": 53,
+      "ok": 53,
+      "errors": 0,
+      "file": "vol-19.json"
+    },
+    {
+      "volume": 20,
+      "discourses": 48,
+      "ok": 48,
+      "errors": 0,
+      "file": "vol-20.json"
+    },
+    {
+      "volume": 21,
+      "discourses": 41,
+      "ok": 41,
+      "errors": 0,
+      "file": "vol-21.json"
+    },
+    {
+      "volume": 22,
+      "discourses": 51,
+      "ok": 51,
+      "errors": 0,
+      "file": "vol-22.json"
+    },
+    {
+      "volume": 23,
+      "discourses": 43,
+      "ok": 43,
+      "errors": 0,
+      "file": "vol-23.json"
+    },
+    {
+      "volume": 24,
+      "discourses": 44,
+      "ok": 44,
+      "errors": 0,
+      "file": "vol-24.json"
+    },
+    {
+      "volume": 25,
+      "discourses": 43,
+      "ok": 43,
+      "errors": 0,
+      "file": "vol-25.json"
+    },
+    {
+      "volume": 26,
+      "discourses": 40,
+      "ok": 40,
+      "errors": 0,
+      "file": "vol-26.json"
+    }
+  ]
+}

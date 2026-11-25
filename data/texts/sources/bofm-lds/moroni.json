@@ -1,0 +1,720 @@
+{
+  "book": "Moroni",
+  "full_title": "The Book of Moroni",
+  "lds_slug": "moro",
+  "chapters": [
+    {
+      "chapter": 1,
+      "reference": "Moroni 1",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Moroni 1:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Moroni 1:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Moroni 1:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Moroni 1:4"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "reference": "Moroni 2",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Moroni 2:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Moroni 2:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Moroni 2:3"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "reference": "Moroni 3",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Moroni 3:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Moroni 3:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Moroni 3:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Moroni 3:4"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "reference": "Moroni 4",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Moroni 4:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Moroni 4:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Moroni 4:3"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "reference": "Moroni 5",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Moroni 5:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Moroni 5:2"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "reference": "Moroni 6",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Moroni 6:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Moroni 6:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Moroni 6:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Moroni 6:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Moroni 6:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Moroni 6:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Moroni 6:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Moroni 6:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Moroni 6:9"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "reference": "Moroni 7",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Moroni 7:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Moroni 7:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Moroni 7:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Moroni 7:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Moroni 7:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Moroni 7:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Moroni 7:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Moroni 7:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Moroni 7:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Moroni 7:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Moroni 7:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Moroni 7:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Moroni 7:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Moroni 7:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Moroni 7:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Moroni 7:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Moroni 7:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Moroni 7:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Moroni 7:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Moroni 7:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Moroni 7:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Moroni 7:22"
+        },
+        {
+          "verse": 23,
+          "reference": "Moroni 7:23"
+        },
+        {
+          "verse": 24,
+          "reference": "Moroni 7:24"
+        },
+        {
+          "verse": 25,
+          "reference": "Moroni 7:25"
+        },
+        {
+          "verse": 26,
+          "reference": "Moroni 7:26"
+        },
+        {
+          "verse": 27,
+          "reference": "Moroni 7:27"
+        },
+        {
+          "verse": 28,
+          "reference": "Moroni 7:28"
+        },
+        {
+          "verse": 29,
+          "reference": "Moroni 7:29"
+        },
+        {
+          "verse": 30,
+          "reference": "Moroni 7:30"
+        },
+        {
+          "verse": 31,
+          "reference": "Moroni 7:31"
+        },
+        {
+          "verse": 32,
+          "reference": "Moroni 7:32"
+        },
+        {
+          "verse": 33,
+          "reference": "Moroni 7:33"
+        },
+        {
+          "verse": 34,
+          "reference": "Moroni 7:34"
+        },
+        {
+          "verse": 35,
+          "reference": "Moroni 7:35"
+        },
+        {
+          "verse": 36,
+          "reference": "Moroni 7:36"
+        },
+        {
+          "verse": 37,
+          "reference": "Moroni 7:37"
+        },
+        {
+          "verse": 38,
+          "reference": "Moroni 7:38"
+        },
+        {
+          "verse": 39,
+          "reference": "Moroni 7:39"
+        },
+        {
+          "verse": 40,
+          "reference": "Moroni 7:40"
+        },
+        {
+          "verse": 41,
+          "reference": "Moroni 7:41"
+        },
+        {
+          "verse": 42,
+          "reference": "Moroni 7:42"
+        },
+        {
+          "verse": 43,
+          "reference": "Moroni 7:43"
+        },
+        {
+          "verse": 44,
+          "reference": "Moroni 7:44"
+        },
+        {
+          "verse": 45,
+          "reference": "Moroni 7:45"
+        },
+        {
+          "verse": 46,
+          "reference": "Moroni 7:46"
+        },
+        {
+          "verse": 47,
+          "reference": "Moroni 7:47"
+        },
+        {
+          "verse": 48,
+          "reference": "Moroni 7:48"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "reference": "Moroni 8",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Moroni 8:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Moroni 8:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Moroni 8:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Moroni 8:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Moroni 8:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Moroni 8:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Moroni 8:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Moroni 8:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Moroni 8:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Moroni 8:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Moroni 8:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Moroni 8:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Moroni 8:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Moroni 8:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Moroni 8:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Moroni 8:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Moroni 8:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Moroni 8:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Moroni 8:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Moroni 8:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Moroni 8:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Moroni 8:22"
+        },
+        {
+          "verse": 23,
+          "reference": "Moroni 8:23"
+        },
+        {
+          "verse": 24,
+          "reference": "Moroni 8:24"
+        },
+        {
+          "verse": 25,
+          "reference": "Moroni 8:25"
+        },
+        {
+          "verse": 26,
+          "reference": "Moroni 8:26"
+        },
+        {
+          "verse": 27,
+          "reference": "Moroni 8:27"
+        },
+        {
+          "verse": 28,
+          "reference": "Moroni 8:28"
+        },
+        {
+          "verse": 29,
+          "reference": "Moroni 8:29"
+        },
+        {
+          "verse": 30,
+          "reference": "Moroni 8:30"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "reference": "Moroni 9",
+      "heading": "The second epistle of Mormon to his son Moroni.",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Moroni 9:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Moroni 9:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Moroni 9:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Moroni 9:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Moroni 9:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Moroni 9:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Moroni 9:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Moroni 9:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Moroni 9:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Moroni 9:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Moroni 9:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Moroni 9:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Moroni 9:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Moroni 9:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Moroni 9:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Moroni 9:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Moroni 9:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Moroni 9:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Moroni 9:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Moroni 9:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Moroni 9:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Moroni 9:22"
+        },
+        {
+          "verse": 23,
+          "reference": "Moroni 9:23"
+        },
+        {
+          "verse": 24,
+          "reference": "Moroni 9:24"
+        },
+        {
+          "verse": 25,
+          "reference": "Moroni 9:25"
+        },
+        {
+          "verse": 26,
+          "reference": "Moroni 9:26"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "reference": "Moroni 10",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Moroni 10:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Moroni 10:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Moroni 10:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Moroni 10:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Moroni 10:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Moroni 10:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Moroni 10:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Moroni 10:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Moroni 10:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Moroni 10:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Moroni 10:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Moroni 10:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Moroni 10:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Moroni 10:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Moroni 10:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Moroni 10:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Moroni 10:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Moroni 10:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Moroni 10:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Moroni 10:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Moroni 10:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Moroni 10:22"
+        },
+        {
+          "verse": 23,
+          "reference": "Moroni 10:23"
+        },
+        {
+          "verse": 24,
+          "reference": "Moroni 10:24"
+        },
+        {
+          "verse": 25,
+          "reference": "Moroni 10:25"
+        },
+        {
+          "verse": 26,
+          "reference": "Moroni 10:26"
+        },
+        {
+          "verse": 27,
+          "reference": "Moroni 10:27"
+        },
+        {
+          "verse": 28,
+          "reference": "Moroni 10:28"
+        },
+        {
+          "verse": 29,
+          "reference": "Moroni 10:29"
+        },
+        {
+          "verse": 30,
+          "reference": "Moroni 10:30"
+        },
+        {
+          "verse": 31,
+          "reference": "Moroni 10:31"
+        },
+        {
+          "verse": 32,
+          "reference": "Moroni 10:32"
+        },
+        {
+          "verse": 33,
+          "reference": "Moroni 10:33"
+        },
+        {
+          "verse": 34,
+          "reference": "Moroni 10:34"
+        }
+      ]
+    }
+  ]
+}

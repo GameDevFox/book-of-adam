@@ -1,0 +1,8 @@
+{
+  "editionId": "kjv-apocrypha",
+  "sourceRepo": "scrollmapper/bible_databases",
+  "sourceRef": "e1b254cef86d0e65b1a5d1a94b8b112d0f296a2c",
+  "sourceFile": "formats/json/KJVA.json",
+  "translation": "KJVA: King James Version (1769) with Strongs Numbers and Morphology and CatchWords, including Apocrypha (without glosses)",
+  "books": 14
+}

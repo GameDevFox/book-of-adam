@@ -1,0 +1,240 @@
+{
+  "page": "Poems 451–475",
+  "postId": 289,
+  "url": "https://erslexicon.wordpress.com/poems-451-475/",
+  "published": "2014-11-18T22:51:20+00:00",
+  "modified": "2014-12-16T04:22:35+00:00",
+  "fetchedAt": "2026-09-26T03:43:28.542Z",
+  "count": 25,
+  "poems": [
+    {
+      "id": "451",
+      "number": 451,
+      "title": "Apostrophe to Jerusalem",
+      "composed": "4 March 1873",
+      "published": "Woman’s Exponent, 15 January 1874",
+      "stanzaCount": 23,
+      "lineCount": 89
+    },
+    {
+      "id": "452",
+      "number": 452,
+      "title": "At the Sea of Galilee",
+      "composed": "17 March 1873",
+      "published": "Woman’s Exponent, 1 July 1873",
+      "stanzaCount": 11,
+      "lineCount": 41
+    },
+    {
+      "id": "453",
+      "number": 453,
+      "title": "“We’ve sailed on many an ocean”",
+      "composed": "4 June 1873",
+      "published": "Woman’s Exponent, 1 July 1873",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "454",
+      "number": 454,
+      "title": "“Our former, loved associates”",
+      "composed": "20 June 1873",
+      "published": "Woman’s Exponent, 1 August 1873",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "455",
+      "number": 455,
+      "title": "The World’s Jubilee",
+      "published": "Juvenile Instructor, 20 June 1874",
+      "stanzaCount": 4,
+      "lineCount": 29
+    },
+    {
+      "id": "456",
+      "number": 456,
+      "title": "To Miss C. Cobb",
+      "date": "n.d.",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "457",
+      "number": 457,
+      "title": "Welcome",
+      "subtitle": "to Our Delegate, Hon. George Q. Cannon",
+      "composed": "ca. 15 July 1874",
+      "published": "Woman’s Exponent, 1 August 1874",
+      "stanzaCount": 5,
+      "lineCount": 49
+    },
+    {
+      "id": "458",
+      "number": 458,
+      "title": "Parting Lines",
+      "subtitle": "to Mrs. Harriet Gray, of Petersborough, N. H.",
+      "composed": "2 August 1874",
+      "published": "Woman’s Exponent, 1 November 1874",
+      "stanzaCount": 4,
+      "lineCount": 16
+    },
+    {
+      "id": "459",
+      "number": 459,
+      "title": "A Jubilee Poem",
+      "subtitle": "for the 24th of July, 1875",
+      "composed": "ca. 24 July 1875",
+      "published": "Deseret News, 28 July 1875",
+      "stanzaCount": 12,
+      "lineCount": 96
+    },
+    {
+      "id": "460",
+      "number": 460,
+      "title": "President George A. Smith",
+      "composed": "11 September 1875",
+      "published": "Woman’s Exponent, 15 September 1875",
+      "stanzaCount": 7,
+      "lineCount": 50
+    },
+    {
+      "id": "461",
+      "number": 461,
+      "title": "Hints at Matters of Fact in Utah",
+      "composed": "1876",
+      "published": "Poems 2, 1877",
+      "stanzaCount": 6,
+      "lineCount": 48
+    },
+    {
+      "id": "462",
+      "number": 462,
+      "title": "Temple Song",
+      "subtitle": "[“Hark, hark! angelic minstrels sing”]",
+      "published": "Woman’s Exponent, 15 February 1877",
+      "stanzaCount": 9,
+      "lineCount": 40
+    },
+    {
+      "id": "463",
+      "number": 463,
+      "title": "Psalm",
+      "subtitle": "For the Twenty-fourth of July, 1877 Written for Master Anderson, by E. R. Snow",
+      "composed": "ca. 24 July 1877",
+      "published": "Woman’s Exponent, 15 August 1877",
+      "stanzaCount": 17,
+      "lineCount": 34
+    },
+    {
+      "id": "464",
+      "number": 464,
+      "title": "Funeral of President Brigham Young",
+      "subtitle": "The Death of President Brigham Young Occurred on the 29th of Aug. 1877, Two Months after the Foregoing Manuscript [Poems 2 (1877)] Was Sent to Press",
+      "composed": "September 1877",
+      "published": "Poems 2, 1877",
+      "stanzaCount": 14,
+      "lineCount": 101
+    },
+    {
+      "id": "465",
+      "number": 465,
+      "title": "Personification of Truth, Error, Etc.",
+      "subtitle": "An Epic Poem in Five Chapters",
+      "published": "Poems 2, 1877",
+      "stanzaCount": 182,
+      "lineCount": 1863
+    },
+    {
+      "id": "466",
+      "number": 466,
+      "title": "Lines",
+      "subtitle": "Addressed to Elder John Nicholson, Previous to His Departure on a Mission to Europe",
+      "published": "Woman’s Exponent, 15 August 1878",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 40
+    },
+    {
+      "id": "467",
+      "number": 467,
+      "title": "In Memoriam",
+      "subtitle": "Tribute of Respect to the Memory of the Late Elder Orson Hyde, One of the Apostles of The Church of Jesus Christ of Latter-day Saints Respectfully Inscribed to His Bereaved Family",
+      "composed": "9 December 1878",
+      "published": "Deseret News, 25 December 1878",
+      "stanzaCount": 7,
+      "lineCount": 28
+    },
+    {
+      "id": "468",
+      "number": 468,
+      "title": "Decision",
+      "subtitle": "of the Supreme Court of the United States in the Reynolds Case",
+      "composed": "January 1879",
+      "published": "Deseret News, 21 January 1879",
+      "stanzaCount": 15,
+      "lineCount": 30
+    },
+    {
+      "id": "469",
+      "number": 469,
+      "title": "Natal",
+      "composed": "ca. 2 February 1879",
+      "stanzaCount": 4,
+      "lineCount": 16
+    },
+    {
+      "id": "470",
+      "number": 470,
+      "title": "Clifton Rossiter",
+      "subtitle": "Respt’ly Inscribed to Its Parents",
+      "dated": "11 March 1879",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "471",
+      "number": 471,
+      "title": "“May we onward and upward”",
+      "composed": "ca. 3 April 1879",
+      "published": "Biography and Family Records of Lorenzo Snow, 1884",
+      "stanzaCount": 1,
+      "lineCount": 4
+    },
+    {
+      "id": "472",
+      "number": 472,
+      "title": "Song",
+      "subtitle": "for the Laying of the Corner Stones of the Manti Temple",
+      "composed": "ca. 14 April 1879",
+      "published": "Deseret News, 7 May 1879",
+      "stanzaCount": 11,
+      "lineCount": 29
+    },
+    {
+      "id": "473",
+      "number": 473,
+      "title": "Life",
+      "composed": "1870s",
+      "published": "Young Woman’s Journal, April 1890",
+      "stanzaCount": 3,
+      "lineCount": 24
+    },
+    {
+      "id": "474",
+      "number": 474,
+      "title": "[To Elizabeth H. Goddard]",
+      "composed": "21 April 1879",
+      "stanzaCount": 1,
+      "lineCount": 4
+    },
+    {
+      "id": "475",
+      "number": 475,
+      "title": "In Memory of Elizabeth F. L. Thomas",
+      "composed": "ca. 22 April 1880",
+      "stanzaCount": 1,
+      "lineCount": 2
+    }
+  ]
+}

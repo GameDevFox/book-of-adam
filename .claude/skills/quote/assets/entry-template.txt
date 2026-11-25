@@ -1,0 +1,16 @@
+
+---
+
+## {n}. {heading}
+
+*Source: {source}*
+
+"{quote}"
+
+{citation}
+
+Short cite: {short_cite}
+
+### Notes
+
+{notes}

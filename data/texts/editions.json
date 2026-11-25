@@ -1,0 +1,360 @@
+[
+  {
+    "id": "bofm-1830",
+    "workId": "book-of-mormon",
+    "title": "Book of Mormon (1830, Palmyra)",
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1830,
+        "month": 3,
+        "day": 26
+      }
+    },
+    "licence": "public-domain",
+    "heldBack": "Only 1 Nephi chapter 1 imported so far — kept off the public site until the edition is complete.",
+    "provenance": "Wikisource proofread transcription of the 1830 first edition (E. B. Grandin), established from the bookofmormonacco1830smit scan. Chapters contain prose paragraphs; the 1830 edition has no verses.",
+    "contents": [
+      "first-nephi"
+    ],
+    "sources": [
+      {
+        "label": "Wikisource (1830)",
+        "url": "https://en.wikisource.org/wiki/Book_of_Mormon_(1830)/1_Nephi/Chapter_1"
+      }
+    ]
+  },
+  {
+    "id": "bofm-pg17",
+    "workId": "book-of-mormon",
+    "title": "Book of Mormon (versified, PG #17)",
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1920,
+        "circa": true
+      },
+      "note": "Edition basis unstated by Project Gutenberg; the text is versified (1879 apparatus) and its readings match the 1920 edition."
+    },
+    "licence": "public-domain",
+    "heldBack": "Only 1 Nephi chapter 1 imported so far — kept off the public site until the edition is complete.",
+    "provenance": "Project Gutenberg eBook #17 plain text; edition basis unstated (readings match the 1920 edition).",
+    "contents": [
+      "1-nephi"
+    ],
+    "sources": [
+      {
+        "label": "Project Gutenberg #17",
+        "url": "https://www.gutenberg.org/ebooks/17"
+      }
+    ]
+  },
+  {
+    "id": "jod-mrm",
+    "workId": "journal-of-discourses",
+    "title": "Journal of Discourses (jod.mrm.org)",
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 1854
+      },
+      "end": {
+        "year": 1886
+      },
+      "note": "Discourses delivered 1851–1886; the original 26-volume edition was published at Liverpool 1854–1886. Text from the jod.mrm.org digital transcription."
+    },
+    "licence": "public-domain",
+    "provenance": "Digital transcription from jod.mrm.org (Mormonism Research Ministry); paragraphs captured verbatim by scripts/download-jod.mjs. Source #1 for a planned multi-source diff.",
+    "contents": [
+      "volume-01",
+      "volume-02",
+      "volume-03",
+      "volume-04",
+      "volume-05",
+      "volume-06",
+      "volume-07",
+      "volume-08",
+      "volume-09",
+      "volume-10",
+      "volume-11",
+      "volume-12",
+      "volume-13",
+      "volume-14",
+      "volume-15",
+      "volume-16",
+      "volume-17",
+      "volume-18",
+      "volume-19",
+      "volume-20",
+      "volume-21",
+      "volume-22",
+      "volume-23",
+      "volume-24",
+      "volume-25",
+      "volume-26"
+    ],
+    "sources": [
+      {
+        "label": "jod.mrm.org",
+        "url": "https://jod.mrm.org/"
+      }
+    ]
+  },
+  {
+    "id": "bofm-lds",
+    "workId": "book-of-mormon",
+    "title": "Book of Mormon (LDS, current text)",
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1920
+      },
+      "note": "Current LDS versification (standardized 1920); the verse text itself is public domain."
+    },
+    "licence": "public-domain",
+    "provenance": "Full text from the bcbooks/scriptures-json dataset (current LDS versification). Public-domain verse text and original abridgment headnotes only — modern copyrighted footnotes and chapter summaries are excluded.",
+    "sources": [
+      {
+        "label": "bcbooks/scriptures-json",
+        "url": "https://github.com/bcbooks/scriptures-json"
+      }
+    ],
+    "contents": [
+      "title-page",
+      "witnesses",
+      "1-nephi",
+      "2-nephi",
+      "jacob",
+      "enos",
+      "jarom",
+      "omni",
+      "words-of-mormon",
+      "mosiah",
+      "alma",
+      "helaman",
+      "3-nephi",
+      "4-nephi",
+      "mormon",
+      "ether",
+      "moroni"
+    ]
+  },
+  {
+    "id": "dc-lds",
+    "workId": "doctrine-and-covenants",
+    "title": "Doctrine and Covenants (LDS, current text)",
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 1835
+      },
+      "end": {
+        "year": 1981
+      },
+      "note": "First published Kirtland, Ohio, 1835; current LDS section/verse arrangement (versified 1876, 1981 edition). The revelation text is public domain."
+    },
+    "licence": "public-domain",
+    "provenance": "Full text from the bcbooks/scriptures-json dataset (current LDS versification, 138 sections). Public-domain revelation text; the dataset carries no modern section summaries or footnotes.",
+    "sources": [
+      {
+        "label": "bcbooks/scriptures-json",
+        "url": "https://github.com/bcbooks/scriptures-json"
+      }
+    ],
+    "contents": [
+      "doctrine-and-covenants"
+    ]
+  },
+  {
+    "id": "pgp-lds",
+    "workId": "pearl-of-great-price",
+    "title": "Pearl of Great Price (LDS, current text)",
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1851
+      },
+      "note": "First compiled Liverpool, 1851; current LDS edition arrangement. Public-domain text."
+    },
+    "licence": "public-domain",
+    "provenance": "Full text from the bcbooks/scriptures-json dataset (current LDS versification). Public-domain text; no modern study apparatus.",
+    "sources": [
+      {
+        "label": "bcbooks/scriptures-json",
+        "url": "https://github.com/bcbooks/scriptures-json"
+      }
+    ],
+    "contents": [
+      "moses",
+      "abraham",
+      "joseph-smith-matthew",
+      "joseph-smith-history",
+      "articles-of-faith"
+    ]
+  },
+  {
+    "id": "kjv",
+    "workId": "bible",
+    "title": "King James Version (1769)",
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1769
+      },
+      "note": "Benjamin Blayney's 1769 standardized text of the 1611 Authorized Version. Public domain."
+    },
+    "licence": "public-domain",
+    "provenance": "Old and New Testaments from the bcbooks/scriptures-json dataset (King James Version). Public domain.",
+    "sources": [
+      {
+        "label": "bcbooks/scriptures-json",
+        "url": "https://github.com/bcbooks/scriptures-json"
+      }
+    ],
+    "contents": [
+      "genesis",
+      "exodus",
+      "leviticus",
+      "numbers",
+      "deuteronomy",
+      "joshua",
+      "judges",
+      "ruth",
+      "1-samuel",
+      "2-samuel",
+      "1-kings",
+      "2-kings",
+      "1-chronicles",
+      "2-chronicles",
+      "ezra",
+      "nehemiah",
+      "esther",
+      "job",
+      "psalms",
+      "proverbs",
+      "ecclesiastes",
+      "solomon-s-song",
+      "isaiah",
+      "jeremiah",
+      "lamentations",
+      "ezekiel",
+      "daniel",
+      "hosea",
+      "joel",
+      "amos",
+      "obadiah",
+      "jonah",
+      "micah",
+      "nahum",
+      "habakkuk",
+      "zephaniah",
+      "haggai",
+      "zechariah",
+      "malachi",
+      "matthew",
+      "mark",
+      "luke",
+      "john",
+      "acts",
+      "romans",
+      "1-corinthians",
+      "2-corinthians",
+      "galatians",
+      "ephesians",
+      "philippians",
+      "colossians",
+      "1-thessalonians",
+      "2-thessalonians",
+      "1-timothy",
+      "2-timothy",
+      "titus",
+      "philemon",
+      "hebrews",
+      "james",
+      "1-peter",
+      "2-peter",
+      "1-john",
+      "2-john",
+      "3-john",
+      "jude",
+      "revelation"
+    ]
+  },
+  {
+    "id": "kjv-apocrypha",
+    "workId": "apocrypha",
+    "title": "Apocrypha (KJV, 1611)",
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1611
+      },
+      "note": "The fourteen books of the Apocrypha as printed in the 1611 Authorized Version (Blayney's 1769 text). Public domain."
+    },
+    "licence": "public-domain",
+    "provenance": "The fourteen books of the Apocrypha from the scrollmapper/bible_databases KJVA dataset (King James Version, glosses removed). Public domain.",
+    "contents": [
+      "i-esdras",
+      "ii-esdras",
+      "tobit",
+      "judith",
+      "additions-to-esther",
+      "wisdom",
+      "sirach",
+      "baruch",
+      "prayer-of-azariah",
+      "susanna",
+      "bel-and-the-dragon",
+      "prayer-of-manasses",
+      "i-maccabees",
+      "ii-maccabees"
+    ],
+    "sources": [
+      {
+        "label": "scrollmapper/bible_databases",
+        "url": "https://github.com/scrollmapper/bible_databases"
+      }
+    ]
+  },
+  {
+    "id": "ers-lexicon",
+    "workId": "eliza-r-snow-poems",
+    "title": "Eliza R. Snow: The Complete Poetry (erslexicon.wordpress.com)",
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 2009
+      },
+      "note": "The poems themselves appeared 1825–1887; this text follows the 2009 Derr & Davidson edition as posted (with permission) on the Eliza R. Snow Lexicon site."
+    },
+    "licence": "public-domain",
+    "provenance": "Scraped from erslexicon.wordpress.com (BYU student lexicon project) by scripts/build-ers-poems.mjs; the site reproduces Derr & Davidson 2009. Poem text is public domain by age; the edition's editorial line numbers are stripped, its bracketed insertions and publication notes kept. Poems 351–375 are placeholder text on the site and have no content here.",
+    "contents": [
+      "poems-001-025",
+      "poems-026-050",
+      "poems-051-075",
+      "poems-076-100",
+      "poems-101-125",
+      "poems-126-150",
+      "poems-151-175",
+      "poems-176-200",
+      "poems-201-225",
+      "poems-226-250",
+      "poems-251-275",
+      "poems-276-300",
+      "poems-301-325",
+      "poems-326-350",
+      "poems-376-400",
+      "poems-401-425",
+      "poems-426-450",
+      "poems-451-475",
+      "poems-476-507"
+    ],
+    "sources": [
+      {
+        "label": "Eliza R. Snow Lexicon — Poems",
+        "url": "https://erslexicon.wordpress.com/poems/"
+      }
+    ]
+  }
+]

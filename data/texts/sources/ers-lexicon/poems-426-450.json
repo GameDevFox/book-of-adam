@@ -1,0 +1,237 @@
+{
+  "page": "Poems 426–450",
+  "postId": 287,
+  "url": "https://erslexicon.wordpress.com/poems-426-450/",
+  "published": "2014-11-18T22:50:56+00:00",
+  "modified": "2014-12-16T04:45:17+00:00",
+  "fetchedAt": "2026-09-26T03:43:28.537Z",
+  "count": 25,
+  "poems": [
+    {
+      "id": "426",
+      "number": 426,
+      "title": "A Winter Soliloquy",
+      "published": "Poems 2, 1877",
+      "stanzaCount": 5,
+      "lineCount": 35
+    },
+    {
+      "id": "427",
+      "number": 427,
+      "title": "Whom I Pity",
+      "published": "Poems 2, 1877",
+      "stanzaCount": 5,
+      "lineCount": 44
+    },
+    {
+      "id": "428",
+      "number": 428,
+      "title": "Eloquence",
+      "subtitle": "[expanded version]",
+      "published": "Poems 2, 1877",
+      "stanzaCount": 8,
+      "lineCount": 65
+    },
+    {
+      "id": "429",
+      "number": 429,
+      "title": "A Tribute",
+      "subtitle": "to Mrs. Elizabeth Goddard on the Anniversary of Her Birthday",
+      "composed": "17 March 1871",
+      "published": "Deseret News, 24 March 1871",
+      "stanzaCount": 7,
+      "lineCount": 44
+    },
+    {
+      "id": "430",
+      "number": 430,
+      "title": "We Are, We Were and Are to Be",
+      "composed": "May 1871",
+      "published": "Deseret News, 24 May 1871",
+      "stanzaCount": 8,
+      "lineCount": 120
+    },
+    {
+      "id": "431",
+      "number": 431,
+      "title": "Sacramental Hymn",
+      "subtitle": "[“Again we meet around the board”]",
+      "published": "Millennial Star, 13 June 1871",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "432",
+      "number": 432,
+      "title": "Hymn of Praise",
+      "subtitle": "[“Great Source of Good—our Father God”]",
+      "composed": "ca. 24 July 1871",
+      "published": "Woman’s Exponent, 1 August 1881",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "433",
+      "number": 433,
+      "title": "Sacramental Hymn",
+      "subtitle": "[“How great the wisdom and the love”]",
+      "published": "Sacred Hymns and Spiritual Songs, 1871",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "434",
+      "number": 434,
+      "title": "Hymn",
+      "subtitle": "[“Behold the great Redeemer die”]",
+      "published": "Sacred Hymns and Spiritual Songs, 1871",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "435",
+      "number": 435,
+      "title": "A Voice from Utah",
+      "composed": "October 1871",
+      "published": "Deseret News, 18 October 1871",
+      "stanzaCount": 8,
+      "lineCount": 48
+    },
+    {
+      "id": "436",
+      "number": 436,
+      "title": "A Tribute of Love and Respect",
+      "subtitle": "to Our Much Beloved Sister Brown for the Occasion of the Celebration of Her Birthday",
+      "composed": "4 January 1872",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "437",
+      "number": 437,
+      "title": "Sacred to the Memory",
+      "subtitle": "of Our Beloved Sister, Mrs. Matilda Casper",
+      "published": "Woman’s Exponent, 15 June 1872",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "438",
+      "number": 438,
+      "title": "A Friend in Heaven",
+      "date": "n.d.",
+      "stanzaCount": 3,
+      "lineCount": 12
+    },
+    {
+      "id": "439",
+      "number": 439,
+      "title": "My Sister, Leonora A. Morley",
+      "subtitle": "Dedicated to Her Friends in Brigham City, Where She Departed This Life, February 11, 1872",
+      "published": "Woman’s Exponent, 1 August 1872",
+      "stanzaCount": 10,
+      "lineCount": 90
+    },
+    {
+      "id": "440",
+      "number": 440,
+      "title": "To Mrs. M. T. Smoot",
+      "date": "n.d.",
+      "stanzaCount": 1,
+      "lineCount": 4
+    },
+    {
+      "id": "441",
+      "number": 441,
+      "title": "“Dearest Mother may your birthday”",
+      "date": "n.d.",
+      "stanzaCount": 1,
+      "lineCount": 4
+    },
+    {
+      "id": "442",
+      "number": 442,
+      "title": "Responsive",
+      "subtitle": "to My Magnanimous Friends",
+      "composed": "26 October 1872",
+      "published": "Woman’s Exponent, 1 November 1872",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "443",
+      "number": 443,
+      "title": "Crossing the Atlantic",
+      "subtitle": "Written at Sea by Miss Eliza R. Snow, Dedicated to the Ladies of Utah",
+      "composed": "before 16 November 1872",
+      "published": "Woman’s Exponent, 1 January 1873",
+      "stanzaCount": 16,
+      "lineCount": 64
+    },
+    {
+      "id": "444",
+      "number": 444,
+      "title": "London",
+      "subtitle": "Written while President G. A. Smith and Party, Consisting of L. Snow, His Sister E. R. Snow, F. Little, His Daughter Clara, P. A. Schettler, G. Dunford and T. Jennings Were in London “En Route” for Palestine",
+      "composed": "24 November 1872",
+      "published": "Woman’s Exponent, 1 February 1873",
+      "stanzaCount": 7,
+      "lineCount": 56
+    },
+    {
+      "id": "445",
+      "number": 445,
+      "title": "Farewell to Paris",
+      "composed": "between 11 and 19 December 1872",
+      "published": "Woman’s Exponent, 15 February 1873",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 11,
+      "lineCount": 44
+    },
+    {
+      "id": "446",
+      "number": 446,
+      "title": "The Year 1872",
+      "composed": "31 December 1872",
+      "published": "Woman’s Exponent, 1 March 1873",
+      "stanzaCount": 9,
+      "lineCount": 75
+    },
+    {
+      "id": "447",
+      "number": 447,
+      "title": "Florence",
+      "composed": "10 January 1873",
+      "published": "Woman’s Exponent, 15 March 1873",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "448",
+      "number": 448,
+      "title": "Sunrise on the Mediterranean",
+      "composed": "9 February 1873",
+      "published": "Woman’s Exponent, 13 April 1873",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "449",
+      "number": 449,
+      "title": "The Dead Sea—a Monument",
+      "composed": "1873",
+      "published": "Contributor, October 1879",
+      "stanzaCount": 7,
+      "lineCount": 52
+    },
+    {
+      "id": "450",
+      "number": 450,
+      "title": "On the Mount of Olives",
+      "composed": "3 March 1873",
+      "published": "Correspondence of Palestine Tourists, 1875",
+      "stanzaCount": 7,
+      "lineCount": 28
+    }
+  ]
+}

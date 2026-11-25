@@ -1,0 +1,3433 @@
+{
+  "book": "1 Samuel",
+  "full_title": "The First Book of Samuel",
+  "lds_slug": "1-sam",
+  "chapters": [
+    {
+      "chapter": 1,
+      "reference": "1 Samuel 1",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 1:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 1:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 1:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 1:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 1:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 1:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 1:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 1:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 1:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 1:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 1:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 1:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 1:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 1:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 1:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 1:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 1:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 1:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 1:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 1:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 1:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 1:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 1:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 1:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 1:25"
+        },
+        {
+          "verse": 26,
+          "reference": "1 Samuel 1:26"
+        },
+        {
+          "verse": 27,
+          "reference": "1 Samuel 1:27"
+        },
+        {
+          "verse": 28,
+          "reference": "1 Samuel 1:28"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "reference": "1 Samuel 2",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 2:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 2:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 2:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 2:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 2:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 2:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 2:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 2:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 2:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 2:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 2:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 2:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 2:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 2:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 2:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 2:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 2:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 2:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 2:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 2:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 2:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 2:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 2:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 2:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 2:25"
+        },
+        {
+          "verse": 26,
+          "reference": "1 Samuel 2:26"
+        },
+        {
+          "verse": 27,
+          "reference": "1 Samuel 2:27"
+        },
+        {
+          "verse": 28,
+          "reference": "1 Samuel 2:28"
+        },
+        {
+          "verse": 29,
+          "reference": "1 Samuel 2:29"
+        },
+        {
+          "verse": 30,
+          "reference": "1 Samuel 2:30"
+        },
+        {
+          "verse": 31,
+          "reference": "1 Samuel 2:31"
+        },
+        {
+          "verse": 32,
+          "reference": "1 Samuel 2:32"
+        },
+        {
+          "verse": 33,
+          "reference": "1 Samuel 2:33"
+        },
+        {
+          "verse": 34,
+          "reference": "1 Samuel 2:34"
+        },
+        {
+          "verse": 35,
+          "reference": "1 Samuel 2:35"
+        },
+        {
+          "verse": 36,
+          "reference": "1 Samuel 2:36"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "reference": "1 Samuel 3",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 3:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 3:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 3:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 3:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 3:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 3:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 3:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 3:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 3:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 3:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 3:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 3:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 3:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 3:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 3:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 3:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 3:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 3:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 3:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 3:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 3:21"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "reference": "1 Samuel 4",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 4:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 4:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 4:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 4:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 4:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 4:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 4:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 4:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 4:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 4:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 4:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 4:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 4:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 4:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 4:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 4:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 4:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 4:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 4:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 4:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 4:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 4:22"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "reference": "1 Samuel 5",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 5:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 5:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 5:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 5:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 5:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 5:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 5:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 5:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 5:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 5:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 5:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 5:12"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "reference": "1 Samuel 6",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 6:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 6:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 6:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 6:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 6:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 6:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 6:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 6:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 6:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 6:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 6:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 6:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 6:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 6:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 6:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 6:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 6:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 6:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 6:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 6:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 6:21"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "reference": "1 Samuel 7",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 7:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 7:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 7:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 7:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 7:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 7:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 7:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 7:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 7:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 7:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 7:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 7:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 7:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 7:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 7:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 7:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 7:17"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "reference": "1 Samuel 8",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 8:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 8:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 8:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 8:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 8:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 8:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 8:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 8:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 8:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 8:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 8:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 8:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 8:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 8:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 8:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 8:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 8:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 8:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 8:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 8:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 8:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 8:22"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "reference": "1 Samuel 9",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 9:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 9:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 9:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 9:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 9:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 9:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 9:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 9:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 9:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 9:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 9:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 9:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 9:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 9:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 9:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 9:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 9:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 9:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 9:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 9:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 9:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 9:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 9:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 9:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 9:25"
+        },
+        {
+          "verse": 26,
+          "reference": "1 Samuel 9:26"
+        },
+        {
+          "verse": 27,
+          "reference": "1 Samuel 9:27"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "reference": "1 Samuel 10",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 10:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 10:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 10:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 10:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 10:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 10:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 10:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 10:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 10:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 10:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 10:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 10:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 10:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 10:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 10:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 10:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 10:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 10:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 10:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 10:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 10:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 10:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 10:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 10:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 10:25"
+        },
+        {
+          "verse": 26,
+          "reference": "1 Samuel 10:26"
+        },
+        {
+          "verse": 27,
+          "reference": "1 Samuel 10:27"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "reference": "1 Samuel 11",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 11:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 11:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 11:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 11:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 11:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 11:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 11:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 11:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 11:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 11:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 11:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 11:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 11:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 11:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 11:15"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "reference": "1 Samuel 12",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 12:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 12:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 12:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 12:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 12:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 12:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 12:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 12:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 12:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 12:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 12:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 12:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 12:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 12:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 12:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 12:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 12:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 12:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 12:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 12:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 12:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 12:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 12:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 12:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 12:25"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "reference": "1 Samuel 13",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 13:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 13:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 13:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 13:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 13:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 13:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 13:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 13:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 13:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 13:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 13:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 13:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 13:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 13:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 13:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 13:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 13:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 13:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 13:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 13:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 13:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 13:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 13:23"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "reference": "1 Samuel 14",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 14:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 14:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 14:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 14:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 14:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 14:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 14:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 14:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 14:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 14:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 14:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 14:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 14:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 14:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 14:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 14:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 14:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 14:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 14:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 14:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 14:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 14:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 14:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 14:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 14:25"
+        },
+        {
+          "verse": 26,
+          "reference": "1 Samuel 14:26"
+        },
+        {
+          "verse": 27,
+          "reference": "1 Samuel 14:27"
+        },
+        {
+          "verse": 28,
+          "reference": "1 Samuel 14:28"
+        },
+        {
+          "verse": 29,
+          "reference": "1 Samuel 14:29"
+        },
+        {
+          "verse": 30,
+          "reference": "1 Samuel 14:30"
+        },
+        {
+          "verse": 31,
+          "reference": "1 Samuel 14:31"
+        },
+        {
+          "verse": 32,
+          "reference": "1 Samuel 14:32"
+        },
+        {
+          "verse": 33,
+          "reference": "1 Samuel 14:33"
+        },
+        {
+          "verse": 34,
+          "reference": "1 Samuel 14:34"
+        },
+        {
+          "verse": 35,
+          "reference": "1 Samuel 14:35"
+        },
+        {
+          "verse": 36,
+          "reference": "1 Samuel 14:36"
+        },
+        {
+          "verse": 37,
+          "reference": "1 Samuel 14:37"
+        },
+        {
+          "verse": 38,
+          "reference": "1 Samuel 14:38"
+        },
+        {
+          "verse": 39,
+          "reference": "1 Samuel 14:39"
+        },
+        {
+          "verse": 40,
+          "reference": "1 Samuel 14:40"
+        },
+        {
+          "verse": 41,
+          "reference": "1 Samuel 14:41"
+        },
+        {
+          "verse": 42,
+          "reference": "1 Samuel 14:42"
+        },
+        {
+          "verse": 43,
+          "reference": "1 Samuel 14:43"
+        },
+        {
+          "verse": 44,
+          "reference": "1 Samuel 14:44"
+        },
+        {
+          "verse": 45,
+          "reference": "1 Samuel 14:45"
+        },
+        {
+          "verse": 46,
+          "reference": "1 Samuel 14:46"
+        },
+        {
+          "verse": 47,
+          "reference": "1 Samuel 14:47"
+        },
+        {
+          "verse": 48,
+          "reference": "1 Samuel 14:48"
+        },
+        {
+          "verse": 49,
+          "reference": "1 Samuel 14:49"
+        },
+        {
+          "verse": 50,
+          "reference": "1 Samuel 14:50"
+        },
+        {
+          "verse": 51,
+          "reference": "1 Samuel 14:51"
+        },
+        {
+          "verse": 52,
+          "reference": "1 Samuel 14:52"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "reference": "1 Samuel 15",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 15:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 15:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 15:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 15:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 15:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 15:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 15:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 15:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 15:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 15:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 15:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 15:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 15:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 15:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 15:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 15:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 15:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 15:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 15:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 15:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 15:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 15:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 15:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 15:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 15:25"
+        },
+        {
+          "verse": 26,
+          "reference": "1 Samuel 15:26"
+        },
+        {
+          "verse": 27,
+          "reference": "1 Samuel 15:27"
+        },
+        {
+          "verse": 28,
+          "reference": "1 Samuel 15:28"
+        },
+        {
+          "verse": 29,
+          "reference": "1 Samuel 15:29"
+        },
+        {
+          "verse": 30,
+          "reference": "1 Samuel 15:30"
+        },
+        {
+          "verse": 31,
+          "reference": "1 Samuel 15:31"
+        },
+        {
+          "verse": 32,
+          "reference": "1 Samuel 15:32"
+        },
+        {
+          "verse": 33,
+          "reference": "1 Samuel 15:33"
+        },
+        {
+          "verse": 34,
+          "reference": "1 Samuel 15:34"
+        },
+        {
+          "verse": 35,
+          "reference": "1 Samuel 15:35"
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "reference": "1 Samuel 16",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 16:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 16:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 16:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 16:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 16:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 16:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 16:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 16:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 16:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 16:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 16:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 16:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 16:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 16:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 16:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 16:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 16:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 16:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 16:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 16:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 16:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 16:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 16:23"
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "reference": "1 Samuel 17",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 17:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 17:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 17:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 17:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 17:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 17:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 17:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 17:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 17:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 17:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 17:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 17:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 17:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 17:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 17:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 17:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 17:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 17:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 17:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 17:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 17:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 17:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 17:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 17:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 17:25"
+        },
+        {
+          "verse": 26,
+          "reference": "1 Samuel 17:26"
+        },
+        {
+          "verse": 27,
+          "reference": "1 Samuel 17:27"
+        },
+        {
+          "verse": 28,
+          "reference": "1 Samuel 17:28"
+        },
+        {
+          "verse": 29,
+          "reference": "1 Samuel 17:29"
+        },
+        {
+          "verse": 30,
+          "reference": "1 Samuel 17:30"
+        },
+        {
+          "verse": 31,
+          "reference": "1 Samuel 17:31"
+        },
+        {
+          "verse": 32,
+          "reference": "1 Samuel 17:32"
+        },
+        {
+          "verse": 33,
+          "reference": "1 Samuel 17:33"
+        },
+        {
+          "verse": 34,
+          "reference": "1 Samuel 17:34"
+        },
+        {
+          "verse": 35,
+          "reference": "1 Samuel 17:35"
+        },
+        {
+          "verse": 36,
+          "reference": "1 Samuel 17:36"
+        },
+        {
+          "verse": 37,
+          "reference": "1 Samuel 17:37"
+        },
+        {
+          "verse": 38,
+          "reference": "1 Samuel 17:38"
+        },
+        {
+          "verse": 39,
+          "reference": "1 Samuel 17:39"
+        },
+        {
+          "verse": 40,
+          "reference": "1 Samuel 17:40"
+        },
+        {
+          "verse": 41,
+          "reference": "1 Samuel 17:41"
+        },
+        {
+          "verse": 42,
+          "reference": "1 Samuel 17:42"
+        },
+        {
+          "verse": 43,
+          "reference": "1 Samuel 17:43"
+        },
+        {
+          "verse": 44,
+          "reference": "1 Samuel 17:44"
+        },
+        {
+          "verse": 45,
+          "reference": "1 Samuel 17:45"
+        },
+        {
+          "verse": 46,
+          "reference": "1 Samuel 17:46"
+        },
+        {
+          "verse": 47,
+          "reference": "1 Samuel 17:47"
+        },
+        {
+          "verse": 48,
+          "reference": "1 Samuel 17:48"
+        },
+        {
+          "verse": 49,
+          "reference": "1 Samuel 17:49"
+        },
+        {
+          "verse": 50,
+          "reference": "1 Samuel 17:50"
+        },
+        {
+          "verse": 51,
+          "reference": "1 Samuel 17:51"
+        },
+        {
+          "verse": 52,
+          "reference": "1 Samuel 17:52"
+        },
+        {
+          "verse": 53,
+          "reference": "1 Samuel 17:53"
+        },
+        {
+          "verse": 54,
+          "reference": "1 Samuel 17:54"
+        },
+        {
+          "verse": 55,
+          "reference": "1 Samuel 17:55"
+        },
+        {
+          "verse": 56,
+          "reference": "1 Samuel 17:56"
+        },
+        {
+          "verse": 57,
+          "reference": "1 Samuel 17:57"
+        },
+        {
+          "verse": 58,
+          "reference": "1 Samuel 17:58"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "reference": "1 Samuel 18",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 18:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 18:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 18:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 18:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 18:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 18:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 18:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 18:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 18:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 18:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 18:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 18:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 18:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 18:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 18:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 18:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 18:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 18:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 18:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 18:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 18:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 18:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 18:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 18:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 18:25"
+        },
+        {
+          "verse": 26,
+          "reference": "1 Samuel 18:26"
+        },
+        {
+          "verse": 27,
+          "reference": "1 Samuel 18:27"
+        },
+        {
+          "verse": 28,
+          "reference": "1 Samuel 18:28"
+        },
+        {
+          "verse": 29,
+          "reference": "1 Samuel 18:29"
+        },
+        {
+          "verse": 30,
+          "reference": "1 Samuel 18:30"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "reference": "1 Samuel 19",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 19:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 19:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 19:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 19:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 19:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 19:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 19:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 19:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 19:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 19:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 19:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 19:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 19:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 19:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 19:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 19:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 19:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 19:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 19:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 19:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 19:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 19:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 19:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 19:24"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "reference": "1 Samuel 20",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 20:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 20:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 20:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 20:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 20:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 20:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 20:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 20:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 20:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 20:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 20:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 20:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 20:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 20:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 20:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 20:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 20:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 20:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 20:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 20:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 20:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 20:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 20:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 20:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 20:25"
+        },
+        {
+          "verse": 26,
+          "reference": "1 Samuel 20:26"
+        },
+        {
+          "verse": 27,
+          "reference": "1 Samuel 20:27"
+        },
+        {
+          "verse": 28,
+          "reference": "1 Samuel 20:28"
+        },
+        {
+          "verse": 29,
+          "reference": "1 Samuel 20:29"
+        },
+        {
+          "verse": 30,
+          "reference": "1 Samuel 20:30"
+        },
+        {
+          "verse": 31,
+          "reference": "1 Samuel 20:31"
+        },
+        {
+          "verse": 32,
+          "reference": "1 Samuel 20:32"
+        },
+        {
+          "verse": 33,
+          "reference": "1 Samuel 20:33"
+        },
+        {
+          "verse": 34,
+          "reference": "1 Samuel 20:34"
+        },
+        {
+          "verse": 35,
+          "reference": "1 Samuel 20:35"
+        },
+        {
+          "verse": 36,
+          "reference": "1 Samuel 20:36"
+        },
+        {
+          "verse": 37,
+          "reference": "1 Samuel 20:37"
+        },
+        {
+          "verse": 38,
+          "reference": "1 Samuel 20:38"
+        },
+        {
+          "verse": 39,
+          "reference": "1 Samuel 20:39"
+        },
+        {
+          "verse": 40,
+          "reference": "1 Samuel 20:40"
+        },
+        {
+          "verse": 41,
+          "reference": "1 Samuel 20:41"
+        },
+        {
+          "verse": 42,
+          "reference": "1 Samuel 20:42"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "reference": "1 Samuel 21",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 21:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 21:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 21:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 21:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 21:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 21:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 21:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 21:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 21:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 21:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 21:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 21:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 21:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 21:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 21:15"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "reference": "1 Samuel 22",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 22:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 22:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 22:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 22:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 22:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 22:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 22:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 22:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 22:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 22:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 22:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 22:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 22:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 22:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 22:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 22:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 22:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 22:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 22:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 22:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 22:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 22:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 22:23"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "reference": "1 Samuel 23",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 23:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 23:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 23:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 23:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 23:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 23:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 23:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 23:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 23:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 23:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 23:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 23:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 23:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 23:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 23:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 23:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 23:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 23:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 23:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 23:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 23:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 23:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 23:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 23:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 23:25"
+        },
+        {
+          "verse": 26,
+          "reference": "1 Samuel 23:26"
+        },
+        {
+          "verse": 27,
+          "reference": "1 Samuel 23:27"
+        },
+        {
+          "verse": 28,
+          "reference": "1 Samuel 23:28"
+        },
+        {
+          "verse": 29,
+          "reference": "1 Samuel 23:29"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "reference": "1 Samuel 24",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 24:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 24:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 24:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 24:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 24:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 24:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 24:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 24:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 24:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 24:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 24:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 24:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 24:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 24:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 24:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 24:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 24:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 24:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 24:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 24:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 24:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 24:22"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "reference": "1 Samuel 25",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 25:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 25:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 25:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 25:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 25:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 25:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 25:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 25:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 25:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 25:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 25:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 25:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 25:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 25:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 25:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 25:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 25:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 25:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 25:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 25:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 25:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 25:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 25:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 25:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 25:25"
+        },
+        {
+          "verse": 26,
+          "reference": "1 Samuel 25:26"
+        },
+        {
+          "verse": 27,
+          "reference": "1 Samuel 25:27"
+        },
+        {
+          "verse": 28,
+          "reference": "1 Samuel 25:28"
+        },
+        {
+          "verse": 29,
+          "reference": "1 Samuel 25:29"
+        },
+        {
+          "verse": 30,
+          "reference": "1 Samuel 25:30"
+        },
+        {
+          "verse": 31,
+          "reference": "1 Samuel 25:31"
+        },
+        {
+          "verse": 32,
+          "reference": "1 Samuel 25:32"
+        },
+        {
+          "verse": 33,
+          "reference": "1 Samuel 25:33"
+        },
+        {
+          "verse": 34,
+          "reference": "1 Samuel 25:34"
+        },
+        {
+          "verse": 35,
+          "reference": "1 Samuel 25:35"
+        },
+        {
+          "verse": 36,
+          "reference": "1 Samuel 25:36"
+        },
+        {
+          "verse": 37,
+          "reference": "1 Samuel 25:37"
+        },
+        {
+          "verse": 38,
+          "reference": "1 Samuel 25:38"
+        },
+        {
+          "verse": 39,
+          "reference": "1 Samuel 25:39"
+        },
+        {
+          "verse": 40,
+          "reference": "1 Samuel 25:40"
+        },
+        {
+          "verse": 41,
+          "reference": "1 Samuel 25:41"
+        },
+        {
+          "verse": 42,
+          "reference": "1 Samuel 25:42"
+        },
+        {
+          "verse": 43,
+          "reference": "1 Samuel 25:43"
+        },
+        {
+          "verse": 44,
+          "reference": "1 Samuel 25:44"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "reference": "1 Samuel 26",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 26:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 26:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 26:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 26:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 26:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 26:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 26:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 26:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 26:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 26:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 26:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 26:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 26:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 26:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 26:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 26:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 26:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 26:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 26:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 26:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 26:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 26:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 26:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 26:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 26:25"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "reference": "1 Samuel 27",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 27:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 27:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 27:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 27:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 27:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 27:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 27:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 27:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 27:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 27:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 27:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 27:12"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "reference": "1 Samuel 28",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 28:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 28:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 28:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 28:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 28:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 28:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 28:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 28:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 28:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 28:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 28:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 28:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 28:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 28:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 28:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 28:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 28:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 28:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 28:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 28:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 28:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 28:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 28:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 28:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 28:25"
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "reference": "1 Samuel 29",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 29:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 29:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 29:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 29:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 29:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 29:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 29:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 29:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 29:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 29:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 29:11"
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "reference": "1 Samuel 30",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 30:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 30:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 30:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 30:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 30:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 30:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 30:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 30:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 30:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 30:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 30:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 30:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 30:13"
+        },
+        {
+          "verse": 14,
+          "reference": "1 Samuel 30:14"
+        },
+        {
+          "verse": 15,
+          "reference": "1 Samuel 30:15"
+        },
+        {
+          "verse": 16,
+          "reference": "1 Samuel 30:16"
+        },
+        {
+          "verse": 17,
+          "reference": "1 Samuel 30:17"
+        },
+        {
+          "verse": 18,
+          "reference": "1 Samuel 30:18"
+        },
+        {
+          "verse": 19,
+          "reference": "1 Samuel 30:19"
+        },
+        {
+          "verse": 20,
+          "reference": "1 Samuel 30:20"
+        },
+        {
+          "verse": 21,
+          "reference": "1 Samuel 30:21"
+        },
+        {
+          "verse": 22,
+          "reference": "1 Samuel 30:22"
+        },
+        {
+          "verse": 23,
+          "reference": "1 Samuel 30:23"
+        },
+        {
+          "verse": 24,
+          "reference": "1 Samuel 30:24"
+        },
+        {
+          "verse": 25,
+          "reference": "1 Samuel 30:25"
+        },
+        {
+          "verse": 26,
+          "reference": "1 Samuel 30:26"
+        },
+        {
+          "verse": 27,
+          "reference": "1 Samuel 30:27"
+        },
+        {
+          "verse": 28,
+          "reference": "1 Samuel 30:28"
+        },
+        {
+          "verse": 29,
+          "reference": "1 Samuel 30:29"
+        },
+        {
+          "verse": 30,
+          "reference": "1 Samuel 30:30"
+        },
+        {
+          "verse": 31,
+          "reference": "1 Samuel 30:31"
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "reference": "1 Samuel 31",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "1 Samuel 31:1"
+        },
+        {
+          "verse": 2,
+          "reference": "1 Samuel 31:2"
+        },
+        {
+          "verse": 3,
+          "reference": "1 Samuel 31:3"
+        },
+        {
+          "verse": 4,
+          "reference": "1 Samuel 31:4"
+        },
+        {
+          "verse": 5,
+          "reference": "1 Samuel 31:5"
+        },
+        {
+          "verse": 6,
+          "reference": "1 Samuel 31:6"
+        },
+        {
+          "verse": 7,
+          "reference": "1 Samuel 31:7"
+        },
+        {
+          "verse": 8,
+          "reference": "1 Samuel 31:8"
+        },
+        {
+          "verse": 9,
+          "reference": "1 Samuel 31:9"
+        },
+        {
+          "verse": 10,
+          "reference": "1 Samuel 31:10"
+        },
+        {
+          "verse": 11,
+          "reference": "1 Samuel 31:11"
+        },
+        {
+          "verse": 12,
+          "reference": "1 Samuel 31:12"
+        },
+        {
+          "verse": 13,
+          "reference": "1 Samuel 31:13"
+        }
+      ]
+    }
+  ]
+}

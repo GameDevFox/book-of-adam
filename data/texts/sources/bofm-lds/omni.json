@@ -1,0 +1,133 @@
+{
+  "book": "Omni",
+  "full_title": "The Book of Omni",
+  "lds_slug": "omni",
+  "chapters": [
+    {
+      "chapter": 1,
+      "reference": "Omni 1",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Omni 1:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Omni 1:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Omni 1:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Omni 1:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Omni 1:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Omni 1:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Omni 1:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Omni 1:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Omni 1:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Omni 1:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Omni 1:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Omni 1:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Omni 1:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Omni 1:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Omni 1:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Omni 1:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Omni 1:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Omni 1:18"
+        },
+        {
+          "verse": 19,
+          "reference": "Omni 1:19"
+        },
+        {
+          "verse": 20,
+          "reference": "Omni 1:20"
+        },
+        {
+          "verse": 21,
+          "reference": "Omni 1:21"
+        },
+        {
+          "verse": 22,
+          "reference": "Omni 1:22"
+        },
+        {
+          "verse": 23,
+          "reference": "Omni 1:23"
+        },
+        {
+          "verse": 24,
+          "reference": "Omni 1:24"
+        },
+        {
+          "verse": 25,
+          "reference": "Omni 1:25"
+        },
+        {
+          "verse": 26,
+          "reference": "Omni 1:26"
+        },
+        {
+          "verse": 27,
+          "reference": "Omni 1:27"
+        },
+        {
+          "verse": 28,
+          "reference": "Omni 1:28"
+        },
+        {
+          "verse": 29,
+          "reference": "Omni 1:29"
+        },
+        {
+          "verse": 30,
+          "reference": "Omni 1:30"
+        }
+      ]
+    }
+  ]
+}

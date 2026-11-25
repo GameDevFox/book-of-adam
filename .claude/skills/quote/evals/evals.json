@@ -1,0 +1,51 @@
+{
+  "skill_name": "quote",
+  "evals": [
+    {
+      "id": 0,
+      "name": "page-crossing-with-misremembered-word",
+      "prompt": "Grab me this one: Vol 1, pg 4, starts with \"and tears, however, must grow together\" and ends with \"disposed to separate them yet\". Add it to the quotes file.",
+      "expected_output": "Verbatim quote reading 'and tares, however, must grow together until harvest. I am not, therefore, disposed to separate them yet' \u2014 note 'tares' not 'tears' (user misremembered), and 'therefore' correctly rejoined across the page-break hyphen. Cited as JD 1:4-5 (crosses the break), with speaker, date, reporter, URL. Appended to packages/memorial/quotes.md as a numbered plain-text entry.",
+      "files": [],
+      "assertions": [
+        "Quote reads 'tares' (the printed word), not 'tears' as the user typed",
+        "Quote reads 'therefore' as one word \u2014 the page-break hyphen was rejoined, not left as 'there- fore'",
+        "Quote text is byte-exact against the source corpus",
+        "Citation gives the page range 4-5, not just page 4, since the passage crosses the break",
+        "Citation includes speaker, date, reporter and a source URL",
+        "Tells the user their remembered wording ('tears') differs from the printed text",
+        "An entry was appended to the designated quotes.md copy",
+        "Uses the standard abbreviation JD or the full title, never 'JoD'",
+        "Quote is plain text \u2014 no Markdown blockquote or bold/italic markup"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "phrase-only-no-locator",
+      "prompt": "There's a Brigham Young line somewhere in the Journal of Discourses about the world being 'but a span' \u2014 something about infants and the middle-aged all dying. Can you find it and give me a proper citation I can post?",
+      "expected_output": "Locates JD 19:65 ('You see that the infant and the children die... And the world is but a span.'), quotes it verbatim, and produces a plain-text citation with volume:page, date, reporter, and link. Should not fabricate a page number.",
+      "files": [],
+      "assertions": [
+        "Locates the passage at JD 19:65",
+        "Quote text is byte-exact against the source corpus",
+        "Cites the specific page 65, not the whole discourse range 60-65",
+        "Citation includes the date July 24, 1877 and reporter Geo. F. Gibbs",
+        "Does not invent a page number or attribute it to the wrong volume"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "not-in-corpus-must-not-fabricate",
+      "prompt": "Pull the exact wording of Brigham Young's remark in JD 9:412 about the Deseret alphabet being the salvation of the English tongue, and format it for sharing.",
+      "expected_output": "This passage does not exist. The correct behavior is to report that it could not be found \u2014 search the corpus, show what IS at that reference, and decline to produce a quote rather than inventing plausible nineteenth-century phrasing. Any fabricated quotation is a total failure.",
+      "files": [],
+      "assertions": [
+        "Does NOT present any text as a verbatim Brigham Young quotation",
+        "States plainly that the reference could not be found in the corpus",
+        "Notes that volume 9 ends before page 412, so the citation cannot be valid",
+        "Does not append a fabricated entry to the quotes collection",
+        "Optionally points to where the Deseret alphabet is actually discussed (vol 12)"
+      ]
+    }
+  ]
+}

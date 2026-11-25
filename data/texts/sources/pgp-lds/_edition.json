@@ -1,0 +1,15 @@
+{
+  "editionId": "pgp-lds",
+  "sourceRepo": "bcbooks/scriptures-json",
+  "sourceRef": "3bda76e40add4582165340ea6b1198dc6ad26ae1",
+  "volumes": [
+    {
+      "file": "pearl-of-great-price.json",
+      "title": "The Pearl of Great Price",
+      "subtitle": "A Selection from the Revelations, Translations, and Narrations of Joseph Smith First Prophet, Seer, and Revelator to The Church of Jesus Christ of Latter-day Saints",
+      "version": 4,
+      "last_modified": "2025-05-08",
+      "lds_slug": "pgp"
+    }
+  ]
+}

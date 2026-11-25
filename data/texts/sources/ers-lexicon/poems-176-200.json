@@ -1,0 +1,250 @@
+{
+  "page": "Poems 176–200",
+  "postId": 248,
+  "url": "https://erslexicon.wordpress.com/poems-6-10/",
+  "published": "2014-11-18T22:37:57+00:00",
+  "modified": "2014-12-09T04:55:50+00:00",
+  "fetchedAt": "2026-09-26T03:43:28.519Z",
+  "count": 25,
+  "poems": [
+    {
+      "id": "176",
+      "number": 176,
+      "title": "Lines on the Death of the Children",
+      "composed": "23 April 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 4,
+      "lineCount": 16
+    },
+    {
+      "id": "177",
+      "number": 177,
+      "title": "To Elder L.",
+      "subtitle": "on His Departure for Europe",
+      "composed": "23 April 1847",
+      "published": "Poems 1, 1856",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 33
+    },
+    {
+      "id": "178",
+      "number": 178,
+      "title": "Lines",
+      "subtitle": "on the Death of Leonora Agnes, Daughter of Elder John and Mrs. Leonora Taylor",
+      "composed": "26 April 1847",
+      "published": "Millennial Star, 15 April 1848",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 7,
+      "lineCount": 30
+    },
+    {
+      "id": "179",
+      "number": 179,
+      "title": "To Mrs. Sylvia Lyons",
+      "composed": "2 May 1847",
+      "published": "Woman’s Exponent, 1 November 1885",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "180",
+      "number": 180,
+      "title": "To Mrs. Mary Ann Young",
+      "composed": "16 June 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "181",
+      "number": 181,
+      "title": "Song of the Desert",
+      "composed": "26 August 1847",
+      "published": "Poems 1, 1856",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 4,
+      "lineCount": 32
+    },
+    {
+      "id": "182",
+      "number": 182,
+      "title": "To Mrs. Caroline Grant",
+      "subtitle": "Written on Hearing of the Death of Her Little Child",
+      "composed": "4 September 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 4,
+      "lineCount": 17
+    },
+    {
+      "id": "183",
+      "number": 183,
+      "title": "Hail to the Twelve and Pioneers",
+      "composed": "ca. 9 September 1847",
+      "published": "Millennial Star, 15 January 1848",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 10,
+      "lineCount": 29
+    },
+    {
+      "id": "184",
+      "number": 184,
+      "title": "To Mrs. Mary Ann Young",
+      "subtitle": "[“May the streams of consolation”]",
+      "composed": "5 October 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 3,
+      "lineCount": 13
+    },
+    {
+      "id": "185",
+      "number": 185,
+      "title": "Come to the Valley",
+      "composed": "5 October 1847",
+      "published": "Poems 1, 1856",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "186",
+      "number": 186,
+      "title": "On the Death of Mrs. Caroline Grant",
+      "composed": "5 October 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 7,
+      "lineCount": 28
+    },
+    {
+      "id": "187",
+      "number": 187,
+      "title": "To Margarett",
+      "composed": "17 October 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "188",
+      "number": 188,
+      "title": "To Mrs. Harriet P. Young",
+      "subtitle": "on the Birth of Her Infant Son",
+      "composed": "18 October 1847",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 5,
+      "lineCount": 21
+    },
+    {
+      "id": "189",
+      "number": 189,
+      "title": "To Elder Jackman",
+      "subtitle": "on the Death of His Wife",
+      "composed": "21 January 1848",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 7,
+      "lineCount": 29
+    },
+    {
+      "id": "190",
+      "number": 190,
+      "title": "To Elder Levi Hancock",
+      "composed": "6 February 1848",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 12,
+      "lineCount": 34
+    },
+    {
+      "id": "191",
+      "number": 191,
+      "title": "On the Death of Franklin K. Shed",
+      "composed": "28 February 1848",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 9,
+      "lineCount": 36
+    },
+    {
+      "id": "192",
+      "number": 192,
+      "title": "To Mrs. Eleanor B. Bringhurst",
+      "composed": "19 March 1848",
+      "stanzaCount": 1,
+      "lineCount": 35
+    },
+    {
+      "id": "193",
+      "number": 193,
+      "title": "“Robert Peirce’s oldest son”",
+      "composed": "29 July 1848",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "194",
+      "number": 194,
+      "title": "The Welcome Hymn",
+      "composed": "ca. 20 September 1848",
+      "published": "Millennial Star, 15 August 1849",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 9,
+      "lineCount": 36
+    },
+    {
+      "id": "195",
+      "number": 195,
+      "title": "The Wife’s Salutation",
+      "published": "Poems 1, 1856",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 10,
+      "lineCount": 29
+    },
+    {
+      "id": "196",
+      "number": 196,
+      "title": "The Mother’s Salutation",
+      "composed": "September 1848",
+      "published": "Poems 1, 1856",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 6,
+      "lineCount": 36
+    },
+    {
+      "id": "197",
+      "number": 197,
+      "title": "The Lord Has Delivered His People",
+      "published": "Poems 1, 1856",
+      "stanzaCount": 10,
+      "lineCount": 19
+    },
+    {
+      "id": "198",
+      "number": 198,
+      "title": "To Mrs. Leonora Taylor",
+      "composed": "7 September 1848",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 6,
+      "lineCount": 21
+    },
+    {
+      "id": "199",
+      "number": 199,
+      "title": "The Children’s Salutation",
+      "composed": "20 September 1848",
+      "published": "Poems 1, 1856",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 10,
+      "lineCount": 29
+    },
+    {
+      "id": "200",
+      "number": 200,
+      "title": "To Elder Franklin D. Richards",
+      "composed": "7 January 1849",
+      "published": "Millennial Star, 1 May 1850",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 7,
+      "lineCount": 58
+    }
+  ]
+}

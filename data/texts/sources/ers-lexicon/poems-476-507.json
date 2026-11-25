@@ -1,0 +1,296 @@
+{
+  "page": "Poems 476–507",
+  "postId": 291,
+  "url": "https://erslexicon.wordpress.com/poems-476-507/",
+  "published": "2014-11-18T22:51:58+00:00",
+  "modified": "2014-12-16T06:23:10+00:00",
+  "fetchedAt": "2026-09-26T03:43:28.545Z",
+  "count": 32,
+  "poems": [
+    {
+      "id": "476",
+      "number": 476,
+      "title": "Tribute to the Birthday",
+      "subtitle": "of the Prophet Joseph",
+      "composed": "ca. 23 December 1880",
+      "published": "Deseret News, 2 February 1881",
+      "stanzaCount": 10,
+      "lineCount": 74
+    },
+    {
+      "id": "477",
+      "number": 477,
+      "title": "Our Little George",
+      "published": "Woman’s Exponent, 15 January 1881",
+      "stanzaCount": 3,
+      "lineCount": 12
+    },
+    {
+      "id": "478",
+      "number": 478,
+      "title": "To Mrs. Jane B. Johnson",
+      "composed": "23 February 1881",
+      "stanzaCount": 1,
+      "lineCount": 8
+    },
+    {
+      "id": "479",
+      "number": 479,
+      "title": "To the Presiding Bishop",
+      "subtitle": "Edward Hunter on the Eighty-eighth Anniversary of His Birthday",
+      "composed": "ca. 22 June 1881",
+      "published": "as a broadsheet, 22 June 1881",
+      "stanzaCount": 5,
+      "lineCount": 42
+    },
+    {
+      "id": "480",
+      "number": 480,
+      "title": "All Hail to the Day",
+      "subtitle": "Song for the Celebration of the Fourth of July, 1881, in Salt Lake Co. Which on Account of the Assassination of Prest. Garfield Did Not Take Place",
+      "composed": "ca. 4 July 1881",
+      "published": "Woman’s Exponent, 15 July 1882",
+      "stanzaCount": 10,
+      "lineCount": 35
+    },
+    {
+      "id": "481",
+      "number": 481,
+      "title": "Bury Me Quietly When I Die",
+      "composed": "July 1881",
+      "published": "Woman’s Exponent, 1 December 1881",
+      "stanzaCount": 6,
+      "lineCount": 48
+    },
+    {
+      "id": "482",
+      "number": 482,
+      "title": "In Memoriam",
+      "published": "Woman’s Exponent, 1 December 1881",
+      "stanzaCount": 1,
+      "lineCount": 4
+    },
+    {
+      "id": "483",
+      "number": 483,
+      "title": "The Mormon Battalion",
+      "subtitle": "and First Wagon Road over the Great American Desert",
+      "published": "A Concise History of the Mormon Battalion in the Mexican War, 1881",
+      "stanzaCount": 7,
+      "lineCount": 83
+    },
+    {
+      "id": "484",
+      "number": 484,
+      "title": "To Mrs. Elizabeth Cutler",
+      "composed": "21 January 1882",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "485",
+      "number": 485,
+      "title": "What Is Most Beautiful?",
+      "published": "Primary Speaker, 1882",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "486",
+      "number": 486,
+      "title": "Our Aims",
+      "published": "Primary Speaker, 1882",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "487",
+      "number": 487,
+      "title": "Answered",
+      "subtitle": "[To Emily Scott from E. R. Snow]",
+      "composed": "February 1883",
+      "published": "Woman’s Exponent, 15 March 1883",
+      "stanzaCount": 7,
+      "lineCount": 52
+    },
+    {
+      "id": "488",
+      "number": 488,
+      "title": "Lines",
+      "subtitle": "Respectfully Inscribed to Elder George Teasdale",
+      "composed": "28 February 1883",
+      "published": "Deseret News, 21 March 1883",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "489",
+      "number": 489,
+      "title": "Affectionately to Mrs. Marinda N. J. Hyde on the 68th Anniversary of Her Birth",
+      "composed": "28 June 1883",
+      "published": "Woman’s Exponent, 15 July 1883",
+      "stanzaCount": 4,
+      "lineCount": 25
+    },
+    {
+      "id": "490",
+      "number": 490,
+      "title": "Allie’s Resolve",
+      "published": "Woman’s Exponent, 15 August 1883",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "491",
+      "number": 491,
+      "title": "Birth-day Scrap",
+      "subtitle": "or Anniversary Tribute, to the Honorable Charles W. Penrose",
+      "composed": "4 February 1884",
+      "published": "Woman’s Exponent, 15 February 1884",
+      "stanzaCount": 3,
+      "lineCount": 20
+    },
+    {
+      "id": "492",
+      "number": 492,
+      "title": "Our Father’s Birthday",
+      "composed": "ca. 3 April 1884",
+      "stanzaCount": 6,
+      "lineCount": 26
+    },
+    {
+      "id": "493",
+      "number": 493,
+      "title": "Address by E. R. Snow Smith",
+      "composed": "ca. 7 May 1884",
+      "published": "Biography and Family Record of Lorenzo Snow, 1884",
+      "note": "*Members of the Council [this asterisk and note appeared with the original poem]",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 18,
+      "lineCount": 184
+    },
+    {
+      "id": "494",
+      "number": 494,
+      "title": "Bridal Tribute",
+      "subtitle": "Respectfully Inscribed to—-They Know Whom",
+      "composed": "20 December 1884",
+      "published": "Woman’s Exponent, 1 February 1885",
+      "stanzaCount": 7,
+      "lineCount": 28
+    },
+    {
+      "id": "495",
+      "number": 495,
+      "title": "O, Our Nation!—Alas, for Thee!",
+      "published": "Deseret News, 8 May 1885",
+      "stanzaCount": 8,
+      "lineCount": 81
+    },
+    {
+      "id": "496",
+      "number": 496,
+      "title": "Requiem",
+      "composed": "ca. 4 July 1885",
+      "published": "Deseret Evening News, 9 July 1885",
+      "stanzaCount": 7,
+      "lineCount": 42
+    },
+    {
+      "id": "497",
+      "number": 497,
+      "title": "The Beginning and the End",
+      "composed": "ca. 24 July 1885",
+      "published": "Woman’s Exponent, 1 August 1885",
+      "stanzaCount": 8,
+      "lineCount": 62
+    },
+    {
+      "id": "498",
+      "number": 498,
+      "title": "Welcome",
+      "published": "Utah Journal, 26 August 1885",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "499",
+      "number": 499,
+      "title": "Psalm",
+      "subtitle": "[“Thou who didst command Abraham”]",
+      "composed": "August 1885",
+      "published": "Woman’s Exponent, 15 September 1885",
+      "stanzaCount": 13,
+      "lineCount": 26
+    },
+    {
+      "id": "500",
+      "number": 500,
+      "title": "For Little Miss May Pearl Richards",
+      "composed": "in July 1886",
+      "stanzaCount": 4,
+      "lineCount": 16
+    },
+    {
+      "id": "501",
+      "number": 501,
+      "title": "A Brother’s and a Sister’s Love",
+      "subtitle": "Respectfully and Expressively Painted in Poetry",
+      "composed": "4 or 7 October 1886",
+      "published": "Deseret News, 3 November 1886",
+      "stanzaCount": 16,
+      "lineCount": 53
+    },
+    {
+      "id": "502",
+      "number": 502,
+      "title": "“May your children”",
+      "date": "n.d.",
+      "stanzaCount": 1,
+      "lineCount": 4
+    },
+    {
+      "id": "503",
+      "number": 503,
+      "title": "Retrospective and Prospective",
+      "composed": "January 1887",
+      "published": "Deseret News, 9 February 1887",
+      "stanzaCount": 11,
+      "lineCount": 131
+    },
+    {
+      "id": "504",
+      "number": 504,
+      "title": "Mrs. M. H. Munn, Beloved Exile",
+      "composed": "17 June 1887",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "505",
+      "number": 505,
+      "title": "My Dear Sister Annie Hyde",
+      "date": "n.d.",
+      "stanzaCount": 3,
+      "lineCount": 12
+    },
+    {
+      "id": "506",
+      "number": 506,
+      "title": "Three Hundred Graves in Pisgah",
+      "composed": "29 July 1887",
+      "published": "Reminiscences of Latter-day Saints, 1888",
+      "stanzaCount": 7,
+      "lineCount": 28
+    },
+    {
+      "id": "507",
+      "number": 507,
+      "title": "Evening Thoughts",
+      "composed": "24 August 1887",
+      "published": "Woman’s Exponent, 1 September 1887",
+      "stanzaCount": 11,
+      "lineCount": 44
+    }
+  ]
+}

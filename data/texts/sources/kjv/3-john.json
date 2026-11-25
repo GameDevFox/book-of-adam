@@ -1,0 +1,69 @@
+{
+  "book": "3 John",
+  "full_title": "The Third Epistle of John",
+  "lds_slug": "3-jn",
+  "chapters": [
+    {
+      "chapter": 1,
+      "reference": "3 John 1",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "3 John 1:1"
+        },
+        {
+          "verse": 2,
+          "reference": "3 John 1:2"
+        },
+        {
+          "verse": 3,
+          "reference": "3 John 1:3"
+        },
+        {
+          "verse": 4,
+          "reference": "3 John 1:4"
+        },
+        {
+          "verse": 5,
+          "reference": "3 John 1:5"
+        },
+        {
+          "verse": 6,
+          "reference": "3 John 1:6"
+        },
+        {
+          "verse": 7,
+          "reference": "3 John 1:7"
+        },
+        {
+          "verse": 8,
+          "reference": "3 John 1:8"
+        },
+        {
+          "verse": 9,
+          "reference": "3 John 1:9"
+        },
+        {
+          "verse": 10,
+          "reference": "3 John 1:10"
+        },
+        {
+          "verse": 11,
+          "reference": "3 John 1:11"
+        },
+        {
+          "verse": 12,
+          "reference": "3 John 1:12"
+        },
+        {
+          "verse": 13,
+          "reference": "3 John 1:13"
+        },
+        {
+          "verse": 14,
+          "reference": "3 John 1:14"
+        }
+      ]
+    }
+  ]
+}

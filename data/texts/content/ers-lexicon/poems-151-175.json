@@ -1,0 +1,956 @@
+{
+  "id": "poems-151-175",
+  "title": "Poems 151–175",
+  "units": [
+    {
+      "id": "151",
+      "title": "To Mrs. Loisa Lyman",
+      "meta": {
+        "number": "151",
+        "date": "n.d.",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Dear Sister do no longer stay\n\tFrom those that love you well\nBut hasten home without delay\n\tAnd in the City dwell;\nFor here are hearts with pulses true\nThat beat remembrances of you."
+        },
+        {
+          "id": "s2",
+          "text": "The Temple of the Lord on high\n\tWith noble grandeur here,\nIs rising up, the ‘single’ eye\n\tAnd contrite heart to cheer:\nThen to our fav’rite City come\nAnd share with us the sweets of home."
+        },
+        {
+          "id": "s3",
+          "text": "The light of truth with purest ray\n\tIs emanating here,\nTo usher in eternal day—\n\tEternity is near:\nAnd of eternal life possess’d\nWe’ll share a fulness of its rest."
+        },
+        {
+          "id": "s4",
+          "text": "Altho’ oppression binds its chain\n\tAnd spreads its rage abroad;\nHere peace and love, and order reign\n\tAmong the saints of God;\nThen lady, hasten to Nauvoo,\nYour lord is waiting here for you."
+        }
+      ]
+    },
+    {
+      "id": "152",
+      "title": "My Father in Heaven",
+      "meta": {
+        "subtitle": "[“O my Father”]",
+        "number": "152",
+        "composed": "October 1845",
+        "published": "Times and Seasons, 15 November 1845",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "O my Father, thou that dwellest\n\tIn the high and glorious place;\nWhen shall I regain thy presence,\n\tAnd again behold thy face?"
+        },
+        {
+          "id": "s2",
+          "text": "In thy holy habitation\n\tDid my spirit once reside?\nIn my first primeval childhood\n\tWas I nurtur’d near thy side?"
+        },
+        {
+          "id": "s3",
+          "text": "For a wise and glorious purpose\n\tThou hast plac’d me here on earth,\nAnd withheld the recollection\n\tOf my former friends and birth:"
+        },
+        {
+          "id": "s4",
+          "text": "Yet oft times a secret something\n\tWhispered you’re a stranger here;\nAnd I felt that I had wandered\n\tFrom a more exalted sphere."
+        },
+        {
+          "id": "s5",
+          "text": "I had learn’d to call thee father\n\tThrough thy spirit from on high;\nBut until the key of knowledge\n\tWas restor’d, I knew not why."
+        },
+        {
+          "id": "s6",
+          "text": "In the heav’ns are parents single?\n\tNo, the thought makes reason stare;\nTruth is reason—truth eternal\n\tTells me I’ve a mother there."
+        },
+        {
+          "id": "s7",
+          "text": "When I leave this frail existence—\n\tWhen I lay this mortal by,\nFather, mother, may I meet you\n\tIn your royal court on high?"
+        },
+        {
+          "id": "s8",
+          "text": "Then, at length, when I’ve completed\n\tAll you sent me forth to do,\nWith your mutual approbation\n\tLet me come and dwell with you."
+        }
+      ]
+    },
+    {
+      "id": "153",
+      "title": "President Brigham Young and His Lady, Presidentess Mary Ann Young",
+      "meta": {
+        "number": "153",
+        "composed": "7 January 1846"
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Upon the Altar of the Lord,\n\tWithin his holy House;\nTheir covenants were sealed—and there\n\tThey plighted mutual vows."
+        }
+      ]
+    },
+    {
+      "id": "154",
+      "title": "The Camp of Israel",
+      "meta": {
+        "number": "154",
+        "composed": "19 February 1846",
+        "published": "Millennial Star, 15 May 1848",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Altho’ in woods and tents we dwell,\nShout, shout O Camp of Israel!\nNo Gentile mobs on earth can bind\nOur thoughts, or steal our peace of mind."
+        },
+        {
+          "id": "s2",
+          "text": "\t\t\t\tCHORUS.\nTho’ oppression’s waves roll o’er us,\n\tWe will praise our God and king;\nWe’ve a better day before us—\n\tOf that day we proudly sing."
+        },
+        {
+          "id": "s3",
+          "text": "We’d better live in tents and smoke\nThan wear the cursed Gentile yoke;\nWe’d better from our country fly\nThan by religious mobs to die."
+        },
+        {
+          "id": "s4",
+          "text": "\t\tChorus—Tho’ oppression’s, &c."
+        },
+        {
+          "id": "s5",
+          "text": "We’ve left the city of Nauvoo,\nAnd our beloved Temple too;\nAnd to the wilderness we go\nAmid the winter frosts and snow."
+        },
+        {
+          "id": "s6",
+          "text": "\t\tChorus—Tho’ oppression’s, &c."
+        },
+        {
+          "id": "s7",
+          "text": "Our homes were dear, we lov’d them well;\nBeneath our roofs ’twas sweet to dwell,\nAnd honour the great God’s commands,\nBy mutual rights of Christian lands."
+        },
+        {
+          "id": "s8",
+          "text": "\t\tChorus—Tho’ oppression’s, &c."
+        },
+        {
+          "id": "s9",
+          "text": "Our persecutors will not cease\nTheir murd’rous spoiling of our peace;\nAnd for their hatred we must go\nTo wilds where reeds and rushes grow."
+        },
+        {
+          "id": "s10",
+          "text": "\t\tChorus—Tho’ oppression’s, &c."
+        },
+        {
+          "id": "s11",
+          "text": "The Camp—the Camp—its numbers swell!\nShout, shout O Camp of Israel!\nThe King, the Lord of Hosts is near;\nHis armies guard our front and rear."
+        },
+        {
+          "id": "s12",
+          "text": "\t\tChorus—Tho’ oppression’s, &c."
+        }
+      ]
+    },
+    {
+      "id": "155",
+      "title": "Song for the Camp of Israel",
+      "meta": {
+        "number": "155",
+        "composed": "1 March 1846",
+        "published": "Millennial Star, 1 July 1848",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Lo! a mighty host of Jacob\n\tTented on the western shore\nOf the noble Mississippi,\n\tWhich they had been crossing o’er;\nAt the last day’s dawn of winter,\n\tBound with frost and wrapt in snow:\nHark! the sound is onward, onward!\n\tCamp of Israel! rise and go."
+        },
+        {
+          "id": "s2",
+          "text": "All at once is life and motion,\n\tTrunks and beds, and baggage fly;\nOxen yok’d and horses harness’d,—\n\tTents roll’d up, are passing by;\nSoon the carriage-wheels are rolling\n\tOnward to a woodland dell,\nWhere, at sunset, all are quarter’d:\n\tCamp of Israel! all is well."
+        },
+        {
+          "id": "s3",
+          "text": "Thickly round the tents are cluster’d\n\tNeighbouring smokes, together blend;\nSupper serv’d, the hymns are chanted,\n\tAnd the evening prayers ascend.\nLast of all the guards are station’d:\n\tHeavens! must guards be serving here;\nWho would harm the houseless exiles?\n\tCamp of Israel! never fear."
+        },
+        {
+          "id": "s4",
+          "text": "Where is freedom? Where is justice?\n\tBoth have from this nation fled;\nAnd the blood of martyr’d prophets\n\tMust be answer’d on its head!\nTherefore, to your tents, O Jacob!\n\tLike our father Abram dwell;\nGod will execute his purpose:\n\tCamp of Israel! all is well."
+        }
+      ]
+    },
+    {
+      "id": "156",
+      "title": "Song for the Camp of Israel",
+      "meta": {
+        "subtitle": "Let Us Go",
+        "number": "156",
+        "composed": "22 March 1846",
+        "published": "Millennial Star, 1 June 1848",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Let us go—let us go to the ends of the earth—\nLet us go far away from the land of our birth;\nFor the banner of “freedom” no longer will wave\nO’er the patriots’ tomb—o’er the dust of the brave."
+        },
+        {
+          "id": "s2",
+          "text": "Let us go—let us go from a country of strife—\nFrom a land where the wicked are seeking our life—\nFrom a country where justice no longer remains—\nFrom which virtue is fled and iniquity reigns."
+        },
+        {
+          "id": "s3",
+          "text": "Let us go—let us go from a government where\nThe just rights of protection we never can share—\nWhere the soil we have purchas’d we cannot enjoy\nTill the time when “the waster goes forth to destroy.”"
+        },
+        {
+          "id": "s4",
+          "text": "Let us go—let us go to the wilds for a home,\nWhere the wolf and the roe and the buffalo roam;\nWhere the life-inspired “eagle” in “liberty” flies—\nWhere the mountains of Israel in majesty rise."
+        },
+        {
+          "id": "s5",
+          "text": "Let us go—let us go to a country whose soil\nCan be made to produce wine, milk, honey, and oil—\nWhere beneath our own vines we may sit and enjoy\nThe rich fruit of our labours, with none to annoy."
+        },
+        {
+          "id": "s6",
+          "text": "Let us go—let us go where our rights are secure—\nWhere the waters are clear and the atmosphere pure—\nWhere the hand of oppression has never been felt—\nWhere the blood of the prophet has never been spilt."
+        },
+        {
+          "id": "s7",
+          "text": "Let us go—let us go where the kingdom of God\nWill be seen in its order extending abroad—\nWhere the Priesthood again will exhibit its worth\nIn the regeneration of heaven and earth."
+        },
+        {
+          "id": "s8",
+          "text": "Let us go—let us go to the far western shore,\nWhere the blood-thirsty “christians” will hunt us no more;\nWhere the waves of the ocean will echo the sound,\nAnd the shout of salvation be heard the world round."
+        }
+      ]
+    },
+    {
+      "id": "157",
+      "title": "In All Things Rejoice",
+      "meta": {
+        "number": "157",
+        "composed": "5 April 1846",
+        "published": "Poems 1, 1856",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "O, ye toss’d to and fro, and afflicted!\n\tRejoice in the hope of your lot;\nFor you’re truly the children of Israel,\n\tBut the Gentiles know it not;\nAnd it matters not when or whither\n\tYou go, neither whom among;\nOnly so that you closely follow\n\tYour leader, Brigham Young."
+        },
+        {
+          "id": "s2",
+          "text": "Let the spirit of peace and union,\n\tAnd the practice of righteousness,\nBe your prominent characteristics\n\tAs you go to the wilderness:\nAnd the blessings of heaven will attend you\n\tBoth in time and eternity,\nIf you strictly adhere to the counsel\n\tOf Brigham and Heber C."
+        },
+        {
+          "id": "s3",
+          "text": "The Spirit and power of Jehovah\n\tWill be guiding your feet along;\nFor the angels of God are with you—\n\tThey mingle in Israel’s throng.\nIn sunshine, in storms, and in tempests—\n\tIn all changes, console yourselves,\nThat your sharers in sorrow and joy are\n\tBrigham, Heber, and all the Twelve."
+        }
+      ]
+    },
+    {
+      "id": "158",
+      "title": "To Mrs. V. Kimball",
+      "meta": {
+        "number": "158",
+        "composed": "25 April 1846",
+        "published": "Poems 1, 1856",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Thou much belov’d in Zion,\n\tRemember, life is made\nA double-sided picture,\n\tContrasting light and shade."
+        },
+        {
+          "id": "s2",
+          "text": "Our Father means to prove us;\n\tAnd when we’re fully tried,\nHe will reverse the drawing,\n\tAnd show the better side."
+        },
+        {
+          "id": "s3",
+          "text": "Then, then we’ll be astonish’d,\n\tThat ignorance could throw\nSuch dismal shades of darkness\n\tWhere light and beauty glow."
+        },
+        {
+          "id": "s4",
+          "text": "The mists that hide the future\n\tAre round our visions thrown;\nBut when, as seen, we’re seeing,\n\tAnd know as we are known."
+        },
+        {
+          "id": "s5",
+          "text": "Whatever seems forbidding,\n\tAnd tending to annoy,\nWill, like dull shadows, vanish,\n\tOr turn to crowns of joy."
+        }
+      ]
+    },
+    {
+      "id": "159",
+      "title": "Lines",
+      "meta": {
+        "subtitle": "Addressed to Father John Smith, a Patriarch in Zion",
+        "number": "159",
+        "composed": "ca. 22 October 1846",
+        "published": "Millennial Star, 1 September 1848",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Great glory awaits thee, thou father in Israel,\n\tTo reward all thy toil and thy labors of love;\nThe angels that guard thee—that watch o’er thy pathway—\n\tAre proud to report thee in councils above."
+        },
+        {
+          "id": "s2",
+          "text": "The pathway that leads to the mansions of glory,\n\tWhere freedom and justice eternally reign,\nThe Lord God of Jacob has chose for thy footsteps,\n\tTo bring thee to dwell in his presence again."
+        },
+        {
+          "id": "s3",
+          "text": "Thou art greatly beloved by the Saints that surround thee;\n\tThey have tasted thy blessings, and greatly rejoice:\nThe power of the Priesthood is felt through thy presence—\n\tThe weak become strong, at the sound of thy voice."
+        },
+        {
+          "id": "s4",
+          "text": "Thou art greatly beloved by the councils of heaven,\n\tWhere once thou wast seated, and where still thy name\nIs spoken with honor, and held in remembrance,\n\tUntil thou shalt return to their sittings again."
+        },
+        {
+          "id": "s5",
+          "text": "I have oft felt the power of thy blessing upon me,\n\tAnd my heart feels to bless thee, thou servant of God;\nAnd say, thou’lt be hid in the chambers of Israel,\n\tWhile the great indignation is raging abroad."
+        },
+        {
+          "id": "s6",
+          "text": "For He that appointeth the times and the seasons,\n\tAllotted thy calling and work on the earth;\nAnd here in his sight will thy life be held precious,\n\tTill thou hast fulfilled the design of thy birth."
+        },
+        {
+          "id": "s7",
+          "text": "When thou shalt have finished thy toils and thy labors,\n\tThou wilt rest for awhile for thy present reward;\nThou wilt join with the spirits of just men made perfect,\n\tAnd enter with triumph the joy of thy Lord;"
+        },
+        {
+          "id": "s8",
+          "text": "And then in the morn of the first resurrection\n\tThou’lt come forth to reign with the Saviour on earth;\nMade holy and pure through the regeneration,\n\tThe Gods will rejoice in thy glorious birth."
+        }
+      ]
+    },
+    {
+      "id": "160",
+      "title": "To Mrs. Hester Ann Geen",
+      "meta": {
+        "subtitle": "on the Death of Her Husband, Elder William Geen",
+        "number": "160",
+        "composed": "ca. 25 October 1846",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Mourn not for him—he’s gone to rest\nHis spirit mingles with the blest;\nFreed from the cares, the toils and strife\nAttendant on this present life:"
+        },
+        {
+          "id": "s2",
+          "text": "Mourn not for him—he’s gone to join\nWith noble ones of Abra’m’s line—\nFor he is one of noble race\nAnd shares a royal resting place."
+        },
+        {
+          "id": "s3",
+          "text": "Mourn not for him—he was belov’d\nBy those whom God the most approv’d\nFor he was upright, good and just\nAnd faithful to each sacred trust."
+        },
+        {
+          "id": "s4",
+          "text": "Mourn not for him—for tho’ he’s gone\nHis works will still continue on—\nUntil he shall again come forth\nTo reign in peace upon the earth."
+        },
+        {
+          "id": "s5",
+          "text": "Mourn not for him, altho’ your heart\nShould seem to say ’tis hard to part—\nBe still—the trial yet will tend\nTo your best int’rest in the end."
+        },
+        {
+          "id": "s6",
+          "text": "Mourn not—rejoice, for you shall prove\nAn honor unto him you love;\nAnd glorious will be your reward\nWith him, your faithful, loving Lord."
+        }
+      ]
+    },
+    {
+      "id": "161",
+      "title": "“Belov’d Eliza, do not weep”",
+      "meta": {
+        "number": "161",
+        "composed": "14 December 1846",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Belov’d Eliza, do not weep\nYour baby sleeps a quiet sleep;\nAltho’ in dust its body lies\nIts spirit soars above the skies."
+        },
+        {
+          "id": "s2",
+          "text": "No more upon your throbbing breast\nIt lays its little head to rest—\nFrom all the pains of nature freed,\nYour fond caress it does not need."
+        },
+        {
+          "id": "s3",
+          "text": "Sweet was its visit but its stay\nOn earth was short—’twas call’d away\nBy kindred spirits to fulfil\nIts calling and Jehovah’s will."
+        },
+        {
+          "id": "s4",
+          "text": "Then soothe your feeling—do not mourn,\nYour noble offspring will return,\nWith all its loveliness again\nAnd with its friends on earth remain."
+        }
+      ]
+    },
+    {
+      "id": "162",
+      "title": "“They are gone—they are gone to a kingdom of rest”",
+      "meta": {
+        "number": "162",
+        "composed": "22 December 1846",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "They are gone—they are gone to a kingdom of rest—\nThey are gone—they are gone to the home of the blest\nFar away from the ills of this lower abode—\nThey have gone to reside in a mansion of God."
+        },
+        {
+          "id": "s2",
+          "text": "They are gone—they are gone to a residence where\nNoble spirits rejoice in their presence to share\nWho, thro’ all their long absence desir’d them to come\nAnd with shouts of hosanna they welcom’d them home."
+        },
+        {
+          "id": "s3",
+          "text": "They are gone—they are gone back again to pursue\nAnd accomplish the work there appointed to do;\nCrown’d with blessing and honor they yet will return\nAnd rejoice with the friends they have left here to mourn."
+        }
+      ]
+    },
+    {
+      "id": "163",
+      "title": "Lines",
+      "meta": {
+        "subtitle": "on the Death of Three Small Children of W. & P. Woodruff Written by Her Request",
+        "number": "163",
+        "composed": "11 January 1847",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Mourn not for them, their bodies rest\n\tSo sweetly in the ground—\nAnd they’ll awake to life again\n\tAt the first trumpet’s sound."
+        },
+        {
+          "id": "s2",
+          "text": "Mourn not for them for they are now\n\tAssociated where\nThe purest pleasures heav’n can boast\n\tThey’re privileg’d to share."
+        },
+        {
+          "id": "s3",
+          "text": "Mourn not for them—they’re not as when\n\tCaress’d upon your knee;\nThey now are noble spirits, and\n\tDisrob’d of infancy."
+        },
+        {
+          "id": "s4",
+          "text": "Mourn not for them: the helpless state\n\tWhich they submitted to\nWas for the body’s sake, but more\n\tTo prove their love for you."
+        },
+        {
+          "id": "s5",
+          "text": "Mourn not for them: they laid aside\n\tTheir dignity to come\nAnd visit you and stay on earth\n\tUntil they were call’d home."
+        },
+        {
+          "id": "s6",
+          "text": "Mourn not for them: they will return\n\tWith grace and honor crown’d\nTo bless your household and to spread\n\tIntelligence around."
+        }
+      ]
+    },
+    {
+      "id": "164",
+      "title": "To All the Ladies Who Reside",
+      "meta": {
+        "subtitle": "in the 2d Mansion of Prest. B. Young",
+        "number": "164",
+        "composed": "26 January 1847",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Beloved sisters all unite.\n\tIn music’s sweetest strains—\n’Twill prove a fountain of delight\n\tWhile love with you remains."
+        },
+        {
+          "id": "s2",
+          "text": "Songs of the righteous, saith the Lord\n\tAre prayers unto me—\nOur spirits prove the rich reward\n\tOf sacred harmony."
+        },
+        {
+          "id": "s3",
+          "text": "Let not a gift be buried low\n\tThat with a proper care\nAnd cultivation will bestow\n\tCelestial pleasure there."
+        },
+        {
+          "id": "s4",
+          "text": "What wisdom dictates for our good\n\tShould be our steady aim;\nAnd no excuse should e’er intrude\n\tWhere duty holds a claim."
+        },
+        {
+          "id": "s5",
+          "text": "Sweet social music has a pow’r\n\tTo soothe the troubled breast;\nAnd at the close of business hour\n\tTo calm the nerves for rest."
+        },
+        {
+          "id": "s6",
+          "text": "Its worth the holy fathers knew\n\tIn nature’s lovely prime—\nThe ancient mothers lov’d it too,\n\tAnd practic’d in their time."
+        },
+        {
+          "id": "s7",
+          "text": "Bright patterns may you ever prove\n\tIn things of noble worth;\nAnd may your music rank above\n\tThe minstrelsy of earth."
+        },
+        {
+          "id": "s8",
+          "text": "Redeem the gift from long abuse\n\tWhen by the gentiles shar’d—\nO bring it back from satan’s use\n\tAnd with it praise the Lord."
+        }
+      ]
+    },
+    {
+      "id": "165",
+      "title": "To Charles and Vilate",
+      "meta": {
+        "number": "165",
+        "composed": "4 February 1847",
+        "published": "Poems 1, 1856",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Please accept my warmest wishes\n\tFor your good, you wedded pair;\nThat the richest, choicest blessings\n\tHeaven may grant your lot to share."
+        },
+        {
+          "id": "s2",
+          "text": "Peace and friendship, love and union,\n\tPlenteous as the summer dew,\nMay they on your opening pathway\n\tGems of sacred pleasure strew."
+        },
+        {
+          "id": "s3",
+          "text": "May you feel the Holy Spirit\n\tFreely through your bosoms flow,\nTill at length you shall inherit\n\tAll the Priesthood can bestow."
+        },
+        {
+          "id": "s4",
+          "text": "When your life, both long and happy,\n\tYou have finish’d here on earth,\nSweetly sleep, then re-awaken\n\tIn a high celestial birth."
+        }
+      ]
+    },
+    {
+      "id": "166",
+      "title": "Acrostic for Anna Geen",
+      "meta": {
+        "number": "166",
+        "composed": "4 March 1847",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "May the spirit of contentment,\n\tIn your bosom ever dwell;\nSuch as in the hour of trial\n\tSweetly whispers, “all is well.”"
+        },
+        {
+          "id": "s2",
+          "text": "As the blooming rose of summer\n\tNe’er withdraws its fragrant breath\nNever may your love and friendship\n\tAnd your kindness cease till death."
+        },
+        {
+          "id": "s3",
+          "text": "Greatness, goodness, light and wisdom,\n\tEndless happiness and peace,\nEvermore adorn your pathway—\n\tNever shall your blessings cease."
+        }
+      ]
+    },
+    {
+      "id": "167",
+      "title": "Lines for the Album of Mrs. Margarett Whitesides",
+      "meta": {
+        "number": "167",
+        "composed": "4 March 1847",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Beauteous as the op’ning rosebud\n\t’Neath its shady leafy stem—\nPure as summer morning dew drops—\n\tBrilliant as the sparkling gem—"
+        },
+        {
+          "id": "s2",
+          "text": "Lovely as the modest vi’let—\n\tCharming as the lily fair—\nRich as orient spicy odors\n\tMoving on the twilight air."
+        },
+        {
+          "id": "s3",
+          "text": "Tuneful as seraphic minstrels—\n\tBright as Phebus’ noontide glow;\nLady, be your own blest halo—\n\tSuch your life’s encircling bow."
+        },
+        {
+          "id": "s4",
+          "text": "All your works will be rewarded—\n\tAll your goodness be repaid—\nCrowns of royalty await you—\n\tGlorious crowns that will not fade."
+        }
+      ]
+    },
+    {
+      "id": "168",
+      "title": "Composed for Mrs. Patty Sessions",
+      "meta": {
+        "number": "168",
+        "composed": "7 March 1847",
+        "published": "Woman’s Exponent, 1 June 1885",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Truth and holiness and love,\n\tWisdom, honor, joy and peace—\nThat which cometh from above,\n\tIn your pathway shall increase."
+        },
+        {
+          "id": "s2",
+          "text": "Thus the Spirit of the Lord\n\tIn your bosom shall abide;\nAnd produce a rich reward,\n\tWhile the “still small voice” shall guide."
+        },
+        {
+          "id": "s3",
+          "text": "Faith and holy confidence,\n\tThat will bear your spirit up,\nShall henceforward recompense\n\tAll the bitter of your cup."
+        },
+        {
+          "id": "s4",
+          "text": "Righteous are your heart’s desires,\n\tAnd they will not be denied;\nBut our Father oft requires\n\tThat our patience shall be tried."
+        },
+        {
+          "id": "s5",
+          "text": "Though He should at times withhold\n\tLonger than your hopes expect:\nYou’ll receive a double fold\n\tWhen His wisdom shall direct."
+        },
+        {
+          "id": "s6",
+          "text": "Therefore, let your spirit rest—\n\tGod will order all things well;\nAnd ere long you will be blest\n\tMore than human speech can tell."
+        },
+        {
+          "id": "s7",
+          "text": "And the Lord Himself will spread\n\tThro’ your heart a holy pride\nOf your chosen earthly head,\n\tYour companion by your side."
+        },
+        {
+          "id": "s8",
+          "text": "Mutual shall your blessings be—\n\tMutual joys shall crown your way:\nThus in time:—Eternity\n\tOpens to a brighter day."
+        }
+      ]
+    },
+    {
+      "id": "169",
+      "title": "Lines for Mrs. Wooley’s Album",
+      "meta": {
+        "number": "169",
+        "composed": "8 March 1847",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Lady were it mine to bless you\n\tWith the purest, sweetest joys\nNought on earth should dispossess you\n\tOf one gift that never cloys."
+        },
+        {
+          "id": "s2",
+          "text": "Be thou blest, and blest forever\n\tWith what few perchance to find,\nFrom your breast, let nothing sever\n\tHeav’n’s best jewel, peace of mind."
+        },
+        {
+          "id": "s3",
+          "text": "Hold your feelings in subjection\n\tTo your judg’ment’s better sway:\nProud to yield to the direction\n\tOf the lord whom you obey."
+        },
+        {
+          "id": "s4",
+          "text": "Noble are the condescensions\n\tWhich superior spirits make:\nThus they widen their dimensions,\n\tAnd of purer joys partake."
+        },
+        {
+          "id": "s5",
+          "text": "If we’re prompt to do whatever\n\tDuty claims our service here;\nWe may calmly rest, and never\n\tNeed indulge in idle fear."
+        },
+        {
+          "id": "s6",
+          "text": "For his holy approbation\n\tGod our Father will bestow;\nAnd the streams of consolation\n\tSweetly to our bosoms flow."
+        },
+        {
+          "id": "s7",
+          "text": "May your influence wise and cheering\n\tWider and more widely spread,\nTill ten thousand hearts endearing\n\tPour their blessings on your head."
+        },
+        {
+          "id": "s8",
+          "text": "Be thou blest and blest forever\n\tWith that gem the upright find;\nGuard it well—let nothing sever\n\tFrom your bosom, peace of mind."
+        }
+      ]
+    },
+    {
+      "id": "170",
+      "title": "To Br. Robert Pierce & Family",
+      "meta": {
+        "subtitle": "on the Death of Mary",
+        "number": "170",
+        "composed": "17 March 1847",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Mary’s gone—she’s gone: but whither?\n\tTo the paradise of love:\nGone to mingle in the circle\n\tOf our friends who dwell above."
+        },
+        {
+          "id": "s2",
+          "text": "Did they not rejoice to meet her?\n\tThey had sent for her to come,\nAnd were waiting to receive her—\n\tShe was freely welcom’d home."
+        },
+        {
+          "id": "s3",
+          "text": "There she is a gem of honor;\n\tYes, a gem of precious worth:\nShe will there increase the glory\n\tOf her kindred on the earth."
+        },
+        {
+          "id": "s4",
+          "text": "Tho’ she’s gone from us, she’s moving\n\tIn a more exalted sphere:\nAnd while she is made more happy\n\tDo we well to shed a tear?"
+        },
+        {
+          "id": "s5",
+          "text": "Could we for one passing moment\n\tDeath’s dark mystery unfold—\nCould we draw aside the curtain,\n\tAnd eternity behold,"
+        },
+        {
+          "id": "s6",
+          "text": "We should chide our grief and sorrow\n\tAnd suppress each rising sigh;\nAnd rejoice in death, the portal\n\tOp’ning to the worlds on high."
+        },
+        {
+          "id": "s7",
+          "text": "Therefore, bow in sweet submission.\n\tGod has chasten’d you in love;\nYou will yet rejoice with Mary\n\tIn the royal courts above."
+        }
+      ]
+    },
+    {
+      "id": "171",
+      "title": "A Journeying Song",
+      "meta": {
+        "subtitle": "for the Camp of Israel",
+        "number": "171",
+        "composed": "18 March 1847",
+        "published": "Millennial Star, 1 November 1847",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "The time of winter now is o’er—\n\tThere’s verdure on the plain;\nWe leave our shelt’ring roofs once more,\n\tAnd to our tents again."
+        },
+        {
+          "id": "s2",
+          "text": "\t\t\tCHORUS.\n\t\tThou Camp of Israel! onward move—\n\t\tO Jacob! rise and sing.\n\t\tYe Saints! the world’s salvation prove,\n\t\tAll hail! to Zion’s King."
+        },
+        {
+          "id": "s3",
+          "text": "We go to choice and goodly lands,\n\tWith rich and fertile soil:\nThat, with the labour of our hands,\n\tWill yield us wine and oil."
+        },
+        {
+          "id": "s4",
+          "text": "\t\tChorus—Thou Camp of Israel, &c."
+        },
+        {
+          "id": "s5",
+          "text": "We go beside the mountain cliffs\n\tWhere purest waters flow—\nWhere nature will her precious gifts\n\tAbundantly bestow."
+        },
+        {
+          "id": "s6",
+          "text": "\t\tChorus—Thou Camp of Israel, &c."
+        },
+        {
+          "id": "s7",
+          "text": "We’ll find a climate pure and free\n\tProducing life and health;\nWhere steady care and industry\n\tWill be a source of wealth."
+        },
+        {
+          "id": "s8",
+          "text": "\t\tChorus—Thou Camp of Israel, &c."
+        },
+        {
+          "id": "s9",
+          "text": "And there again we will surround\n\tIn peace, the luscious board;\nAnd share the products of the ground\n\tWith skill and prudence stor’d."
+        },
+        {
+          "id": "s10",
+          "text": "\t\tChorus—Thou Camp of Israel, &c."
+        },
+        {
+          "id": "s11",
+          "text": "We leave the mobbing Gentile race,\n\tWho thirst to shed our blood;\nTo rest in Jacob’s hiding place\n\tWhere Nephite temples stood."
+        },
+        {
+          "id": "s12",
+          "text": "\t\tChorus—Thou Camp of Israel, &c."
+        },
+        {
+          "id": "s13",
+          "text": "We seek a land where truth will reign,\n\tAnd innocence be free—\nWhere lawful rights will be maintain’d—\n\tA land of liberty."
+        },
+        {
+          "id": "s14",
+          "text": "\t\tChorus—Thou Camp of Israel, &c."
+        },
+        {
+          "id": "s15",
+          "text": "We seek a land of holiness,\n\tWhere justice to the line\nAnd to the plummet, righteousness\n\tWill ev’ry work define."
+        },
+        {
+          "id": "s16",
+          "text": "\t\tChorus—Thou Camp of Israel, &c."
+        },
+        {
+          "id": "s17",
+          "text": "We go where virtue will be known,\n\tAnd merit meet its due;\nFor Zion’s pathway will be shown\n\tWith light and glory too."
+        },
+        {
+          "id": "s18",
+          "text": "\t\tChorus—Thou Camp of Israel, &c."
+        },
+        {
+          "id": "s19",
+          "text": "We go where hypocrites will fear\n\tAnd tremble at the word,\nOf him, who is appointed here\n\tTo wield the two-edg’d sword."
+        },
+        {
+          "id": "s20",
+          "text": "\t\tChorus—Thou Camp of Israel, &c."
+        },
+        {
+          "id": "s21",
+          "text": "We’ll find the land the prophet saw\n\tIn Vision, when he said;\n“There, there will the celestial law\n\tBe given and obey’d.”"
+        },
+        {
+          "id": "s22",
+          "text": "\t\tChorus—Thou Camp of Israel, &c."
+        },
+        {
+          "id": "s23",
+          "text": "We go where nations yet will come\n\tIn ships, from climes abroad;\nTo seek protection, and a home,\n\tAnd worship Israel’s God."
+        },
+        {
+          "id": "s24",
+          "text": "\t\tChorus—Thou Camp of Israel, &c."
+        },
+        {
+          "id": "s25",
+          "text": "We’ll build in peace and safety there,\n\tA city to the Lord:\nAnd shout amid our toils to share.\n\tA Latter-day’s reward."
+        },
+        {
+          "id": "s26",
+          "text": "\t\tChorus—Thou Camp of Israel, &c."
+        }
+      ]
+    },
+    {
+      "id": "172",
+      "title": "“Round the grave there are no shadows”",
+      "meta": {
+        "number": "172",
+        "composed": "5 April 1847",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Round the grave there are no shadows—\n\t’Tis no more a dread to die:\nDeath is but a friendly porter\n\tOp’ning to the worlds on high."
+        },
+        {
+          "id": "s2",
+          "text": "Tho’ the friends we dearly cherish\n\tFor a while are call’d to leave;\nThey have only pass’d the curtain—\n\tAll is well—we should not grieve."
+        },
+        {
+          "id": "s3",
+          "text": "Time is onward—things eternal\n\tNow are strew’d along our way;\nAnd ere long our growing vision\n\tWill embrace immortal day."
+        },
+        {
+          "id": "s4",
+          "text": "Mourn not for your once lov’d Susan—\n\tLove her still—she’s gone above,\nTo fulfil a heav’nly mission—\n\tTo perform a work of love."
+        },
+        {
+          "id": "s5",
+          "text": "God in kindness has appointed\n\tYou another loving bride\nAnd in time to come will many\n\tMore be clinging to your side."
+        },
+        {
+          "id": "s6",
+          "text": "Then let Susan’s name be honor’d,\n\tAnd her merits often told:\nLet her mem’ry be more precious\n\tThan rich di’monds set in gold."
+        },
+        {
+          "id": "s7",
+          "text": "You will yet again behold her—\n\tShe will be your own again;\nGlorious with angelic beings\n\tProudly mingling in her train."
+        }
+      ]
+    },
+    {
+      "id": "173",
+      "title": "The Twelve",
+      "meta": {
+        "number": "173",
+        "composed": "11 April 1847",
+        "published": "Poems 1, 1856",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "They have gone, they have gone, new privations to share,\nGone as Abraham went when he knew not where;\nThey have gone like the deer when pursued in the chase,\nTo secure for the Saints a safe hiding-place."
+        },
+        {
+          "id": "s2",
+          "text": "Why, O why must they go to the depth of the wild,\nWhere Cultivation for centuries has not smil’d?\nWherefore thus on a pilgrimage must they go forth\nAnd forsake all the comforts and blessings of earth?"
+        },
+        {
+          "id": "s3",
+          "text": "They are call’d to be saviors; and saviors must flee\nTo a wilderness home for security,\nWhile the anger of nations is raging abroad,\nWhile the Gentiles are feeling the judgments of God."
+        },
+        {
+          "id": "s4",
+          "text": "They have gone, they have gone: may the Spirit’s sweet voice\nWhisper comfort and peace, that their hearts may rejoice:\nMay an angel of presence on each one attend,\nTo protect from all ill, and preserve to the end."
+        },
+        {
+          "id": "s5",
+          "text": "And when God directs, may they retrace their track,\nAnd to these Winter Quarters in safety come back;\nThat the Saints who tarry may be of good cheer,\nAnd with heart-felt rejoicings, welcome them here."
+        }
+      ]
+    },
+    {
+      "id": "174",
+      "title": "To Mrs. E. A. W.",
+      "meta": {
+        "number": "174",
+        "composed": "13 April 1847",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Great and glorious was thy station—\n\tGreater still it is to be;\nWhen thy right and exaltation\n\tCome thro’ Jesus Christ to thee."
+        },
+        {
+          "id": "s2",
+          "text": "Thou hast been his loving sister—\n\tThou hast been his faithful bride;\nFor in many times and places\n\tThou hast acted by his side."
+        },
+        {
+          "id": "s3",
+          "text": "The great Elohim, thy father\n\tEver lov’d and loves thee still;\nHe will give thee strength and wisdom\n\tDay by day to do his will."
+        },
+        {
+          "id": "s4",
+          "text": "Let thy heart be fill’d with comfort\n\tThro’ this darksome, thorny way;\nFather’s unseen hand will guide you\n\tInto pure, celestial day."
+        }
+      ]
+    },
+    {
+      "id": "175",
+      "title": "To the Saints in Great Britain",
+      "meta": {
+        "number": "175",
+        "composed": "23 April 1847",
+        "published": "Millennial Star, 15 December 1847",
+        "editorial": "Stanza breaks reconstructed from rhyme and metre."
+      },
+      "units": [
+        {
+          "id": "s1",
+          "text": "Ye Saints who dwell on Europe’s shore,\n\tLet not your hearts be faint:\nLet each press on to things before,\n\tAnd be indeed a Saint."
+        },
+        {
+          "id": "s2",
+          "text": "Although the present time may seem\n\tO’erspread with clouds of gloom,\nThe light of faith will shed its gleam\n\tUntil deliv’rance come."
+        },
+        {
+          "id": "s3",
+          "text": "Hold fast the things you have received,—\n\tBe faithful in the Lord;\nYou know in whom you have believ’d,—\n\tHe’s faithful to his word."
+        },
+        {
+          "id": "s4",
+          "text": "Your brethren, in America,\n\tAre one in heart with you;\nAnd they are toiling, night and day,\n\tFor Zion’s welfare, too."
+        },
+        {
+          "id": "s5",
+          "text": "They even now are driven forth\n\tTo track the wilderness:\nAnd leave the country of their birth\n\tFor truth and righteousness."
+        },
+        {
+          "id": "s6",
+          "text": "But there’s a day—’tis near at hand,—\n\tA day of joy and peace:\nThat day will break oppression’s band,\n\tAnd bring the Saints release."
+        },
+        {
+          "id": "s7",
+          "text": "Then brethren haste, and gather up,\n\tWe shall rejoice to meet;\nWhen we have drank the bitter cup,\n\tWe’ll share a heavenly treat."
+        },
+        {
+          "id": "s8",
+          "text": "And even now the Lord bestows\n\tMore—more than tongue can tell,\nOf that which from His presence flows—\n\tYes, Brethren,—“all is well.”"
+        }
+      ]
+    }
+  ]
+}

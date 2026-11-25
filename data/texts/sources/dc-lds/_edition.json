@@ -1,0 +1,16 @@
+{
+  "editionId": "dc-lds",
+  "sourceRepo": "bcbooks/scriptures-json",
+  "sourceRef": "3bda76e40add4582165340ea6b1198dc6ad26ae1",
+  "volumes": [
+    {
+      "file": "doctrine-and-covenants.json",
+      "title": "The Doctrine and Covenants",
+      "subtitle": "of The Church of Jesus Christ of Latter-day Saints",
+      "subsubtitle": "Containing Revelations Given to Joseph Smith, the Prophet with Some Additions by His Successors in the Presidency of the Church",
+      "version": 5,
+      "last_modified": "2025-05-08",
+      "lds_slug": "dc-testament/dc"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "editionId": "bofm-lds",
+  "sourceRepo": "bcbooks/scriptures-json",
+  "sourceRef": "3bda76e40add4582165340ea6b1198dc6ad26ae1",
+  "volumes": [
+    {
+      "file": "book-of-mormon.json",
+      "title": "The Book of Mormon",
+      "subtitle": "Another Testament of Jesus Christ",
+      "version": 4,
+      "last_modified": "2016-10-02",
+      "lds_slug": "bofm",
+      "title_page": {
+        "title": "The Book of Mormon",
+        "subtitle": "An Account Written by the Hand of Mormon upon Plates Taken from the Plates of Nephi",
+        "translated_by": "Translated by Joseph Smith, Jun.",
+        "textLineCount": 2
+      },
+      "testimonies": [
+        {
+          "title": "Testimony of Three Witnesses",
+          "witnesses": [
+            "Oliver Cowdery",
+            "David Whitmer",
+            "Martin Harris"
+          ]
+        },
+        {
+          "title": "Testimony of Eight Witnesses",
+          "witnesses": [
+            "Christian Whitmer",
+            "Jacob Whitmer",
+            "Peter Whitmer, Jun.",
+            "John Whitmer",
+            "Hiram Page",
+            "Joseph Smith, Sen.",
+            "Hyrum Smith",
+            "Samuel H. Smith"
+          ]
+        }
+      ]
+    }
+  ]
+}

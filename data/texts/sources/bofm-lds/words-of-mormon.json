@@ -1,0 +1,85 @@
+{
+  "book": "Words of Mormon",
+  "full_title": "The Words of Mormon",
+  "lds_slug": "w-of-m",
+  "chapters": [
+    {
+      "chapter": 1,
+      "reference": "Words of Mormon 1",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Words of Mormon 1:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Words of Mormon 1:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Words of Mormon 1:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Words of Mormon 1:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Words of Mormon 1:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Words of Mormon 1:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Words of Mormon 1:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Words of Mormon 1:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Words of Mormon 1:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Words of Mormon 1:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Words of Mormon 1:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Words of Mormon 1:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Words of Mormon 1:13"
+        },
+        {
+          "verse": 14,
+          "reference": "Words of Mormon 1:14"
+        },
+        {
+          "verse": 15,
+          "reference": "Words of Mormon 1:15"
+        },
+        {
+          "verse": 16,
+          "reference": "Words of Mormon 1:16"
+        },
+        {
+          "verse": 17,
+          "reference": "Words of Mormon 1:17"
+        },
+        {
+          "verse": 18,
+          "reference": "Words of Mormon 1:18"
+        }
+      ]
+    }
+  ]
+}

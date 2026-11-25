@@ -1,0 +1,24 @@
+node_modules/
+dist/
+.yarn/
+tmp/
+
+# texts library — personal copies of copyrighted editions (docs/design/texts-library.md)
+data/texts/local/
+
+# JoD scraper raw-HTML cache (parsed JSON is the kept artifact)
+data/texts/sources/**/.cache/
+
+# raw full-text downloads (regenerable; text lives in content/, metadata in
+# sources/<edition>/<book>.json — see docs/design/texts-library.md "Source/content split")
+data/texts/sources/**/raw/
+
+# CMUdict download for the Deseret converter (regenerable via scripts/build-cmudict.mjs;
+# the built public/deseret/cmudict.txt is the kept artifact)
+data/deseret/sources/raw/
+
+# quote-skill eval scratch
+.claude/skills/quote-workspace/
+
+# account-specific AWS identifiers and applied configs — kept per machine (docs/deploy.md)
+deploy/aws/

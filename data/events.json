@@ -1,0 +1,1954 @@
+[
+  {
+    "id": "fall-of-adam-and-eve",
+    "title": "Fall of Adam and Eve",
+    "summary": "In the biblical narrative, Adam and Eve partake of the forbidden fruit and are expelled from the Garden of Eden, bringing mortality into the world; traditional chronologies place the creation and Fall around 4000 BC.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 4000,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Traditional biblical chronology; Ussher's chronology dates creation to 4004 BC. Critical scholarship treats the Eden narrative as etiological myth, not a datable event."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Ussher chronology",
+        "url": "https://en.wikipedia.org/wiki/Ussher_chronology"
+      },
+      {
+        "label": "Bible Dictionary — Fall of Adam and Eve",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/fall-of-adam-and-eve?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "translation-of-enoch-city-of-zion",
+    "title": "Translation of Enoch and the City of Zion",
+    "summary": "In Latter-day Saint scripture, Enoch gathers a righteous people into the City of Holiness, called Zion, which is taken up into heaven, Enoch himself being translated at age 430; the account is specific to LDS scripture (Moses 7; D&C 107).",
+    "groups": [
+      "ancient",
+      "biblical",
+      "lds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 3000,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "LDS traditional chronology derived from biblical genealogies places Enoch's translation c. 3000 BC (Ussher-style reckoning gives 3017 BC). The event appears only in LDS scripture and is not dated by critical scholarship."
+    },
+    "sources": [
+      {
+        "label": "Pearl of Great Price — Moses 7",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=eng"
+      },
+      {
+        "label": "Doctrine and Covenants 107",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/107?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "great-flood-of-noah",
+    "title": "The Great Flood in the Days of Noah",
+    "summary": "In the biblical narrative, a great flood destroys the wicked while Noah, his family, and the animals are preserved in the ark, after which God covenants never again to destroy the earth by flood.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 2348,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Ussher's chronology dates the Flood to 2348 BC (some renderings 2349 BC). Critical scholarship regards a global flood as inconsistent with geological and archaeological evidence and treats the narrative as inherited flood tradition."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Ussher chronology",
+        "url": "https://en.wikipedia.org/wiki/Ussher_chronology"
+      },
+      {
+        "label": "Wikipedia — Genesis flood narrative",
+        "url": "https://en.wikipedia.org/wiki/Genesis_flood_narrative"
+      }
+    ]
+  },
+  {
+    "id": "tower-of-babel",
+    "title": "Tower of Babel and the Confusion of Tongues",
+    "summary": "In the biblical narrative, God confounds the single language of humanity at the great tower in the plain of Shinar and scatters the people across the earth.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 2242,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Date from Ussher's traditional chronology (2242 BC). Biblical scholars regard the Babel account as an origin myth explaining linguistic diversity, not a datable historical event."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Tower of Babel",
+        "url": "https://en.wikipedia.org/wiki/Tower_of_Babel"
+      },
+      {
+        "label": "Wikipedia — Ussher chronology",
+        "url": "https://en.wikipedia.org/wiki/Ussher_chronology"
+      }
+    ]
+  },
+  {
+    "id": "jaredites-depart-promised-land",
+    "title": "The Jaredites Depart for the Promised Land",
+    "summary": "In the Book of Mormon narrative (Ether 1-6), Jared, his brother, and their families are spared the confounding of language at the great tower and are led by the Lord across the sea in sealed barges to a promised land in the Americas.",
+    "groups": [
+      "ancient",
+      "book-of-mormon"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 2200,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "The Book of Mormon ties the departure to the Tower of Babel narrative but gives no fixed internal date; the year shown follows traditional Ussher-derived dating of Babel (c. 2242 BC) and is approximate."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Jaredites",
+        "url": "https://en.wikipedia.org/wiki/Jaredites"
+      },
+      {
+        "label": "Book of Mormon — Ether 1",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/1?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "call-of-abraham",
+    "title": "Call of Abraham",
+    "summary": "In the biblical narrative, Abraham is called by God to leave his homeland for Canaan and receives covenant promises of land, posterity, and blessing to all nations.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1900,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Traditional chronologies place Abraham c. 2000-1900 BC; Ussher dates his migration to Canaan to 1922 BC. Earlier scholarship sought a 2nd-millennium 'patriarchal age,' but most scholars now view the patriarchal narratives as late literary constructs not tied to a particular historical era."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Abraham",
+        "url": "https://en.wikipedia.org/wiki/Abraham"
+      },
+      {
+        "label": "Wikipedia — Ussher chronology",
+        "url": "https://en.wikipedia.org/wiki/Ussher_chronology"
+      }
+    ]
+  },
+  {
+    "id": "joseph-sold-into-egypt",
+    "title": "Joseph Sold into Egypt",
+    "summary": "In the biblical narrative, Joseph is sold by his brothers into Egypt, where he rises to high office under Pharaoh and later preserves his family during famine, bringing Israel into Egypt.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1700,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Traditional chronology places the event c. 1700 BC (Ussher: 1728 BC). Critical scholarship does not date Joseph as a historical figure and treats the story as a novella reaching its present form in the mid-1st millennium BC."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Joseph (Genesis)",
+        "url": "https://en.wikipedia.org/wiki/Joseph_(Genesis)"
+      }
+    ]
+  },
+  {
+    "id": "exodus-from-egypt",
+    "title": "The Exodus from Egypt",
+    "summary": "In the biblical narrative, Moses leads the Israelites out of Egyptian bondage through the parted sea toward Sinai, where the covenant and the law are given.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 1446,
+        "era": "bce",
+        "circa": true
+      },
+      "latest": {
+        "year": 1250,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Competing dates: an early date c. 1446 BC follows the internal arithmetic of 1 Kings 6:1, while a late date c. 1250 BC (13th century, under Ramesses II) is preferred by most scholars who accept a historical core; the broader scholarly consensus treats the narrative as a founding story rather than a straightforwardly datable event."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — The Exodus",
+        "url": "https://en.wikipedia.org/wiki/The_Exodus"
+      }
+    ]
+  },
+  {
+    "id": "david-becomes-king",
+    "title": "David Becomes King of Israel",
+    "summary": "David is anointed king, unites the tribes of Israel, and establishes Jerusalem as his capital, founding the dynasty from which the biblical messianic promises descend.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1010,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Conventional chronologies place David's accession c. 1010-1000 BC (Albright c. 1000 BC, Galil c. 1008 BC); the dating and extent of his reign are debated."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Kingdom of Israel (united monarchy)",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Israel_(united_monarchy)"
+      },
+      {
+        "label": "Wikipedia — David",
+        "url": "https://en.wikipedia.org/wiki/David"
+      }
+    ]
+  },
+  {
+    "id": "dedication-of-solomons-temple",
+    "title": "Dedication of Solomon's Temple",
+    "summary": "Solomon completes and dedicates the First Temple in Jerusalem, the central sanctuary of Israelite worship and the house of the ark of the covenant.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 957,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Conventional chronology c. 957 BC; a Josephus-based reckoning gives c. 958/9 BC, within Solomon's conventional reign (c. 970-931 BC). Some scholars argue for a later construction date."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Solomon's Temple",
+        "url": "https://en.wikipedia.org/wiki/Solomon%27s_Temple"
+      }
+    ]
+  },
+  {
+    "id": "division-of-israel-and-judah",
+    "title": "Division of the Kingdom into Israel and Judah",
+    "summary": "After Solomon's death the united monarchy splits, with the ten northern tribes forming the Kingdom of Israel under Jeroboam and the south remaining the Kingdom of Judah under Rehoboam.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 930,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Conventional chronology places the division c. 930 BC, with some differences of opinion as to the exact year."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Kingdom of Israel (united monarchy)",
+        "url": "https://en.wikipedia.org/wiki/Kingdom_of_Israel_(united_monarchy)"
+      }
+    ]
+  },
+  {
+    "id": "ministry-of-isaiah",
+    "title": "Ministry of the prophet Isaiah",
+    "summary": "Isaiah prophesied in Judah from around 740 BC, during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah, through the Assyrian crisis of 701 BC.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 740,
+        "era": "bce",
+        "circa": true
+      },
+      "end": {
+        "year": 701,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Began in the 740s BC under Uzziah; he probably lived to the close of Hezekiah's reign and possibly into Manasseh's, prophesying for as long as 64 years, so the end bound is conventional."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Isaiah"
+      }
+    ]
+  },
+  {
+    "id": "assyrian-conquest-northern-kingdom",
+    "title": "Assyrian Conquest of the Northern Kingdom of Israel",
+    "summary": "The Neo-Assyrian Empire captures Samaria in 722 BC after a three-year siege and deports the northern tribes, who become known as the 'lost ten tribes' — a people whose latter-day gathering is a recurring theme in Restoration teaching.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 722,
+        "era": "bce"
+      },
+      "note": "Samaria fell to Sargon II in 722 BC; deportations had begun c. 732 BC under Tiglath-Pileser III."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Assyrian captivity",
+        "url": "https://en.wikipedia.org/wiki/Assyrian_captivity"
+      },
+      {
+        "label": "Wikipedia — Ten Lost Tribes",
+        "url": "https://en.wikipedia.org/wiki/Ten_Lost_Tribes"
+      }
+    ]
+  },
+  {
+    "id": "josiah-religious-reforms",
+    "title": "Religious reforms of King Josiah",
+    "summary": "In his eighteenth regnal year the 'Book of the Law' was discovered during Temple repairs, launching Josiah's sweeping religious reforms in Judah.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 622,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Dated from Josiah's 18th regnal year within a reign of c. 640–609 BC."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Josiah"
+      }
+    ]
+  },
+  {
+    "id": "lehi-departure-jerusalem",
+    "title": "Lehi departs from Jerusalem",
+    "summary": "In the Book of Mormon narrative, the prophet Lehi, warned by God during the reign of Zedekiah, leaves Jerusalem with his family into the wilderness.",
+    "groups": [
+      "book-of-mormon",
+      "ancient"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 600,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Book of Mormon internal chronology; the chapter carries the annotation 'About 600 B.C.' during Zedekiah's reign."
+    },
+    "sources": [
+      {
+        "label": "1 Nephi 2 (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/2?lang=eng"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lehi_(Book_of_Mormon_prophet)"
+      }
+    ]
+  },
+  {
+    "id": "destruction-of-jerusalem-babylon",
+    "title": "Destruction of Jerusalem by Babylon",
+    "summary": "Nebuchadnezzar II's forces breached and destroyed Jerusalem and Solomon's Temple, ending the Kingdom of Judah and beginning the Babylonian exile.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 587,
+        "era": "bce"
+      },
+      "latest": {
+        "year": 586,
+        "era": "bce"
+      },
+      "note": "The city fell in summer (month of Tammuz). Albright and Young date the fall to 587 BC from the Nebuchadnezzar Chronicle; Thiele's accession-year reckoning yields 586 BC — the disagreement is over calendar reckoning, not evidence."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(587_BC)"
+      }
+    ]
+  },
+  {
+    "id": "decree-of-cyrus-return-from-exile",
+    "title": "Decree of Cyrus and return from Babylonian exile",
+    "summary": "After conquering Babylon, Cyrus the Great issued an edict permitting the exiled Jews to return to Jerusalem and Judah and rebuild the Temple.",
+    "groups": [
+      "ancient",
+      "biblical"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 539,
+        "era": "bce"
+      },
+      "latest": {
+        "year": 538,
+        "era": "bce"
+      },
+      "note": "Wikipedia dates the edict to 539 BC, immediately after the fall of Babylon; the proclamation in Cyrus's 'first year' and the first return are conventionally placed c. 538 BC."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Edict of Cyrus",
+        "url": "https://en.wikipedia.org/wiki/Edict_of_Cyrus"
+      },
+      {
+        "label": "Wikipedia — Return to Zion",
+        "url": "https://en.wikipedia.org/wiki/Return_to_Zion"
+      }
+    ]
+  },
+  {
+    "id": "birth-of-jesus-christ",
+    "title": "Birth of Jesus Christ",
+    "summary": "Jesus of Nazareth was born in Judea near the end of the reign of Herod the Great.",
+    "groups": [
+      "biblical"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 6,
+        "era": "bce"
+      },
+      "latest": {
+        "year": 4,
+        "era": "bce"
+      },
+      "note": "Most scholars estimate 6–4 BC, anchored to Herod the Great's death in 4 BC."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Date_of_birth_of_Jesus"
+      }
+    ]
+  },
+  {
+    "id": "john-the-baptist-ministry-begins",
+    "title": "Beginning of John the Baptist's ministry",
+    "summary": "John the Baptist began preaching and baptizing in the Jordan region, in the fifteenth year of the reign of Tiberius Caesar (Luke 3:1).",
+    "groups": [
+      "biblical"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 28
+      },
+      "latest": {
+        "year": 29
+      },
+      "note": "Counting Tiberius's 15th regnal year from Augustus's death in September AD 14 places the start in late AD 28 or early AD 29."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Chronology of Jesus",
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_Jesus"
+      },
+      {
+        "label": "Wikipedia — John the Baptist",
+        "url": "https://en.wikipedia.org/wiki/John_the_Baptist"
+      }
+    ]
+  },
+  {
+    "id": "day-of-pentecost",
+    "title": "Day of Pentecost",
+    "summary": "The Holy Spirit descended on the apostles in Jerusalem (Acts 2), fifty days after the resurrection, marking the public beginning of the apostolic church.",
+    "groups": [
+      "biblical",
+      "early-christian"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 30
+      },
+      "latest": {
+        "year": 33
+      },
+      "note": "Occurred about 50 days after the crucifixion/resurrection, so its year tracks the crucifixion year (AD 30 or AD 33 being the most favored)."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pentecost"
+      }
+    ]
+  },
+  {
+    "id": "crucifixion-resurrection-of-jesus",
+    "title": "Crucifixion and resurrection of Jesus Christ",
+    "summary": "Jesus was crucified under Pontius Pilate on a Friday near Passover and, per Christian testimony, rose from the dead on the third day.",
+    "groups": [
+      "biblical",
+      "early-christian"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 30,
+        "month": 4,
+        "day": 7
+      },
+      "latest": {
+        "year": 33,
+        "month": 4,
+        "day": 3
+      },
+      "note": "No scholarly consensus on the exact year; the two most favored dates are Friday 7 April AD 30 and Friday 3 April AD 33."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Crucifixion of Jesus",
+        "url": "https://en.wikipedia.org/wiki/Crucifixion_of_Jesus"
+      },
+      {
+        "label": "Wikipedia — Chronology of Jesus",
+        "url": "https://en.wikipedia.org/wiki/Chronology_of_Jesus"
+      }
+    ]
+  },
+  {
+    "id": "conversion-of-paul",
+    "title": "Conversion of Paul the Apostle",
+    "summary": "Saul of Tarsus experienced a vision of the risen Jesus on the road to Damascus and became the apostle Paul.",
+    "groups": [
+      "biblical",
+      "early-christian"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 31
+      },
+      "latest": {
+        "year": 36
+      },
+      "note": "Wikipedia dates the conversion to AD 31–36 from Paul's own letters; Acts suggests 4–7 years after the crucifixion, and it is often narrowed to c. AD 33–36."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Paul the Apostle",
+        "url": "https://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      {
+        "label": "Wikipedia — Conversion of Paul the Apostle",
+        "url": "https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle"
+      }
+    ]
+  },
+  {
+    "id": "christ-appears-to-the-nephites",
+    "title": "Resurrected Christ appears to the Nephites",
+    "summary": "In the Book of Mormon narrative, the resurrected Jesus Christ descends and ministers to a multitude of Nephites gathered at the temple in Bountiful.",
+    "groups": [
+      "book-of-mormon"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 34,
+        "circa": true
+      },
+      "note": "Book of Mormon internal chronology; 3 Nephi 11 carries the annotation 'About A.D. 34.'"
+    },
+    "sources": [
+      {
+        "label": "3 Nephi 11 (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "destruction-of-jerusalem-rome",
+    "title": "Destruction of Jerusalem by Rome",
+    "summary": "Roman forces under Titus besieged Jerusalem, destroyed the Second Temple, and razed the city during the First Jewish-Roman War.",
+    "groups": [
+      "ancient",
+      "early-christian"
+    ],
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 70,
+        "month": 4,
+        "day": 13
+      },
+      "end": {
+        "year": 70,
+        "month": 9,
+        "day": 8
+      },
+      "note": "Siege ran 13 April – 8 September AD 70; the Temple burned on 10 Av (late July/August) and the Upper City fell on 7 Elul (August/September)."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_CE)"
+      }
+    ]
+  },
+  {
+    "id": "first-council-of-nicaea",
+    "title": "First Council of Nicaea",
+    "summary": "The first ecumenical council of the Christian church, convened by Emperor Constantine I at Nicaea, produced the original Nicene Creed and addressed the Arian controversy.",
+    "groups": [
+      "early-christian"
+    ],
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 325,
+        "month": 5,
+        "day": 20
+      },
+      "end": {
+        "year": 325,
+        "month": 7,
+        "day": 25
+      },
+      "note": "Socrates of Constantinople gives the opening as 20 May 325 (possibly later in June); the council closed by late July, with the bishops attending Constantine's vicennalia celebration on 25 July 325."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea"
+      }
+    ]
+  },
+  {
+    "id": "battle-of-cumorah",
+    "title": "Final battle at Cumorah",
+    "summary": "In the Book of Mormon narrative, the Nephite nation is destroyed by the Lamanites in a final battle at the hill Cumorah, leaving only about two dozen survivors including Mormon and Moroni.",
+    "groups": [
+      "book-of-mormon"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 385,
+        "circa": true
+      },
+      "note": "Book of Mormon internal chronology; Mormon 6 carries the annotation 'About A.D. 385.'"
+    },
+    "sources": [
+      {
+        "label": "Mormon 6 (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/6?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "moroni-buries-the-plates",
+    "title": "Moroni completes and buries the plates",
+    "summary": "In the Book of Mormon narrative, Moroni finishes the record of his people and buries the golden plates, more than 420 years after the sign of Christ's birth.",
+    "groups": [
+      "book-of-mormon"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 421,
+        "circa": true
+      },
+      "note": "Book of Mormon internal chronology; Moroni 10 carries the annotation 'About A.D. 421' and verse 1 notes more than 420 years since the sign of Christ's coming."
+    },
+    "sources": [
+      {
+        "label": "Moroni 10 (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/moro/10?lang=eng"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moroni_(Book_of_Mormon_prophet)"
+      }
+    ]
+  },
+  {
+    "id": "gutenberg-bible-completed",
+    "title": "Completion of the Gutenberg Bible",
+    "summary": "Johannes Gutenberg's 42-line Bible, the first major book printed with movable metal type in Europe, was completed at Mainz, with finished copies available by 1454-1455.",
+    "groups": [
+      "reformation"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 1454,
+        "circa": true
+      },
+      "latest": {
+        "year": 1455,
+        "circa": true
+      },
+      "note": "Production began soon after 1450; first finished copies were available in 1454 or 1455. In March 1455 the future Pope Pius II reported seeing pages displayed at Frankfurt; a rubricator's date of 15 August 1456 appears in one copy."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gutenberg_Bible"
+      }
+    ]
+  },
+  {
+    "id": "luther-ninety-five-theses",
+    "title": "Martin Luther's Ninety-five Theses",
+    "summary": "Martin Luther sent his Ninety-five Theses disputing the sale of indulgences to Archbishop Albert of Mainz, the event traditionally marking the start of the Protestant Reformation.",
+    "groups": [
+      "reformation"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1517,
+        "month": 10,
+        "day": 31
+      },
+      "note": "31 October 1517 is the date Luther sent the theses to the Archbishop of Mainz; scholars debate whether the traditional posting on the Wittenberg church door happened that day or in mid-November."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ninety-five_Theses"
+      }
+    ]
+  },
+  {
+    "id": "tyndale-new-testament-printed",
+    "title": "Tyndale's English New Testament printed",
+    "summary": "William Tyndale's English translation of the New Testament, the first printed English New Testament translated from the Greek, was published in a complete edition by Peter Schoeffer the Younger in 1526.",
+    "groups": [
+      "reformation",
+      "biblical"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1526
+      },
+      "note": "A partial edition was printed at Cologne in 1525 before the complete 1526 edition; Tyndale issued revisions in 1534 and 1536."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tyndale_Bible"
+      }
+    ]
+  },
+  {
+    "id": "king-james-version-published",
+    "title": "King James Version of the Bible published",
+    "summary": "The King James Version, commissioned in 1604 under King James VI and I, was published as a complete folio Bible by Robert Barker, the King's Printer, in London.",
+    "groups": [
+      "reformation",
+      "biblical"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1611
+      },
+      "note": "No more precise date than the year 1611 is established; the title page reads ANNO DOM. 1611."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/King_James_Version"
+      }
+    ]
+  },
+  {
+    "id": "mayflower-voyage",
+    "title": "Mayflower voyage to America",
+    "summary": "The Mayflower carried English Separatist Pilgrims and other settlers from Plymouth, England, across the Atlantic, anchoring at Provincetown Harbor on Cape Cod after a 66-day voyage.",
+    "groups": [
+      "reformation"
+    ],
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 1620,
+        "month": 9,
+        "day": 16
+      },
+      "end": {
+        "year": 1620,
+        "month": 11,
+        "day": 21
+      },
+      "note": "New Style (Gregorian) dates; Old Style equivalents are 6 September to 11 November 1620. Cape Cod was sighted 19 November (N.S.) and the ship anchored at Provincetown Harbor 21 November (N.S.)."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mayflower"
+      }
+    ]
+  },
+  {
+    "id": "first-great-awakening",
+    "title": "First Great Awakening",
+    "summary": "A series of Christian revivals swept Britain and its thirteen North American colonies, emphasizing personal conversion and revival preaching by figures such as Jonathan Edwards and George Whitefield.",
+    "groups": [
+      "reformation"
+    ],
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 1730,
+        "circa": true
+      },
+      "end": {
+        "year": 1755,
+        "circa": true
+      },
+      "note": "Commonly dated to the 1730s and 1740s; Wikipedia gives an approximate overall range of c. 1730-1755."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/First_Great_Awakening"
+      }
+    ]
+  },
+  {
+    "id": "second-great-awakening",
+    "title": "Second Great Awakening",
+    "summary": "A Protestant religious revival movement in the United States marked by camp meetings and widespread conversions, forming the religious environment in which the Latter Day Saint movement emerged.",
+    "groups": [
+      "reformation",
+      "restoration"
+    ],
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 1790,
+        "circa": true
+      },
+      "end": {
+        "year": 1840,
+        "circa": true
+      },
+      "note": "Conventional dating c. 1790-1840; revival fervor began in Kentucky and Tennessee in the 1790s and early 1800s."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Second_Great_Awakening"
+      }
+    ]
+  },
+  {
+    "id": "birth-of-joseph-smith",
+    "title": "Birth of Joseph Smith Jr.",
+    "summary": "Joseph Smith Jr., founder of the Latter Day Saint movement, was born in Sharon, Vermont.",
+    "groups": [
+      "restoration"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1805,
+        "month": 12,
+        "day": 23
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Smith"
+      }
+    ]
+  },
+  {
+    "id": "first-vision",
+    "title": "The First Vision",
+    "summary": "Joseph Smith reported a vision of God the Father and Jesus Christ in a grove near Palmyra, New York.",
+    "groups": [
+      "restoration"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1820,
+        "circa": true
+      },
+      "note": "Joseph Smith's 1838 account dates it to 'early in the spring of eighteen hundred and twenty'; some historians have debated the year, with critics proposing dates as late as 1824."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/First_Vision"
+      }
+    ]
+  },
+  {
+    "id": "moroni-first-visits",
+    "title": "Moroni's first visits to Joseph Smith",
+    "summary": "Joseph Smith reported that the angel Moroni appeared to him repeatedly through the night and told him of buried golden plates.",
+    "groups": [
+      "restoration",
+      "book-of-mormon"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1823,
+        "month": 9,
+        "day": 21
+      },
+      "note": "The visits spanned the night of September 21–22, 1823, with a further appearance the following day."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Angel_Moroni"
+      }
+    ]
+  },
+  {
+    "id": "joseph-smith-obtains-gold-plates",
+    "title": "Joseph Smith obtains the gold plates",
+    "summary": "Joseph Smith reported retrieving the golden plates from the hill Cumorah near Manchester, New York, four years after Moroni's first visit.",
+    "groups": [
+      "restoration",
+      "book-of-mormon"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1827,
+        "month": 9,
+        "day": 22
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Smith"
+      }
+    ]
+  },
+  {
+    "id": "loss-of-116-pages",
+    "title": "Loss of the 116 manuscript pages",
+    "summary": "Martin Harris lost the first 116 pages of Book of Mormon manuscript after taking them home to Palmyra to show family members.",
+    "groups": [
+      "restoration",
+      "book-of-mormon"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 1828,
+        "month": 6
+      },
+      "latest": {
+        "year": 1828,
+        "month": 7
+      },
+      "note": "Harris took the pages around mid-June 1828; the manuscript disappeared while in his possession, and Joseph Smith learned of the loss when he traveled to Palmyra in the following weeks."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lost_116_pages"
+      }
+    ]
+  },
+  {
+    "id": "book-of-mormon-principal-translation",
+    "title": "Principal translation period of the Book of Mormon",
+    "summary": "With Oliver Cowdery as scribe, Joseph Smith dictated nearly the entire Book of Mormon text in roughly three months.",
+    "groups": [
+      "restoration",
+      "book-of-mormon"
+    ],
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 1829,
+        "month": 4
+      },
+      "end": {
+        "year": 1829,
+        "month": 6
+      },
+      "note": "Cowdery began as scribe in early April 1829 (traditionally April 7); the manuscript was completed by the end of June 1829, an estimated 53–74 working days."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Book_of_Mormon"
+      }
+    ]
+  },
+  {
+    "id": "melchizedek-priesthood-restoration",
+    "title": "Restoration of the Melchizedek Priesthood",
+    "summary": "Joseph Smith and Oliver Cowdery reported that Peter, James, and John conferred the Melchizedek priesthood on them near the Susquehanna River.",
+    "groups": [
+      "restoration"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 1829,
+        "month": 5
+      },
+      "latest": {
+        "year": 1830,
+        "month": 4
+      },
+      "note": "No contemporary source fixes the date. Estimates range from a few weeks after May 15, 1829 to many months later; it is traditionally placed before the church's organization on April 6, 1830, though some historians note the high priesthood was not conferred on elders generally until June 1831."
+    },
+    "sources": [
+      {
+        "label": "Church History Topics",
+        "url": "https://www.churchofjesuschrist.org/study/history/topics/restoration-of-the-melchizedek-priesthood?lang=eng"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Melchizedek_priesthood_(Latter_Day_Saints)"
+      }
+    ]
+  },
+  {
+    "id": "aaronic-priesthood-restoration",
+    "title": "Restoration of the Aaronic Priesthood",
+    "summary": "Joseph Smith and Oliver Cowdery reported that John the Baptist conferred the Aaronic priesthood on them near Harmony, Pennsylvania.",
+    "groups": [
+      "restoration"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1829,
+        "month": 5,
+        "day": 15
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aaronic_priesthood_(Latter_Day_Saints)"
+      }
+    ]
+  },
+  {
+    "id": "book-of-mormon-published",
+    "title": "Publication of the Book of Mormon",
+    "summary": "The first edition of the Book of Mormon, printed by E. B. Grandin, went on sale in Palmyra, New York.",
+    "groups": [
+      "restoration",
+      "book-of-mormon"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1830,
+        "month": 3,
+        "day": 26
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Book_of_Mormon"
+      }
+    ]
+  },
+  {
+    "id": "church-of-christ-organized",
+    "title": "Organization of the Church of Christ",
+    "summary": "Joseph Smith formally organized the Church of Christ in western New York, the founding event of the Latter Day Saint movement.",
+    "groups": [
+      "restoration",
+      "lds",
+      "rlds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1830,
+        "month": 4,
+        "day": 6
+      },
+      "note": "The location is disputed between Fayette (the official LDS account) and Manchester, New York; the date is not."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_Christ_(Latter_Day_Saints)"
+      }
+    ]
+  },
+  {
+    "id": "kirtland-temple-dedication",
+    "title": "Dedication of the Kirtland Temple",
+    "summary": "The first Latter Day Saint temple was dedicated in a seven-hour service in Kirtland, Ohio.",
+    "groups": [
+      "restoration",
+      "lds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1836,
+        "month": 3,
+        "day": 27
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kirtland_Temple"
+      }
+    ]
+  },
+  {
+    "id": "kirtland-temple-visions-dc110",
+    "title": "Visions of Christ, Moses, Elias, and Elijah in the Kirtland Temple",
+    "summary": "Joseph Smith and Oliver Cowdery reported visions of Jesus Christ, Moses, Elias, and Elijah in the Kirtland Temple, later canonized as Doctrine and Covenants 110.",
+    "groups": [
+      "restoration",
+      "lds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1836,
+        "month": 4,
+        "day": 3
+      },
+      "note": "Easter Sunday, coinciding with the Jewish Passover season."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kirtland_Temple"
+      }
+    ]
+  },
+  {
+    "id": "missouri-executive-order-44",
+    "title": "Missouri Executive Order 44 (\"extermination order\")",
+    "summary": "Governor Lilburn Boggs ordered that Mormons be treated as enemies and exterminated or driven from Missouri.",
+    "groups": [
+      "restoration",
+      "lds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1838,
+        "month": 10,
+        "day": 27
+      },
+      "note": "Formally rescinded by Governor Kit Bond on June 25, 1976."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Missouri_Executive_Order_44"
+      }
+    ]
+  },
+  {
+    "id": "hauns-mill-massacre",
+    "title": "Haun's Mill massacre",
+    "summary": "A Missouri militia unit attacked the Latter Day Saint settlement at Haun's Mill, killing seventeen and wounding about fifteen.",
+    "groups": [
+      "restoration",
+      "lds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1838,
+        "month": 10,
+        "day": 30
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Haun%27s_Mill_massacre"
+      }
+    ]
+  },
+  {
+    "id": "liberty-jail-imprisonment",
+    "title": "Joseph Smith's imprisonment in Liberty Jail",
+    "summary": "Joseph Smith and companions were held without trial in Liberty Jail, Missouri, through the winter of 1838-39.",
+    "groups": [
+      "restoration",
+      "lds"
+    ],
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 1838,
+        "month": 12,
+        "day": 1,
+        "circa": true
+      },
+      "end": {
+        "year": 1839,
+        "month": 4,
+        "day": 15
+      },
+      "note": "Committed by the Richmond court on or about November 30, 1838, arriving at Liberty about December 1; the prisoners were allowed to escape on April 15, 1839 while being transferred toward Boone County."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Liberty_Jail"
+      }
+    ]
+  },
+  {
+    "id": "founding-of-nauvoo",
+    "title": "Founding of Nauvoo, Illinois",
+    "summary": "Latter Day Saint refugees from Missouri gathered at Commerce, Illinois, which Joseph Smith renamed Nauvoo and which received a city charter from the Illinois legislature.",
+    "groups": [
+      "restoration",
+      "lds"
+    ],
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 1839
+      },
+      "end": {
+        "year": 1840,
+        "month": 12,
+        "day": 16
+      },
+      "note": "The church purchased land at Commerce in 1839; Smith renamed the town Nauvoo on April 21, 1840; the Illinois legislature passed the Nauvoo Charter on December 16, 1840 (city government operating by February 1841)."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nauvoo,_Illinois"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nauvoo_Charter"
+      }
+    ]
+  },
+  {
+    "id": "relief-society-organized",
+    "title": "Organization of the Female Relief Society of Nauvoo",
+    "summary": "Twenty women organized the Female Relief Society of Nauvoo above Joseph Smith's Red Brick Store, electing Emma Smith as first president.",
+    "groups": [
+      "restoration",
+      "lds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1842,
+        "month": 3,
+        "day": 17
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Relief_Society"
+      }
+    ]
+  },
+  {
+    "id": "bfj-claimed-blessing",
+    "title": "Benjamin F. Johnson's claimed priesthood blessing from Joseph Smith",
+    "summary": "The LeBaron branch claims Benjamin F. Johnson received special priesthood keys from Joseph Smith that later descended to the LeBaron family; no such ordination is documented in mainstream sources.",
+    "groups": [
+      "fundamentalist",
+      "lds"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 1843
+      },
+      "latest": {
+        "year": 1844
+      },
+      "note": "A retrospective claim by the LeBaron movement, not a documented historical event; dated loosely to Johnson's close Nauvoo-era association with Joseph Smith (Council of Fifty, 1843–1844)."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_Firstborn_(LeBaron_family)"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Benjamin_F._Johnson"
+      }
+    ]
+  },
+  {
+    "id": "carthage-jail-deaths",
+    "title": "Deaths of Joseph and Hyrum Smith at Carthage Jail",
+    "summary": "A mob stormed Carthage Jail in Carthage, Illinois, killing Joseph Smith and his brother Hyrum while they awaited trial.",
+    "groups": [
+      "restoration",
+      "lds",
+      "rlds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1844,
+        "month": 6,
+        "day": 27
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Smith"
+      }
+    ]
+  },
+  {
+    "id": "nauvoo-succession-meeting",
+    "title": "Succession meeting in Nauvoo",
+    "summary": "At a church conference in Nauvoo, the membership voted to accept the Quorum of the Twelve Apostles, led by Brigham Young, over Sidney Rigdon's guardianship claim.",
+    "groups": [
+      "restoration",
+      "lds",
+      "rlds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1844,
+        "month": 8,
+        "day": 8
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Succession_crisis_(Latter_Day_Saints)"
+      }
+    ]
+  },
+  {
+    "id": "nauvoo-exodus-begins",
+    "title": "Exodus from Nauvoo begins",
+    "summary": "The first Latter-day Saint wagons crossed the Mississippi River, beginning the westward exodus from Nauvoo.",
+    "groups": [
+      "restoration",
+      "lds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1846,
+        "month": 2,
+        "day": 4
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mormon_pioneers"
+      }
+    ]
+  },
+  {
+    "id": "nauvoo-temple-dedication",
+    "title": "Dedication of the Nauvoo Temple",
+    "summary": "The completed Nauvoo Temple was dedicated in private services and then in public services after most of the Saints had already departed the city.",
+    "groups": [
+      "restoration",
+      "lds"
+    ],
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 1846,
+        "month": 4,
+        "day": 30
+      },
+      "end": {
+        "year": 1846,
+        "month": 5,
+        "day": 1
+      },
+      "note": "Private dedication April 30, 1846; public dedication May 1, 1846, conducted by Orson Hyde."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nauvoo_Temple"
+      }
+    ]
+  },
+  {
+    "id": "pioneers-enter-salt-lake-valley",
+    "title": "Pioneer company enters the Salt Lake Valley",
+    "summary": "The vanguard Mormon pioneer company entered the Salt Lake Valley, with Brigham Young arriving on July 24, 1847.",
+    "groups": [
+      "restoration",
+      "lds"
+    ],
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 1847,
+        "month": 7,
+        "day": 21
+      },
+      "end": {
+        "year": 1847,
+        "month": 7,
+        "day": 24
+      },
+      "note": "Scouts Erastus Snow and Orson Pratt entered the valley on July 21; Brigham Young, traveling ill in a rear wagon, arrived and viewed the valley on July 24, commemorated as Pioneer Day."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mormon_pioneers"
+      }
+    ]
+  },
+  {
+    "id": "salt-lake-temple-construction",
+    "title": "Construction of the Salt Lake Temple",
+    "summary": "The Salt Lake Temple was built over forty years, from the 1853 groundbreaking under Brigham Young to its dedication by Wilford Woodruff on April 6, 1893.",
+    "groups": [
+      "lds"
+    ],
+    "when": {
+      "type": "span",
+      "start": {
+        "year": 1853,
+        "month": 2,
+        "day": 14
+      },
+      "end": {
+        "year": 1893,
+        "month": 4,
+        "day": 6
+      },
+      "note": "Groundbreaking was February 14, 1853, and the cornerstone was laid April 6, 1853; the dedication on April 6, 1893 came exactly forty years after the cornerstone laying."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Salt_Lake_Temple"
+      }
+    ]
+  },
+  {
+    "id": "rlds-reorganization-joseph-smith-iii",
+    "title": "Reorganization of the RLDS Church with Joseph Smith III",
+    "summary": "Joseph Smith III accepted leadership of the Reorganized Church of Jesus Christ of Latter Day Saints at a conference in Amboy, Illinois, formally establishing the Reorganization.",
+    "groups": [
+      "rlds",
+      "restoration"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1860,
+        "month": 4,
+        "day": 6
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Community_of_Christ"
+      }
+    ]
+  },
+  {
+    "id": "manifesto-1890",
+    "title": "The 1890 Manifesto",
+    "summary": "Wilford Woodruff's Manifesto declaring an end to the practice of plural marriage was formally accepted as authoritative and binding by common consent at the LDS Church's general conference.",
+    "groups": [
+      "lds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1890,
+        "month": 10,
+        "day": 6
+      },
+      "note": "Woodruff first published the Manifesto in the Deseret Weekly on September 25, 1890; it was sustained at general conference on October 6, 1890."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/1890_Manifesto"
+      }
+    ]
+  },
+  {
+    "id": "utah-statehood",
+    "title": "Utah statehood",
+    "summary": "Utah was admitted to the Union as the 45th state after agreeing to outlaw polygamy in its state constitution.",
+    "groups": [
+      "lds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1896,
+        "month": 1,
+        "day": 4
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Utah"
+      }
+    ]
+  },
+  {
+    "id": "alma-lebaron-succession-claim",
+    "title": "Alma Dayer LeBaron Sr.'s priesthood-succession claim ('Right of the Firstborn')",
+    "summary": "Alma Dayer LeBaron Sr. asserted he held the priesthood succession inherited through his grandfather Benjamin F. Johnson, the authority his sons later termed the 'Right of the Firstborn.'",
+    "groups": [
+      "fundamentalist"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 1924
+      },
+      "latest": {
+        "year": 1951
+      },
+      "note": "Advanced during his years in Mexico after his 1924 excommunication and before his 1951 death; the 'Right of the Firstborn' office was formally articulated by his sons around 1955."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_Firstborn_(LeBaron_family)"
+      }
+    ]
+  },
+  {
+    "id": "alma-lebaron-excommunication",
+    "title": "Alma Dayer LeBaron Sr. excommunicated from the LDS Church",
+    "summary": "Alma Dayer LeBaron Sr. was excommunicated from The Church of Jesus Christ of Latter-day Saints for practicing plural marriage.",
+    "groups": [
+      "fundamentalist",
+      "lds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1924,
+        "month": 2,
+        "day": 17
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_Firstborn_(LeBaron_family)"
+      }
+    ]
+  },
+  {
+    "id": "colonia-lebaron-founding",
+    "title": "Founding of Colonia LeBarón, Chihuahua",
+    "summary": "The LeBaron family established a settlement on ranch land in Galeana Municipality, Chihuahua, Mexico, later christened Colonia LeBarón.",
+    "groups": [
+      "fundamentalist"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 1944
+      },
+      "latest": {
+        "year": 1955
+      },
+      "note": "The family settled the ranch land in the mid-1940s; sources say it was christened Colonia LeBarón in the 1950s."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alma_Dayer_LeBaron_Sr."
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_Firstborn_(LeBaron_family)"
+      }
+    ]
+  },
+  {
+    "id": "lebaron-brothers-excommunication-1944",
+    "title": "LeBaron brothers excommunicated from the LDS Church",
+    "summary": "Several of Alma Dayer LeBaron Sr.'s sons, including Joel, Ross Wesley, and Ervil, were excommunicated from the LDS Church for practicing plural marriage.",
+    "groups": [
+      "fundamentalist",
+      "lds"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1944,
+        "month": 6
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_Firstborn_(LeBaron_family)"
+      }
+    ]
+  },
+  {
+    "id": "church-firstborn-fulness-founding",
+    "title": "Founding of the Church of the Firstborn of the Fulness of Times",
+    "summary": "Joel LeBaron, with brothers Ross Wesley and Floren, founded the Church of the Firstborn of the Fulness of Times, with Joel as president.",
+    "groups": [
+      "fundamentalist"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1955,
+        "month": 9,
+        "day": 21
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joel_LeBaron"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_Firstborn_(LeBaron_family)"
+      }
+    ]
+  },
+  {
+    "id": "ross-lebaron-church-firstborn",
+    "title": "Ross Wesley LeBaron founds his own Church of the Firstborn",
+    "summary": "Ross Wesley LeBaron broke from his brother Joel's church and established a separate organization, the Church of the Firstborn, headquartered in Salt Lake City.",
+    "groups": [
+      "fundamentalist"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1955,
+        "month": 12
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_Firstborn_(LeBaron_family)"
+      }
+    ]
+  },
+  {
+    "id": "ervil-schism-lamb-of-god",
+    "title": "Ervil LeBaron's schism and founding of the Church of the Lamb of God",
+    "summary": "After being removed from leadership under Joel, Ervil LeBaron founded the rival Church of the First Born of the Lamb of God and began advocating blood-atonement doctrine.",
+    "groups": [
+      "fundamentalist"
+    ],
+    "when": {
+      "type": "between",
+      "earliest": {
+        "year": 1967
+      },
+      "latest": {
+        "year": 1972
+      },
+      "note": "Ervil was removed from leadership in 1967 as tensions rose; he established his own church by about 1972, based in San Diego, California."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ervil_LeBaron"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_First_Born_of_the_Lamb_of_God"
+      }
+    ]
+  },
+  {
+    "id": "murder-of-joel-lebaron",
+    "title": "Murder of Joel LeBaron",
+    "summary": "Joel LeBaron was shot and killed in Ensenada, Mexico, on the orders of his brother Ervil LeBaron.",
+    "groups": [
+      "fundamentalist"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1972,
+        "month": 8,
+        "day": 20
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joel_LeBaron"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ervil_LeBaron"
+      }
+    ]
+  },
+  {
+    "id": "priesthood-revelation-1978",
+    "title": "Revelation extending priesthood to all worthy male members (Official Declaration 2)",
+    "summary": "Church president Spencer W. Kimball received a revelation in the Salt Lake Temple extending priesthood ordination to all worthy male members regardless of race, later canonized as Official Declaration 2.",
+    "groups": [
+      "lds",
+      "modern"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1978,
+        "month": 6,
+        "day": 1
+      },
+      "note": "Revelation received and affirmed to church leaders June 1, 1978; announced publicly via a First Presidency letter dated June 8, 1978; sustained by general conference on September 30, 1978."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/1978_Revelation_on_Priesthood"
+      },
+      {
+        "label": "Official Declaration 2 (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/2"
+      }
+    ]
+  },
+  {
+    "id": "ervil-lebaron-death-prison",
+    "title": "Death of Ervil LeBaron in prison",
+    "summary": "Ervil LeBaron, serving a life sentence for orchestrating murder, died in his cell at Utah State Prison.",
+    "groups": [
+      "fundamentalist"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1981,
+        "month": 8,
+        "day": 15
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ervil_LeBaron"
+      }
+    ]
+  },
+  {
+    "id": "four-oclock-murders",
+    "title": "The '4 O'Clock Murders'",
+    "summary": "Followers of Ervil LeBaron's church carried out coordinated killings around 4:00 p.m. at three locations in Texas, killing four people named on his blood-atonement list.",
+    "groups": [
+      "fundamentalist",
+      "modern"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1988,
+        "month": 6,
+        "day": 27
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ervil_LeBaron"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_First_Born_of_the_Lamb_of_God"
+      }
+    ]
+  },
+  {
+    "id": "family-proclamation",
+    "title": "The Family: A Proclamation to the World",
+    "summary": "Church president Gordon B. Hinckley first read the proclamation on the family at the LDS Church's General Relief Society Meeting.",
+    "groups": [
+      "lds",
+      "modern"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 1995,
+        "month": 9,
+        "day": 23
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Family:_A_Proclamation_to_the_World"
+      }
+    ]
+  },
+  {
+    "id": "rlds-renamed-community-of-christ",
+    "title": "RLDS Church renamed Community of Christ",
+    "summary": "The Reorganized Church of Jesus Christ of Latter Day Saints officially adopted the name Community of Christ, effective April 6, 2001.",
+    "groups": [
+      "rlds",
+      "modern"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 2001,
+        "month": 4,
+        "day": 6
+      },
+      "note": "The name change was approved by the church's 2000 World Conference and took effect April 6, 2001, the anniversary date of the church's 1830 organization."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Community_of_Christ"
+      }
+    ]
+  },
+  {
+    "id": "joseph-smith-papers-first-volume",
+    "title": "First volume of the Joseph Smith Papers published",
+    "summary": "The Joseph Smith Papers project released its inaugural volume, Journals, Volume 1: 1832-1839, whose initial printing of 12,500 copies sold out within two weeks.",
+    "groups": [
+      "lds",
+      "modern"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 2008,
+        "month": 12
+      },
+      "note": "Released in December 2008; some accounts give December 1, 2008 as the release date."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Smith_Papers"
+      }
+    ]
+  },
+  {
+    "id": "kirtland-temple-sale-2024",
+    "title": "Community of Christ sells the Kirtland Temple and Nauvoo properties to the LDS Church",
+    "summary": "Community of Christ transferred the Kirtland Temple, Nauvoo historic sites including the Red Brick Store and Smith Family Homestead, and significant manuscripts and artifacts to the Church of Jesus Christ of Latter-day Saints for $192.5 million.",
+    "groups": [
+      "lds",
+      "rlds",
+      "modern"
+    ],
+    "when": {
+      "type": "instant",
+      "date": {
+        "year": 2024,
+        "month": 3,
+        "day": 5
+      }
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kirtland_Temple"
+      }
+    ]
+  }
+]

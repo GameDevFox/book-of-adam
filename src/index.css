@@ -1,0 +1,1601 @@
+/* Dark is the default theme; [data-theme="light"] opts back into the original warm-paper light
+   palette. The theme is set on <html data-theme> — early by a script in index.html (no flash),
+   then toggled by the ThemeToggle button. Both palettes share the same variable names, so every
+   rule that uses var(--…) themes automatically. */
+:root {
+  /* Space kept beneath the text while the selection bar shows (index.css .selection-bar). */
+  --selection-bar-room: 6rem;
+  color-scheme: dark;
+  --paper: #16130e;
+  --panel: #201c15;
+  --ink: #ece3d4;
+  --ink-soft: #a99d89;
+  --line: #363029;
+  --accent: #cba871;
+  --verified: #6cc47a;
+  --disputed: #e37b73;
+  --unverified: #8f8574;
+  --partial: #d8b24a;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --paper: #faf7f1;
+  --panel: #ffffff;
+  --ink: #2b2620;
+  --ink-soft: #6d6459;
+  --line: #e3dcd0;
+  --accent: #6b4f2a;
+  --verified: #2e7d32;
+  --disputed: #b3261e;
+  --unverified: #8a8177;
+  --partial: #b28704;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.45;
+}
+
+.shell {
+  /* Read by .library-sidebar too: the pinned menu leaves this much room at the bottom. */
+  --shell-bottom-padding: 4rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1.25rem var(--shell-bottom-padding);
+}
+
+/* Pinned to the top at every width. It carries the page's top padding itself (not .shell) so
+   the masthead keeps its breathing room once stuck, and paints --paper so scrolled text never
+   shows through. z-index sits below the nav panel (20+). */
+.shell-header {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  background: var(--paper);
+  border-bottom: 2px solid var(--line);
+  padding: 1.5rem 0 0.75rem;
+  margin-bottom: 1.25rem;
+}
+
+/* Narrow-only chrome (hamburger, scrim, side panel) — shown by the phone layout block below. */
+.nav-toggle,
+.nav-scrim,
+.nav-panel {
+  display: none;
+}
+
+/* The header's reference search (ReferenceSearch.tsx): centred between the masthead and the tabs;
+   on a phone, a full-width second row (below). */
+.reference-search {
+  flex: 1 1 14rem;
+  max-width: 22rem;
+  margin: 0 auto;
+  align-self: center;
+}
+
+.reference-search input {
+  width: 100%;
+  box-sizing: border-box;
+  font: inherit;
+  font-size: 0.95rem;
+  padding: 0.4rem 0.75rem;
+  color: var(--ink);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.reference-search input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.reference-search input[aria-invalid] {
+  border-color: var(--disputed);
+}
+
+/* The dropdown under the field: a few full references (reference.ts suggestions). Rows are
+   finger-sized, for phones. */
+.reference-search {
+  position: relative;
+}
+
+.reference-suggestions {
+  position: absolute;
+  top: calc(100% + 0.25rem);
+  left: 0;
+  right: 0;
+  z-index: 10;
+  margin: 0;
+  padding: 0.25rem 0;
+  list-style: none;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  box-shadow: 0 6px 18px rgb(0 0 0 / 25%);
+}
+
+.reference-suggestions[hidden] {
+  display: none;
+}
+
+.reference-suggestions li {
+  min-height: 2.75rem;
+  display: flex;
+  align-items: center;
+  padding: 0 0.75rem;
+  cursor: pointer;
+  color: var(--ink);
+}
+
+.reference-suggestions li[aria-selected="true"] {
+  background: color-mix(in srgb, var(--accent) 18%, transparent);
+}
+
+.shell-header h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.9rem;
+  letter-spacing: 0.02em;
+  margin: 0;
+}
+
+.tagline {
+  margin: 0.1rem 0 0;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.shell-header nav {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap; /* five tabs become two rows on a phone instead of clipping off the edge */
+}
+
+.theme-toggle {
+  flex: none;
+  width: 2rem;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  line-height: 1;
+  color: var(--ink-soft);
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.theme-toggle:hover {
+  color: var(--ink);
+  background: var(--line);
+}
+
+.shell-header nav a,
+.nav-panel .nav-panel-apps a {
+  color: var(--ink-soft);
+  text-decoration: none;
+  padding: 0.3rem 0.7rem;
+  border-radius: 6px;
+  font-size: 0.95rem;
+}
+
+.shell-header nav a:hover,
+.nav-panel .nav-panel-apps a:hover {
+  background: var(--line);
+}
+
+.shell-header nav a.active,
+.nav-panel .nav-panel-apps a.active {
+  background: var(--accent);
+  color: var(--paper);
+}
+
+.status-line {
+  color: var(--ink-soft);
+}
+
+.status-line.error {
+  color: var(--disputed);
+}
+
+/* Not-found and crash pages (routes.tsx). */
+.page-message {
+  max-width: 32rem;
+  margin: 4rem auto;
+  padding: 0 1rem;
+  text-align: center;
+}
+
+.page-message a {
+  color: var(--accent);
+}
+
+.page-message-detail {
+  color: var(--ink-soft);
+  font-size: 0.8rem;
+}
+
+/* The crash page replaces the Shell, so it paints its own page. */
+.site-error {
+  min-height: 100dvh;
+  margin: 0 auto;
+  padding-top: 4rem;
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.toolbar {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.toolbar input[type="search"] {
+  flex: 1 1 220px;
+  padding: 0.45rem 0.7rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--panel);
+  font-size: 0.95rem;
+}
+
+.filter-group {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.chip {
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--ink-soft);
+  border-radius: 999px;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.chip.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--paper);
+}
+
+.progress {
+  margin-left: auto;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+}
+
+table.records {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.records th {
+  text-align: left;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+  padding: 0.6rem 0.75rem;
+  border-bottom: 2px solid var(--line);
+}
+
+.records td {
+  padding: 0.65rem 0.75rem;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+
+.records tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.person-name {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+}
+
+.person-role {
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+  max-width: 26ch;
+}
+
+.person-groups {
+  margin-top: 0.25rem;
+  display: flex;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+}
+
+.tag {
+  font-size: 0.7rem;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 0.05rem 0.35rem;
+  color: var(--ink-soft);
+}
+
+.fact {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.review {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.icon-btn {
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--ink-soft);
+  border-radius: 4px;
+  font-size: 0.7rem;
+  line-height: 1;
+  padding: 0.15rem 0.3rem;
+  cursor: pointer;
+}
+
+.icon-btn:hover:not(:disabled) {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.icon-btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.dot {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: var(--unverified);
+}
+
+.review-verified .dot {
+  background: var(--verified);
+}
+
+.review-disputed .dot {
+  background: var(--disputed);
+}
+
+.review-note {
+  color: var(--disputed);
+  font-size: 0.75rem;
+  font-style: italic;
+}
+
+.event-date {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.event-place,
+.event-note {
+  color: var(--ink-soft);
+  font-size: 0.8rem;
+}
+
+.event-note {
+  font-style: italic;
+}
+
+.sources {
+  min-width: 9rem;
+}
+
+.sources a {
+  display: block;
+  color: var(--accent);
+  font-size: 0.85rem;
+}
+
+.badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-radius: 4px;
+  padding: 0.15rem 0.45rem;
+  color: #fff;
+}
+
+.badge-verified {
+  background: var(--verified);
+}
+
+.badge-disputed {
+  background: var(--disputed);
+}
+
+.badge-unverified {
+  background: var(--unverified);
+}
+
+.badge-partial {
+  background: var(--partial);
+}
+
+.actions {
+  white-space: nowrap;
+}
+
+.actions button {
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--ink);
+  border-radius: 6px;
+  padding: 0.3rem 0.65rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+  margin-right: 0.3rem;
+}
+
+.actions button:hover:not(:disabled) {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.actions button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.actions button.subtle {
+  color: var(--ink-soft);
+}
+
+.lane-picker-label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+}
+
+.timeline-hint {
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+  margin: 0 0 0.75rem;
+}
+
+.timeline-wrap {
+  position: relative;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  /* No overflow: hidden — the tooltip must escape the panel near its edges. */
+}
+
+.timeline-canvas {
+  display: block;
+  border-radius: 8px;
+}
+
+.timeline-overlay {
+  position: absolute;
+  top: 0;
+  left: 120px; /* GUTTER_PX — the lane-label column is not pannable */
+  right: 0;
+  bottom: 0;
+  cursor: grab;
+  touch-action: none;
+}
+
+.timeline-overlay:active {
+  cursor: grabbing;
+}
+
+.timeline-tooltip {
+  position: absolute;
+  pointer-events: none;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  box-shadow: 0 2px 10px rgba(43, 38, 32, 0.15);
+  padding: 0.5rem 0.65rem;
+  max-width: 340px;
+  font-size: 0.8rem;
+  z-index: 2;
+}
+
+/* Library: the drill-down menu on the left, the reading pane on the right. The sidebar is
+   pinned at viewport height (.library-sidebar); the reading pane sizes to its text. */
+.library-layout {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+/* Pinned beside the text at exactly the height left under the shell header, so the menu never
+   scrolls away with a long chapter: its own list scrolls instead, under its pinned back button.
+   --shell-header-height is measured and published by Shell.tsx. The height also leaves the
+   shell's bottom padding free: a sticky box cannot outrun its container, and at the very end of
+   a page the container stops that far above the viewport edge — a taller menu was pushed up
+   under the header there. */
+.library-sidebar {
+  --sidebar-gap: 1rem;
+  width: 17rem;
+  flex: none;
+  position: sticky;
+  top: calc(var(--shell-header-height, 5rem) + var(--sidebar-gap));
+  height: calc(
+    100dvh - var(--shell-header-height, 5rem) - var(--sidebar-gap) - var(--shell-bottom-padding)
+  );
+  overflow: hidden;
+  border-right: 1px solid var(--line);
+}
+
+.library-sidebar .tree {
+  position: absolute;
+  inset: 0;
+}
+
+/* The drill-down menu (src/library/TreeMenu.tsx): every open level is mounted, stacked, each
+   covering the one before; only the top one is interactive. */
+.drill {
+  overflow: hidden;
+}
+
+.drill-level {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  background: var(--paper);
+}
+
+/* New levels slide in from the left over the old one; back slides them out the same way.
+   Under prefers-reduced-motion TreeMenu.tsx never sets these classes, so levels just swap. */
+.drill-level.entering {
+  animation: drill-in 220ms ease-out;
+}
+
+.drill-level.leaving {
+  animation: drill-out 220ms ease-in forwards;
+}
+
+@keyframes drill-in {
+  from {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes drill-out {
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+/* Pinned: outside the scrolling list, so it stays put however far the list scrolls. */
+.drill-head {
+  flex: none;
+  padding: 0 0.5rem 0.5rem 0;
+  margin-bottom: 0.35rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.drill-back {
+  font: inherit;
+  color: var(--accent);
+  background: none;
+  border: none;
+  padding: 0.3rem 0.4rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.drill-back:hover {
+  background: var(--panel);
+}
+
+.drill-title {
+  margin: 0.15rem 0.4rem 0;
+  font-size: 1.05rem;
+  text-wrap: balance;
+}
+
+.drill-list {
+  position: relative; /* rows' offsetTop is measured against the list */
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding-right: 0.5rem;
+}
+
+/* A non-interactive label inside a level's list — a year within a decade of poems. */
+.tree-divider {
+  margin: 0.9rem 0.4rem 0.25rem;
+  padding-bottom: 0.15rem;
+  border-bottom: 1px solid var(--line);
+  color: var(--ink-soft);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  font-variant-numeric: tabular-nums;
+}
+
+.tree-list > li:first-child > .tree-divider {
+  margin-top: 0.2rem;
+}
+
+/* In a list with year dividers (a decade of poems), the poems are what you pick: full ink, so
+   they stand out from the muted year labels. Elsewhere leaf rows stay soft by design (a JoD row's
+   page and speaker lead, its title recedes). */
+.tree-list:has(> li > .tree-divider) .tree-row.leaf {
+  color: var(--ink);
+}
+
+/* How many readings a group holds (a decade's poems). */
+.tree-count {
+  flex: none;
+  margin-left: auto;
+  color: var(--ink-soft);
+  font-size: 0.8rem;
+  font-weight: normal;
+  font-variant-numeric: tabular-nums;
+}
+
+.tree-count + .chevron {
+  margin-left: 0.5rem;
+}
+
+.tree-row .chevron {
+  flex: none;
+  margin-left: auto;
+  color: var(--ink-soft);
+}
+
+.tree-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tree-row {
+  box-sizing: border-box; /* a passage row is a link (TreeMenu.tsx), and links are not */
+  text-decoration: none;
+  display: flex;
+  align-items: baseline;
+  gap: 0.35rem;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  color: var(--ink);
+  font: inherit;
+  line-height: 1.3;
+  padding: 0.22rem 0.4rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.tree-row:hover {
+  background: var(--panel);
+}
+
+/* Long titles (most JoD discourses) take one line and truncate; the full title is the
+   .tree-peek overlay (src/library/TitlePeek.tsx). Phones clamp to two lines instead. */
+.tree-label {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* A press-and-hold on a row shows its title: no text selection or iOS callout instead. */
+.tree-row {
+  -webkit-touch-callout: none;
+  user-select: none;
+}
+
+/* "p. 60" leads a discourse row, in full ink: it is what readers navigate by. */
+.tree-page {
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+}
+
+/* The speaker follows the page, also in full ink; the sermon title stays the softer part. */
+.tree-speaker {
+  color: var(--ink);
+}
+
+.tree-row.leaf.active .tree-page,
+.tree-row.leaf.active .tree-speaker {
+  color: inherit;
+}
+
+.tree-sep {
+  color: var(--ink-soft);
+}
+
+.tree-peek {
+  position: fixed;
+  z-index: 30; /* above the phone ☰ panel (20, 21), which holds the Library menu */
+  box-sizing: border-box;
+  background: var(--panel);
+  border-radius: 6px;
+  /* A shadow, not a border: a border would shift the text off the row's text. */
+  box-shadow:
+    0 0 0 1px var(--line),
+    0 6px 18px rgb(0 0 0 / 0.35);
+  white-space: normal;
+  overflow-wrap: anywhere;
+  pointer-events: none;
+}
+
+.tree-row.group {
+  font-weight: 600;
+}
+
+.tree-row.leaf {
+  font-weight: normal;
+  color: var(--ink-soft);
+}
+
+.tree-row.leaf.active {
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  font-weight: 600;
+}
+
+.reading {
+  /* Sized by its text, not stretched to the sidebar's height (.library-sidebar). */
+  align-self: flex-start;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 2rem 2.5rem;
+  max-width: 62ch;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* Printed-book breaks inside a Journal of Discourses discourse (src/library/marks.ts): a solid
+   full-width rule labelled with the new page; a shorter dotted one where the second column of
+   a page begins — the two kinds tell apart at a glance. */
+.page-rule,
+.column-rule {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--ink-soft);
+  font-family: -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+}
+
+.page-rule::before,
+.page-rule::after,
+.column-rule::before,
+.column-rule::after {
+  content: "";
+  flex: 1;
+}
+
+.page-rule {
+  margin: 1.6rem 0;
+  /* A citation to a page scrolls here (LibraryApp): land just under the sticky header. */
+  scroll-margin-top: calc(var(--shell-header-height, 5rem) + 1rem);
+}
+
+.page-rule::before,
+.page-rule::after {
+  border-top: 1px solid var(--line);
+}
+
+.column-rule {
+  width: 55%;
+  margin: 1rem auto;
+}
+
+.column-rule::before,
+.column-rule::after {
+  border-top: 1px dotted var(--ink-soft);
+  opacity: 0.6;
+}
+
+/* The bare /library prompt, pointing at the collapsed tree. */
+.library-landing {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 1.15rem;
+}
+
+.library-landing-arrow {
+  color: var(--accent);
+  font-size: 1.6rem;
+  line-height: 1;
+}
+
+/* A long byline (a poem's dedication) previews on one line until expanded (LibraryApp). */
+.discourse-byline.previewed {
+  display: flex;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+.discourse-byline.previewed .byline-text {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.byline-toggle {
+  flex: none;
+  margin-left: 0.5rem;
+  padding: 0;
+  font: inherit;
+  color: var(--accent);
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.reading h2 {
+  font-size: 1.3rem;
+  letter-spacing: 0.03em;
+  margin: 0 0 0.25rem;
+}
+
+.chapter-head {
+  margin: 0 0 1.25rem;
+}
+
+/* Discourse / authored-piece title — prominent. */
+.reading h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0 0 0.2rem;
+  text-wrap: balance;
+}
+
+/* Scripture chapter label ("CHAPTER I") — small caps. */
+.reading h3.label {
+  font-size: 1rem;
+  color: var(--ink-soft);
+  font-weight: normal;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.discourse-byline {
+  margin: 0;
+  color: var(--ink-soft);
+  font-style: italic;
+  font-size: 0.92rem;
+}
+
+/* Original abridgment synopsis ("An account of Lehi…") on a book or chapter. */
+.unit-heading {
+  margin: 0.35rem 0 0;
+  color: var(--ink-soft);
+  font-style: italic;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  max-width: 46rem;
+}
+
+.passage {
+  --passage-gap: 0.9rem;
+  margin: 0 0 var(--passage-gap);
+}
+
+/* Selected passages (?verse=, Passage.tsx). The tint is mixed into the reading panel's colour,
+   not laid over it, so where two highlights overlap there is no darker band. */
+.passage.highlighted {
+  --highlight: color-mix(in srgb, var(--accent) 16%, var(--panel));
+  --highlight-pad: 0.35rem;
+  background: var(--highlight);
+  box-shadow: 0 0 0 var(--highlight-pad) var(--highlight);
+  border-radius: 2px;
+}
+
+/* Adjacent selected passages read as one block: a second shadow, shifted down by the gap, fills
+   the space to the next one, and the corners where they meet are square. CSS only — the page's
+   structure does not change. A JoD page or column rule between two passages keeps them apart. */
+.passage.highlighted:has(+ .passage.highlighted) {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  box-shadow:
+    0 0 0 var(--highlight-pad) var(--highlight),
+    0 var(--passage-gap) 0 var(--highlight-pad) var(--highlight);
+}
+
+.passage.highlighted + .passage.highlighted {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.passage[data-unit] {
+  scroll-margin-top: calc(var(--shell-header-height, 5rem) + 1rem);
+}
+
+/* A click or tap selects a passage (Passage.tsx, useVerseSelection.ts). */
+.passage.selectable {
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+@media (hover: hover) {
+  .passage.selectable:not(.highlighted):hover {
+    background: color-mix(in srgb, var(--accent) 7%, transparent);
+    box-shadow: 0 0 0 0.35rem color-mix(in srgb, var(--accent) 7%, transparent);
+  }
+}
+
+/* While passages are selected: the bar pinned to the bottom (SelectionBar.tsx), and room
+   beneath the text so the last passage can scroll clear of it. */
+.library.has-selection {
+  padding-bottom: var(--selection-bar-room);
+}
+
+.selection-bar {
+  --selection-bar-gap: 1rem;
+  position: fixed;
+  z-index: 15;
+  bottom: var(--selection-bar-gap);
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(36rem, calc(100% - 2 * var(--selection-bar-gap)));
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.5rem 0.5rem 0.5rem 1rem;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgb(0 0 0 / 30%);
+}
+
+.selection-reference {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-weight: 600;
+}
+
+.selection-bar button {
+  flex: none;
+  min-height: 2.5rem;
+  font: inherit;
+  color: var(--ink);
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.selection-copy {
+  padding: 0 1rem;
+  border-color: var(--accent) !important;
+  color: var(--accent) !important;
+}
+
+.selection-clear {
+  min-width: 2.5rem;
+}
+
+/* Text set in lines — a poem's stanza, a list of signatures (LibraryApp Passage). Every line
+   starts at the same edge; the stanza number sits in a gutter to the left so it does not push
+   the first line out of alignment; a line too long for the screen wraps with a hanging indent,
+   so a wrapped continuation never reads as a new line of the poem. */
+.passage.lined {
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.passage.lined .unit-id {
+  position: absolute;
+  left: 0;
+  top: 0.45em;
+  margin: 0;
+  vertical-align: baseline;
+  /* Not the line's hanging indent, which it would otherwise inherit and be pushed out by. */
+  text-indent: 0;
+}
+
+/* A divider between sections of a poem ("* * * * *"), centred and muted, unnumbered. */
+.passage.ornament {
+  margin: 1.2rem 0;
+  text-align: center;
+  color: var(--ink-soft);
+  letter-spacing: 0.3em;
+}
+
+.text-line {
+  display: block;
+  padding-left: 1.25em;
+  text-indent: -1.25em;
+}
+
+.unit-id {
+  color: var(--accent);
+  font-size: 0.7em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  vertical-align: 0.25em;
+  margin-right: 0.45em;
+  user-select: none;
+}
+
+.tooltip-date {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  margin-bottom: 0.15rem;
+}
+
+.tooltip-title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.95rem;
+  margin-bottom: 0.2rem;
+}
+
+.tooltip-detail {
+  color: var(--ink-soft);
+  margin-bottom: 0.3rem;
+}
+
+/* Deseret converter ------------------------------------------------------------------- */
+
+.deseret-intro p {
+  color: var(--ink-soft);
+  max-width: 62ch;
+  margin: 0.4rem 0 1.2rem;
+}
+
+.deseret-panes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  gap: 1rem;
+}
+
+.deseret-pane {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.deseret-label {
+  color: var(--ink-soft);
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 0.35rem;
+}
+
+.deseret-input,
+.deseret-output {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  color: var(--ink);
+  /* Both panes fill the grid row so the two columns stay the same height. */
+  flex: 1;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  min-height: 14rem;
+  padding: 0.8rem;
+  width: 100%;
+}
+
+.deseret-input {
+  font-family: Georgia, "Times New Roman", serif;
+  resize: vertical;
+}
+
+.deseret-output {
+  display: block;
+  font-family: Georgia, "Times New Roman", serif;
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+}
+
+/* Whichever pane currently holds Deseret. The subset font first; Latin falls through for
+   unknown words and punctuation. Applied to input or output depending on direction. */
+.deseret-script {
+  font-family: "Noto Sans Deseret", Georgia, "Times New Roman", serif;
+}
+
+/* Unknown words keep their Latin spelling and say so, rather than being guessed at. */
+.deseret-unknown {
+  border-bottom: 1px dotted var(--disputed);
+  color: var(--disputed);
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.deseret-status {
+  color: var(--ink-soft);
+}
+
+.deseret-error {
+  color: var(--disputed);
+}
+
+.deseret-conventions {
+  margin-top: 1.6rem;
+}
+
+.deseret-conventions h3,
+.deseret-worklist h3 {
+  font-size: 0.95rem;
+  margin: 0 0 0.2rem;
+}
+
+.deseret-hint {
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+  margin: 0 0 0.7rem;
+  max-width: 62ch;
+}
+
+.deseret-knob {
+  align-items: baseline;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.deseret-knob > span {
+  color: var(--ink-soft);
+  flex: 0 0 14rem;
+  font-size: 0.9rem;
+}
+
+.deseret-knob select {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  color: var(--ink);
+  font-family: "Noto Sans Deseret", inherit;
+  max-width: 100%;
+  padding: 0.3rem 0.4rem;
+}
+
+.deseret-footer {
+  border-top: 1px solid var(--line);
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  margin-top: 1.6rem;
+  padding-top: 0.9rem;
+}
+
+.deseret-worklist ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.9rem;
+  list-style: none;
+  padding: 0;
+}
+
+.deseret-worklist li {
+  color: var(--ink);
+}
+
+.deseret-count {
+  color: var(--ink-soft);
+}
+
+.deseret-check {
+  align-items: flex-start;
+  margin-top: 0.9rem;
+}
+
+.deseret-check > span {
+  color: var(--ink-soft);
+  flex: 1 1 28rem;
+  font-size: 0.9rem;
+}
+
+/* Deseret shown inline inside explanatory prose. */
+.deseret-inline {
+  color: var(--ink);
+  font-family: "Noto Sans Deseret", inherit;
+}
+
+.deseret-swap {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin-top: 0.8rem;
+}
+
+.deseret-swap button {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  color: var(--ink);
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 0.35rem 0.8rem;
+}
+
+.deseret-swap button:hover:not(:disabled) {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.deseret-swap button:disabled {
+  cursor: default;
+  opacity: 0.5;
+}
+
+.deseret-swap .deseret-hint {
+  margin: 0;
+}
+
+/* A word with homophone alternates — hover shows the rest. */
+.deseret-alts {
+  border-bottom: 1px dotted var(--ink-soft);
+  cursor: help;
+}
+
+/* Letter primer ----------------------------------------------------------------------- */
+
+.deseret-primer {
+  margin-top: 1.6rem;
+}
+
+.deseret-primer-toggle {
+  background: none;
+  border: none;
+  color: var(--ink);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: 700;
+  padding: 0;
+}
+
+.deseret-primer-toggle:hover {
+  color: var(--accent);
+}
+
+.deseret-primer-body {
+  margin-top: 0.6rem;
+}
+
+.deseret-primer-group h4 {
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  margin: 1rem 0 0.35rem;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+table.deseret-chart {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-collapse: collapse;
+  border-radius: 8px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.deseret-chart th {
+  border-bottom: 2px solid var(--line);
+  color: var(--ink-soft);
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  padding: 0.4rem 0.7rem;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.deseret-chart td {
+  border-bottom: 1px solid var(--line);
+  padding: 0.35rem 0.7rem;
+}
+
+.deseret-chart tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.deseret-chart-glyphs {
+  font-size: 1.25rem;
+  white-space: nowrap;
+  width: 5rem;
+}
+
+.deseret-chart-ipa {
+  color: var(--ink-soft);
+  white-space: nowrap;
+  width: 6rem;
+}
+
+.deseret-chart-example {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+}
+
+/* Phone layout ---------------------------------------------------------------------------- */
+/* Below this width the Library's side-by-side tree + reading pane cannot both fit (the tree is
+   17rem; the reading pane needs ~300px to be readable), so the tree becomes a full-screen sheet
+   behind a Contents button and the reading pane takes the whole width. */
+@media (max-width: 700px) {
+  .shell {
+    padding: 0 1rem 3rem;
+  }
+
+  /* One row: ☰ · Book of Adam · ☾ — the tab strip lives in the side panel instead. */
+  .shell-header {
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.6rem 0;
+    margin-bottom: 1rem;
+  }
+
+  .shell-header h1 {
+    font-size: 1.5rem;
+  }
+
+  /* The search takes a full-width row under ☰ · Book of Adam · ☾. */
+  .shell-header {
+    flex-wrap: wrap;
+  }
+
+  .reference-search {
+    order: 3;
+    flex-basis: 100%;
+    max-width: none;
+  }
+
+  .shell-header nav {
+    display: none;
+  }
+
+  .header-right {
+    margin-left: auto;
+  }
+
+  .nav-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: none;
+    min-width: 2.75rem;
+    min-height: 2.75rem;
+    margin-left: -0.5rem; /* optically flush with the page's left gutter */
+    font: inherit;
+    font-size: 1.3rem;
+    color: var(--ink);
+    background: none;
+    border: 1px solid transparent;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+
+  .nav-scrim.open {
+    display: block;
+    position: fixed;
+    inset: 0;
+    z-index: 20;
+    background: rgb(0 0 0 / 45%);
+  }
+
+  .nav-panel.open {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 21;
+    width: min(18rem, 80vw);
+    background: var(--paper);
+    border-right: 1px solid var(--line);
+    padding: 0 0.75rem calc(0.75rem + env(safe-area-inset-bottom));
+    box-shadow: 0 0 24px rgb(0 0 0 / 35%);
+  }
+
+  .nav-panel-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: none;
+    padding: 0.6rem 0.25rem;
+    border-bottom: 1px solid var(--line);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.3rem;
+  }
+
+  .nav-panel-close {
+    min-width: 2.75rem;
+    min-height: 2.75rem;
+    font: inherit;
+    font-size: 1.1rem;
+    color: var(--ink);
+    background: none;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    cursor: pointer;
+  }
+
+  .nav-panel .nav-panel-apps {
+    display: flex;
+    flex: none;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 0.6rem 0;
+  }
+
+  /* Beneath the app links, a page's own navigation (navPanel.ts) — the Library's Contents menu,
+     which takes the rest of the panel's height and scrolls inside its drill-down levels. */
+  .nav-panel-slot {
+    display: flex;
+    flex: 1;
+    min-height: 0;
+    flex-direction: column;
+  }
+
+  .nav-panel-contents {
+    display: flex;
+    flex: 1;
+    min-height: 0;
+    flex-direction: column;
+    border-top: 1px solid var(--line);
+  }
+
+  .nav-panel-section {
+    flex: none;
+    margin: 0.75rem 0.4rem 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+
+  .nav-panel-contents .tree {
+    position: relative;
+    flex: 1;
+    min-height: 0;
+  }
+
+  /* Discourse titles are long: a Library panel takes more of the screen than the app list. */
+  .nav-panel.open:has(.nav-panel-contents) {
+    width: min(24rem, 88vw);
+  }
+
+  .nav-panel .nav-panel-apps a {
+    display: flex;
+    align-items: center;
+    min-height: 2.75rem;
+    padding: 0 0.9rem;
+    font-size: 1.05rem;
+  }
+
+  .library-layout {
+    display: block;
+  }
+
+  .library-sidebar {
+    display: none;
+  }
+
+  .tree-label {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    white-space: normal;
+  }
+
+  .reading {
+    max-width: none;
+    padding: 1.25rem 1rem;
+    border-radius: 6px;
+  }
+
+  /* The menu is behind ☰ at the top left, not a sidebar to the left. */
+  .library-landing-arrow {
+    transform: rotate(45deg);
+  }
+}
+
+/* Touch: tree rows grow to a thumb-sized target (~42px at the 16px base) on any coarse pointer,
+   phone or tablet, regardless of width. */
+@media (pointer: coarse) {
+  .tree-row {
+    padding: 0.65rem 0.5rem;
+  }
+}
+
+/* Full-text search results (src/library/SearchResults.tsx). */
+.search-results h2 {
+  margin-bottom: 0.25rem;
+}
+
+.search-corrected,
+.search-count {
+  margin: 0.25rem 0;
+  color: var(--ink-soft);
+}
+
+.search-hits {
+  margin: 1.25rem 0;
+  padding: 0;
+  list-style: none;
+}
+
+.search-hit {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.search-hit-reference {
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.search-hit-where {
+  font-weight: normal;
+  color: var(--ink-soft);
+}
+
+.search-hit-excerpt {
+  margin: 0.35rem 0 0;
+}
+
+.search-hit-excerpt mark {
+  color: inherit;
+  background: color-mix(in srgb, var(--accent) 28%, transparent);
+}
+
+.search-more {
+  padding: 0.5rem 1rem;
+  font: inherit;
+  color: var(--accent);
+  background: none;
+  border: 1px solid var(--accent);
+  border-radius: 0.35rem;
+  cursor: pointer;
+}

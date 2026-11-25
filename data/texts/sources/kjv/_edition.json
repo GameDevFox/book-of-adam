@@ -1,0 +1,26 @@
+{
+  "editionId": "kjv",
+  "sourceRepo": "bcbooks/scriptures-json",
+  "sourceRef": "3bda76e40add4582165340ea6b1198dc6ad26ae1",
+  "volumes": [
+    {
+      "file": "old-testament.json",
+      "title": "The Old Testament",
+      "version": 2,
+      "last_modified": "2025-05-08",
+      "lds_slug": "ot"
+    },
+    {
+      "file": "new-testament.json",
+      "title": "The New Testament",
+      "version": 1,
+      "last_modified": "2016-10-02",
+      "lds_slug": "nt",
+      "title_page": {
+        "title": "The New Testament",
+        "subtitle": "of Our Lord and Saviour Jesus Christ",
+        "textLineCount": 136
+      }
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "page": "Poems 101–125",
+  "postId": 258,
+  "url": "https://erslexicon.wordpress.com/poems-30-35/",
+  "published": "2014-11-18T22:39:44+00:00",
+  "modified": "2014-12-19T07:14:52+00:00",
+  "fetchedAt": "2026-09-26T03:43:28.515Z",
+  "count": 25,
+  "poems": [
+    {
+      "id": "101",
+      "number": 101,
+      "title": "Wisdom",
+      "published": "The Wasp, August 1842",
+      "stanzaCount": 7,
+      "lineCount": 28
+    },
+    {
+      "id": "102",
+      "number": 102,
+      "title": "Lines",
+      "published": "Times and Seasons, 15 August 1842",
+      "stanzaCount": 9,
+      "lineCount": 33
+    },
+    {
+      "id": "103",
+      "number": 103,
+      "title": "To President Joseph Smith",
+      "published": "The Wasp, 20 August 1842",
+      "stanzaCount": 7,
+      "lineCount": 25
+    },
+    {
+      "id": "104",
+      "number": 104,
+      "title": "Your Portrait",
+      "composed": "20 August 1842",
+      "published": "The Wasp, 27 August 1842",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "105",
+      "number": 105,
+      "title": "To Who Needs Consolation",
+      "published": "The Wasp, 10 September 1842",
+      "stanzaCount": 4,
+      "lineCount": 16
+    },
+    {
+      "id": "106",
+      "number": 106,
+      "title": "Conjugal, to Jonathan & Elvira",
+      "composed": "17 September 1842",
+      "published": "The Wasp, 10 December 1842",
+      "stanzaCount": 3,
+      "lineCount": 12
+    },
+    {
+      "id": "107",
+      "number": 107,
+      "title": "“O, how shall I compose a thought”",
+      "composed": "23 September 1842",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "108",
+      "number": 108,
+      "title": "To He Knows Who",
+      "composed": "12 October 1842",
+      "published": "Poems 1, 1856",
+      "stanzaCount": 2,
+      "lineCount": 12
+    },
+    {
+      "id": "109",
+      "number": 109,
+      "title": "Apostrophe to Death",
+      "composed": "between 16 and 30 November 1842",
+      "published": "Times and Seasons, 15 December 1842",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 7,
+      "lineCount": 68
+    },
+    {
+      "id": "110",
+      "number": 110,
+      "title": "Saturday Evening Thoughts",
+      "composed": "between 16 and 30 November 1842",
+      "published": "Times and Seasons, 2 January 1843",
+      "stanzaCount": 4,
+      "lineCount": 99
+    },
+    {
+      "id": "111",
+      "number": 111,
+      "title": "Retirement",
+      "composed": "between 16 and 30 November 1842",
+      "stanzaCount": 3,
+      "lineCount": 18
+    },
+    {
+      "id": "112",
+      "number": 112,
+      "title": "Consolations of the Faithful",
+      "composed": "between 16 and 30 November 1842",
+      "published": "Deseret News, 16 April 1853",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "113",
+      "number": 113,
+      "title": "Jubilee Song",
+      "published": "as a broadsheet, 18 January 1843",
+      "stanzaCount": 17,
+      "lineCount": 83
+    },
+    {
+      "id": "114",
+      "number": 114,
+      "title": "As I Believe",
+      "composed": "11 February 1843",
+      "published": "Poems 1, 1856",
+      "stanzaCount": 7,
+      "lineCount": 49
+    },
+    {
+      "id": "115",
+      "number": 115,
+      "title": "The Hero’s Reward",
+      "published": "Times and Seasons, 1 March 1843",
+      "stanzaCount": 8,
+      "lineCount": 44
+    },
+    {
+      "id": "116",
+      "number": 116,
+      "title": "The Parting Hymn",
+      "composed": "17 March 1843",
+      "stanzaCount": 5,
+      "lineCount": 30
+    },
+    {
+      "id": "117",
+      "number": 117,
+      "title": "Birth-day Sonnet to Miss S.",
+      "published": "Poems 1, 1856",
+      "stanzaCount": 5,
+      "lineCount": 24
+    },
+    {
+      "id": "118",
+      "number": 118,
+      "title": "On the Death",
+      "composed": "9 April 1843",
+      "published": "Poems 1, 1856",
+      "stanzaCount": 4,
+      "lineCount": 24
+    },
+    {
+      "id": "119",
+      "number": 119,
+      "title": "Ode to Spring",
+      "published": "Times and Seasons, 15 May 1843",
+      "stanzaCount": 5,
+      "lineCount": 30
+    },
+    {
+      "id": "120",
+      "number": 120,
+      "title": "Lines Written in the Album",
+      "published": "Times and Seasons, 1 June 1843",
+      "stanzaCount": 4,
+      "lineCount": 25
+    },
+    {
+      "id": "121",
+      "number": 121,
+      "title": "The Kidnapping",
+      "composed": "30 June 1843",
+      "published": "Nauvoo Neighbor, 26 July 1843",
+      "stanzaCount": 17,
+      "lineCount": 67
+    },
+    {
+      "id": "122",
+      "number": 122,
+      "title": "Some Good Things",
+      "composed": "30 July 1843",
+      "published": "Poems 1, 1856",
+      "stanzaCount": 9,
+      "lineCount": 36
+    },
+    {
+      "id": "123",
+      "number": 123,
+      "title": "Two Chapters",
+      "published": "lines 1–122: Times and Seasons, 15 August 1843; entire poem: Poems 1, 1856",
+      "stanzaCount": 34,
+      "lineCount": 318
+    },
+    {
+      "id": "124",
+      "number": 124,
+      "title": "Lines Addressed to Mr. Huelett",
+      "composed": "28 August 1843",
+      "stanzaCount": 7,
+      "lineCount": 56
+    },
+    {
+      "id": "125",
+      "number": 125,
+      "title": "To—",
+      "date": "n.d.",
+      "stanzaCount": 3,
+      "lineCount": 12
+    }
+  ]
+}

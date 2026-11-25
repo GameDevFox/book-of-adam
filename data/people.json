@@ -1,0 +1,2211 @@
+[
+  {
+    "id": "joseph-smith-sr",
+    "name": "Joseph Smith Sr.",
+    "role": "First Presiding Patriarch of the church and one of the Eight Witnesses",
+    "groups": [
+      "founding",
+      "witness"
+    ],
+    "born": {
+      "date": "1771-07-12",
+      "place": "Topsfield, Massachusetts"
+    },
+    "died": {
+      "date": "1840-09-14",
+      "place": "Nauvoo, Illinois"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Smith_Sr."
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/joseph-smith-sr"
+      }
+    ]
+  },
+  {
+    "id": "lucy-mack-smith",
+    "name": "Lucy Mack Smith",
+    "role": "Mother of Joseph Smith and author of a foundational family history of the movement",
+    "groups": [
+      "founding"
+    ],
+    "born": {
+      "date": "1775-07-08",
+      "place": "Gilsum, New Hampshire"
+    },
+    "died": {
+      "date": "1856-05-14",
+      "place": "Nauvoo, Illinois"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lucy_Mack_Smith"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/lucy-mack-smith"
+      }
+    ]
+  },
+  {
+    "id": "martin-harris",
+    "name": "Martin Harris",
+    "role": "One of the Three Witnesses and financier of the Book of Mormon's first printing",
+    "groups": [
+      "founding",
+      "witness",
+      "lds"
+    ],
+    "born": {
+      "date": "1783-05-18",
+      "place": "Easton, New York"
+    },
+    "died": {
+      "date": "1875-07-10",
+      "place": "Clarkston, Utah Territory"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Martin_Harris_(Latter_Day_Saints)"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/martin-harris"
+      }
+    ]
+  },
+  {
+    "id": "alpheus-cutler",
+    "name": "Alpheus Cutler",
+    "role": "Founder and first president of the Church of Jesus Christ (Cutlerite)",
+    "groups": [
+      "cutlerite"
+    ],
+    "born": {
+      "date": "1784-02-29",
+      "place": "Plainfield, New Hampshire"
+    },
+    "died": {
+      "date": "1864-06-10",
+      "place": "Manti, Iowa"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alpheus_Cutler"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/alpheus-cutler"
+      }
+    ]
+  },
+  {
+    "id": "frederick-g-williams",
+    "name": "Frederick G. Williams",
+    "role": "Physician and Second Counselor in the First Presidency (1833-1837)",
+    "groups": [
+      "founding"
+    ],
+    "born": {
+      "date": "1787-10-28",
+      "place": "Suffield, Connecticut"
+    },
+    "died": {
+      "date": "1842-10-10",
+      "place": "Quincy, Illinois"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Frederick_G._Williams"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/frederick-granger-williams"
+      }
+    ]
+  },
+  {
+    "id": "william-w-phelps",
+    "name": "William W. Phelps",
+    "role": "Early church printer, hymn writer, and scribe; published the Book of Commandments",
+    "groups": [
+      "founding",
+      "lds"
+    ],
+    "born": {
+      "date": "1792-02-17",
+      "place": "Hanover Township, New Jersey"
+    },
+    "died": {
+      "date": "1872-03-07",
+      "place": "Salt Lake City, Utah Territory",
+      "circa": true,
+      "note": "Death date disputed: Wikipedia's infobox gives 17 March 1872, but its lead, the Joseph Smith Papers, and the Deseret News obituary (13 March 1872) support 7 March 1872"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/W._W._Phelps_(Mormon)"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/william-wines-phelps"
+      }
+    ]
+  },
+  {
+    "id": "william-marks",
+    "name": "William Marks",
+    "role": "Nauvoo stake president; later first counselor in the RLDS First Presidency",
+    "groups": [
+      "founding",
+      "rlds"
+    ],
+    "born": {
+      "date": "1792-11-15",
+      "place": "Rutland, Vermont"
+    },
+    "died": {
+      "date": "1872-05-22",
+      "place": "Plano, Illinois"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/William_Marks_(Latter_Day_Saints)"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/william-marks"
+      }
+    ]
+  },
+  {
+    "id": "sidney-rigdon",
+    "name": "Sidney Rigdon",
+    "role": "First Counselor in the First Presidency; led a separate faction after 1844 from which the Bickertonite church descends",
+    "groups": [
+      "founding",
+      "bickertonite"
+    ],
+    "born": {
+      "date": "1793-02-19",
+      "place": "St. Clair Township, Pennsylvania"
+    },
+    "died": {
+      "date": "1876-07-14",
+      "place": "Friendship, New York"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sidney_Rigdon"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/sidney-rigdon"
+      }
+    ]
+  },
+  {
+    "id": "edward-partridge",
+    "name": "Edward Partridge",
+    "role": "First bishop of the church",
+    "groups": [
+      "founding"
+    ],
+    "born": {
+      "date": "1793-08-27",
+      "place": "Pittsfield, Massachusetts"
+    },
+    "died": {
+      "date": "1840-05-27",
+      "place": "Nauvoo, Illinois"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Edward_Partridge"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/edward-partridge"
+      }
+    ]
+  },
+  {
+    "id": "lyman-wight",
+    "name": "Lyman Wight",
+    "role": "Early Latter Day Saint apostle who led an independent colony in Texas after the 1844 succession crisis",
+    "groups": [
+      "wightite"
+    ],
+    "born": {
+      "date": "1796-05-09",
+      "place": "Fairfield, New York"
+    },
+    "died": {
+      "date": "1858-03-31",
+      "place": "Mountain Valley, Texas",
+      "note": "Date is agreed; place differs by source — Wikipedia says Mountain Valley, Texas; Joseph Smith Papers says Dexter, Medina County, Texas, en route to Missouri."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lyman_Wight"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/lyman-wight"
+      }
+    ]
+  },
+  {
+    "id": "hyrum-smith",
+    "name": "Hyrum Smith",
+    "role": "Assistant President and Presiding Patriarch of the church and one of the Eight Witnesses",
+    "groups": [
+      "founding",
+      "witness"
+    ],
+    "born": {
+      "date": "1800-02-09",
+      "place": "Tunbridge, Vermont"
+    },
+    "died": {
+      "date": "1844-06-27",
+      "place": "Carthage, Illinois"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hyrum_Smith"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/hyrum-smith"
+      }
+    ]
+  },
+  {
+    "id": "brigham-young",
+    "name": "Brigham Young",
+    "role": "Second President of the Church of Jesus Christ of Latter-day Saints",
+    "groups": [
+      "founding",
+      "lds"
+    ],
+    "born": {
+      "date": "1801-06-01",
+      "place": "Whitingham, Vermont"
+    },
+    "died": {
+      "date": "1877-08-29",
+      "place": "Salt Lake City, Utah Territory"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brigham_Young"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/brigham-young"
+      }
+    ]
+  },
+  {
+    "id": "heber-c-kimball",
+    "name": "Heber C. Kimball",
+    "role": "Original member of the Quorum of the Twelve Apostles and First Counselor in the LDS First Presidency",
+    "groups": [
+      "founding",
+      "lds"
+    ],
+    "born": {
+      "date": "1801-06-14",
+      "place": "Sheldon, Vermont"
+    },
+    "died": {
+      "date": "1868-06-22",
+      "place": "Salt Lake City, Utah Territory"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Heber_C._Kimball"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/heber-chase-kimball"
+      }
+    ]
+  },
+  {
+    "id": "john-whitmer",
+    "name": "John Whitmer",
+    "role": "First Church Historian and one of the Eight Witnesses",
+    "groups": [
+      "founding",
+      "witness"
+    ],
+    "born": {
+      "date": "1802-08-27",
+      "place": "York, Pennsylvania"
+    },
+    "died": {
+      "date": "1878-07-11",
+      "place": "Far West, Missouri"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Whitmer"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/john-whitmer"
+      }
+    ]
+  },
+  {
+    "id": "eliza-r-snow",
+    "name": "Eliza R. Snow",
+    "role": "Poet and second general president of the LDS Relief Society",
+    "groups": [
+      "founding",
+      "lds"
+    ],
+    "born": {
+      "date": "1804-01-21",
+      "place": "Becket, Massachusetts"
+    },
+    "died": {
+      "date": "1887-12-05",
+      "place": "Salt Lake City, Utah Territory"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Eliza_R._Snow"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/eliza-roxcy-snow"
+      }
+    ]
+  },
+  {
+    "id": "willard-richards",
+    "name": "Willard Richards",
+    "role": "Apostle, Church Historian, and Second Counselor in the First Presidency of the LDS Church",
+    "groups": [
+      "founding",
+      "lds"
+    ],
+    "born": {
+      "date": "1804-06-24",
+      "place": "Hopkinton, Massachusetts"
+    },
+    "died": {
+      "date": "1854-03-11",
+      "place": "Salt Lake City, Utah Territory"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Willard_Richards"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/willard-richards"
+      }
+    ]
+  },
+  {
+    "id": "emma-hale-smith",
+    "name": "Emma Hale Smith",
+    "role": "First president of the Female Relief Society of Nauvoo and wife of Joseph Smith",
+    "groups": [
+      "founding",
+      "rlds"
+    ],
+    "born": {
+      "date": "1804-07-10",
+      "place": "Harmony Township, Pennsylvania"
+    },
+    "died": {
+      "date": "1879-04-30",
+      "place": "Nauvoo, Illinois"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Emma_Smith"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/emma-hale-smith"
+      }
+    ]
+  },
+  {
+    "id": "david-whitmer",
+    "name": "David Whitmer",
+    "role": "One of the Three Witnesses and the last surviving witness of the Book of Mormon",
+    "groups": [
+      "founding",
+      "witness"
+    ],
+    "born": {
+      "date": "1805-01-07",
+      "place": "Harrisburg, Pennsylvania"
+    },
+    "died": {
+      "date": "1888-01-25",
+      "place": "Richmond, Missouri"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/David_Whitmer"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/david-whitmer"
+      }
+    ]
+  },
+  {
+    "id": "joseph-smith-jr",
+    "name": "Joseph Smith Jr.",
+    "role": "Founder of the Latter Day Saint movement and publisher of the Book of Mormon",
+    "groups": [
+      "founding"
+    ],
+    "born": {
+      "date": "1805-12-23",
+      "place": "Sharon, Vermont"
+    },
+    "died": {
+      "date": "1844-06-27",
+      "place": "Carthage, Illinois"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Smith"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/joseph-smith-jr"
+      }
+    ]
+  },
+  {
+    "id": "oliver-cowdery",
+    "name": "Oliver Cowdery",
+    "role": "Second Elder of the church, principal scribe of the Book of Mormon, and one of the Three Witnesses",
+    "groups": [
+      "founding",
+      "witness"
+    ],
+    "born": {
+      "date": "1806-10-03",
+      "place": "Wells, Vermont"
+    },
+    "died": {
+      "date": "1850-03-03",
+      "place": "Richmond, Missouri"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Oliver_Cowdery"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/oliver-cowdery"
+      }
+    ]
+  },
+  {
+    "id": "wilford-woodruff",
+    "name": "Wilford Woodruff",
+    "role": "Fourth President of the Church of Jesus Christ of Latter-day Saints",
+    "groups": [
+      "founding",
+      "lds"
+    ],
+    "born": {
+      "date": "1807-03-01",
+      "place": "Avon, Connecticut",
+      "note": "Born in the part of Farmington, Connecticut, that later became Avon; Joseph Smith Papers lists Farmington"
+    },
+    "died": {
+      "date": "1898-09-02",
+      "place": "San Francisco, California"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wilford_Woodruff"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/wilford-woodruff"
+      }
+    ]
+  },
+  {
+    "id": "parley-p-pratt",
+    "name": "Parley P. Pratt",
+    "role": "Original member of the Quorum of the Twelve Apostles and early Latter Day Saint missionary and writer",
+    "groups": [
+      "founding",
+      "lds"
+    ],
+    "born": {
+      "date": "1807-04-12",
+      "place": "Burlington, New York"
+    },
+    "died": {
+      "date": "1857-05-13",
+      "place": "near Alma, Arkansas",
+      "note": "Killed in Crawford County, Arkansas; sources place the site near Alma (Wikipedia) or near Van Buren (Joseph Smith Papers)"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Parley_P._Pratt"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/parley-parker-pratt"
+      }
+    ]
+  },
+  {
+    "id": "samuel-h-smith",
+    "name": "Samuel H. Smith",
+    "role": "One of the Eight Witnesses and one of the movement's first missionaries",
+    "groups": [
+      "founding",
+      "witness"
+    ],
+    "born": {
+      "date": "1808-03-13",
+      "place": "Tunbridge, Vermont"
+    },
+    "died": {
+      "date": "1844-07-30",
+      "place": "Nauvoo, Illinois"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Samuel_H._Smith_(Latter_Day_Saints)"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/samuel-harrison-smith"
+      }
+    ]
+  },
+  {
+    "id": "john-taylor",
+    "name": "John Taylor",
+    "role": "Third President of the Church of Jesus Christ of Latter-day Saints",
+    "groups": [
+      "founding",
+      "lds"
+    ],
+    "born": {
+      "date": "1808-11-01",
+      "place": "Milnthorpe, England"
+    },
+    "died": {
+      "date": "1887-07-25",
+      "place": "Kaysville, Utah Territory"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Taylor_(Mormon)"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/john-taylor"
+      }
+    ]
+  },
+  {
+    "id": "william-smith",
+    "name": "William Smith",
+    "role": "Member of the original Quorum of the Twelve Apostles; later affiliated with the Strangite and RLDS churches",
+    "groups": [
+      "founding",
+      "strangite",
+      "rlds"
+    ],
+    "born": {
+      "date": "1811-03-13",
+      "place": "Royalton, Vermont"
+    },
+    "died": {
+      "date": "1893-11-13",
+      "place": "Osterdock, Iowa"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/William_Smith_(Latter_Day_Saints)"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/william-b-smith"
+      }
+    ]
+  },
+  {
+    "id": "orson-pratt",
+    "name": "Orson Pratt",
+    "role": "Original member of the Quorum of the Twelve Apostles and leading LDS theologian and mathematician",
+    "groups": [
+      "founding",
+      "lds"
+    ],
+    "born": {
+      "date": "1811-09-19",
+      "place": "Hartford, New York"
+    },
+    "died": {
+      "date": "1881-10-03",
+      "place": "Salt Lake City, Utah Territory"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Orson_Pratt"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/orson-pratt"
+      }
+    ]
+  },
+  {
+    "id": "james-j-strang",
+    "name": "James J. Strang",
+    "role": "Founder and prophet of the Church of Jesus Christ of Latter Day Saints (Strangite)",
+    "groups": [
+      "strangite"
+    ],
+    "born": {
+      "date": "1813-03-21",
+      "place": "Scipio, New York"
+    },
+    "died": {
+      "date": "1856-07-09",
+      "place": "Voree, Wisconsin",
+      "circa": true,
+      "note": "Wikipedia gives 9 July 1856; the Joseph Smith Papers biography gives ca. 26 June 1856 (shot at Beaver Island 16 June, died at Voree)."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/James_Strang"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/james-jesse-strang"
+      }
+    ]
+  },
+  {
+    "id": "lorenzo-snow",
+    "name": "Lorenzo Snow",
+    "role": "Fifth President of the Church of Jesus Christ of Latter-day Saints",
+    "groups": [
+      "lds"
+    ],
+    "born": {
+      "date": "1814-04-03",
+      "place": "Mantua, Ohio"
+    },
+    "died": {
+      "date": "1901-10-10",
+      "place": "Salt Lake City, Utah"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lorenzo_Snow"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/lorenzo-snow"
+      }
+    ]
+  },
+  {
+    "id": "william-clayton",
+    "name": "William Clayton",
+    "role": "Clerk and scribe to Joseph Smith and hymn writer (\"Come, Come, Ye Saints\")",
+    "groups": [
+      "founding",
+      "lds"
+    ],
+    "born": {
+      "date": "1814-07-17",
+      "place": "Penwortham, England"
+    },
+    "died": {
+      "date": "1879-12-04",
+      "place": "Salt Lake City, Utah Territory"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/William_Clayton_(Mormon)"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/william-clayton"
+      }
+    ]
+  },
+  {
+    "id": "granville-hedrick",
+    "name": "Granville Hedrick",
+    "role": "Founder and first leader of the Church of Christ (Temple Lot)",
+    "groups": [
+      "temple-lot"
+    ],
+    "born": {
+      "date": "1814-09-02",
+      "place": "Clark County, Indiana",
+      "note": "Wikipedia gives the date but no birthplace; Clark County (Clark City), Indiana per Addams & Baugh; date matches his grave marker."
+    },
+    "died": {
+      "date": "1881-08-22",
+      "place": "Independence, Missouri",
+      "note": "Wikipedia says he died at Independence, Missouri; Addams & Baugh state he resided in Johnson County, Kansas, until his death. Buried at Hedrick Cemetery, Independence."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Granville_Hedrick"
+      },
+      {
+        "label": "Addams & Baugh, Beginnings of the Church of Christ (Temple Lot)",
+        "url": "https://ensignpeakfoundation.org/wp-content/uploads/2013/03/The-Historical-and-Geographical-Beginnings-of-the-Church-of-Christ-Temple-Lot.pdf"
+      }
+    ]
+  },
+  {
+    "id": "william-bickerton",
+    "name": "William Bickerton",
+    "role": "Founder and first president of The Church of Jesus Christ (Bickertonite)",
+    "groups": [
+      "bickertonite"
+    ],
+    "born": {
+      "date": "1815-01-15",
+      "place": "Kyloe, England"
+    },
+    "died": {
+      "date": "1905-02-17",
+      "place": "St. John, Kansas"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/William_Bickerton"
+      }
+    ]
+  },
+  {
+    "id": "benjamin-f-johnson",
+    "name": "Benjamin F. Johnson",
+    "role": "19th-century Latter-day Saint, associate and private secretary of Joseph Smith; the LeBaron branch later claimed its priesthood descends from him",
+    "groups": [
+      "founding",
+      "lds"
+    ],
+    "born": {
+      "date": "1818-07-28",
+      "place": "Pomfret, New York"
+    },
+    "died": {
+      "date": "1905-11-18",
+      "place": "Mesa, Arizona"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Benjamin_F._Johnson"
+      }
+    ]
+  },
+  {
+    "id": "john-w-woolley",
+    "name": "John W. Woolley",
+    "role": "Early Mormon fundamentalist leader regarded by most fundamentalist groups as president of the priesthood",
+    "groups": [
+      "lds",
+      "fundamentalist"
+    ],
+    "born": {
+      "date": "1831-12-30",
+      "place": "Newlin Township, Pennsylvania"
+    },
+    "died": {
+      "date": "1928-12-13",
+      "place": "Centerville, Utah"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_W._Woolley"
+      }
+    ]
+  },
+  {
+    "id": "joseph-smith-iii",
+    "name": "Joseph Smith III",
+    "role": "First Prophet-President of the Reorganized Church of Jesus Christ of Latter Day Saints",
+    "groups": [
+      "rlds"
+    ],
+    "born": {
+      "date": "1832-11-06",
+      "place": "Kirtland, Ohio"
+    },
+    "died": {
+      "date": "1914-12-10",
+      "place": "Independence, Missouri"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Smith_III"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/joseph-smith-iii"
+      }
+    ]
+  },
+  {
+    "id": "joseph-f-smith",
+    "name": "Joseph F. Smith",
+    "role": "Sixth President of the Church of Jesus Christ of Latter-day Saints",
+    "groups": [
+      "lds"
+    ],
+    "born": {
+      "date": "1838-11-13",
+      "place": "Far West, Missouri"
+    },
+    "died": {
+      "date": "1918-11-19",
+      "place": "Salt Lake City, Utah"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joseph_F._Smith"
+      }
+    ]
+  },
+  {
+    "id": "lorin-c-woolley",
+    "name": "Lorin C. Woolley",
+    "role": "Mormon fundamentalist leader whose 1886 accounts underpin most fundamentalist priesthood claims; Senior Member of the Priesthood Council (1928-1934)",
+    "groups": [
+      "lds",
+      "fundamentalist"
+    ],
+    "born": {
+      "date": "1856-10-23",
+      "place": "Salt Lake City, Utah"
+    },
+    "died": {
+      "date": "1934-09-19",
+      "place": "Centerville, Utah"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lorin_C._Woolley"
+      }
+    ]
+  },
+  {
+    "id": "heber-j-grant",
+    "name": "Heber J. Grant",
+    "role": "Seventh President of the Church of Jesus Christ of Latter-day Saints",
+    "groups": [
+      "lds"
+    ],
+    "born": {
+      "date": "1856-11-22",
+      "place": "Salt Lake City, Utah Territory"
+    },
+    "died": {
+      "date": "1945-05-14",
+      "place": "Salt Lake City, Utah"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Heber_J._Grant"
+      },
+      {
+        "label": "Joseph Smith Papers",
+        "url": "https://www.josephsmithpapers.org/person/heber-j-grant"
+      }
+    ]
+  },
+  {
+    "id": "joseph-w-musser",
+    "name": "Joseph W. Musser",
+    "role": "Mormon fundamentalist leader and publisher of Truth magazine; Senior Member of the Priesthood Council (1949-1954)",
+    "groups": [
+      "lds",
+      "fundamentalist"
+    ],
+    "born": {
+      "date": "1872-03-08",
+      "place": "Salt Lake City, Utah"
+    },
+    "died": {
+      "date": "1954-03-29",
+      "place": "Salt Lake City, Utah"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joseph_White_Musser"
+      }
+    ]
+  },
+  {
+    "id": "frederick-madison-smith",
+    "name": "Frederick Madison Smith",
+    "role": "Prophet-President of the Reorganized Church of Jesus Christ of Latter Day Saints (1915-1946)",
+    "groups": [
+      "rlds"
+    ],
+    "born": {
+      "date": "1874-01-21",
+      "place": "Plano, Illinois"
+    },
+    "died": {
+      "date": "1946-03-20",
+      "place": "Independence, Missouri"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Frederick_M._Smith"
+      }
+    ]
+  },
+  {
+    "id": "john-y-barlow",
+    "name": "John Y. Barlow",
+    "role": "Mormon fundamentalist leader of the Short Creek community; Senior Member of the Priesthood Council (1935-1949)",
+    "groups": [
+      "fundamentalist"
+    ],
+    "born": {
+      "date": "1874-03-04",
+      "place": "Panaca, Nevada"
+    },
+    "died": {
+      "date": "1949-12-29",
+      "place": "Salt Lake City, Utah"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Y._Barlow"
+      }
+    ]
+  },
+  {
+    "id": "alma-dayer-lebaron-sr",
+    "name": "Alma Dayer LeBaron Sr.",
+    "role": "Grandson of Benjamin F. Johnson; Mormon fundamentalist excommunicated for plural marriage who claimed the priesthood succession his sons' churches invoke",
+    "groups": [
+      "fundamentalist"
+    ],
+    "born": {
+      "date": "1886-03-15",
+      "place": "United States",
+      "note": "Exact birthplace not confirmed in consulted sources; raised partly in Colonia Juárez, Chihuahua, Mexico"
+    },
+    "died": {
+      "date": "1951-02-19",
+      "place": "Galeana, Chihuahua, Mexico"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alma_Dayer_LeBaron_Sr."
+      },
+      {
+        "label": "Find a Grave",
+        "url": "https://www.findagrave.com/memorial/262916315/alma-dayer-lebaron"
+      }
+    ]
+  },
+  {
+    "id": "leroy-s-johnson",
+    "name": "Leroy S. Johnson",
+    "role": "Senior Member of the Priesthood Council and prophet of the Fundamentalist Church of Jesus Christ of Latter-Day Saints (1954-1986)",
+    "groups": [
+      "fundamentalist"
+    ],
+    "born": {
+      "date": "1888-06-12",
+      "place": "Lee's Ferry, Arizona"
+    },
+    "died": {
+      "date": "1986-11-25",
+      "place": "Hildale, Utah"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Leroy_S._Johnson"
+      }
+    ]
+  },
+  {
+    "id": "rulon-c-allred",
+    "name": "Rulon C. Allred",
+    "role": "Founder and president of the Apostolic United Brethren, a Mormon fundamentalist group (1954-1977)",
+    "groups": [
+      "fundamentalist"
+    ],
+    "born": {
+      "date": "1906-03-29",
+      "place": "Colonia Dublán, Mexico"
+    },
+    "died": {
+      "date": "1977-05-10",
+      "place": "Murray, Utah"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rulon_C._Allred"
+      }
+    ]
+  },
+  {
+    "id": "ross-wesley-lebaron",
+    "name": "Ross Wesley LeBaron",
+    "role": "Son of Alma Dayer LeBaron Sr.; co-founder of the Church of the Firstborn of the Fulness of Times who broke away to lead his own Church of the Firstborn",
+    "groups": [
+      "fundamentalist"
+    ],
+    "born": {
+      "date": "1914-11-16",
+      "place": "Overton, Nevada"
+    },
+    "died": {
+      "date": "1996-12-31",
+      "place": "Malad, Idaho"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_Firstborn_(LeBaron_family)"
+      },
+      {
+        "label": "Find a Grave",
+        "url": "https://www.findagrave.com/memorial/160383275/ross-wesley-lebaron"
+      }
+    ]
+  },
+  {
+    "id": "joel-lebaron",
+    "name": "Joel LeBaron",
+    "role": "Son of Alma Dayer LeBaron Sr.; founder and first president of the Church of the Firstborn of the Fulness of Times; murdered on his brother Ervil's orders",
+    "groups": [
+      "fundamentalist"
+    ],
+    "born": {
+      "date": "1923-06-09",
+      "place": "La Verkin, Utah"
+    },
+    "died": {
+      "date": "1972-08-20",
+      "place": "Ensenada, Baja California, Mexico"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joel_LeBaron"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_Firstborn_(LeBaron_family)"
+      }
+    ]
+  },
+  {
+    "id": "ervil-lebaron",
+    "name": "Ervil LeBaron",
+    "role": "Son of Alma Dayer LeBaron Sr.; broke from Joel to found the Church of the First Born of the Lamb of God and ordered numerous killings under a blood-atonement doctrine",
+    "groups": [
+      "fundamentalist"
+    ],
+    "born": {
+      "date": "1925-02-22",
+      "place": "Galeana, Chihuahua, Mexico"
+    },
+    "died": {
+      "date": "1981-08-15",
+      "place": "Draper, Utah"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ervil_LeBaron"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Church_of_the_First_Born_of_the_Lamb_of_God"
+      }
+    ]
+  },
+  {
+    "id": "verlan-lebaron",
+    "name": "Verlan LeBaron",
+    "role": "Son of Alma Dayer LeBaron Sr.; succeeded Joel as president of the Church of the Firstborn of the Fulness of Times and was a target of Ervil's faction",
+    "groups": [
+      "fundamentalist"
+    ],
+    "born": {
+      "date": "1930-04-28",
+      "place": "Colonia Juárez, Chihuahua, Mexico"
+    },
+    "died": {
+      "date": "1981-08-16",
+      "place": "Mexico City, Mexico",
+      "circa": true,
+      "note": "Died in an automobile accident about a day after Ervil; sources give the date as August 16 or August 18, 1981"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ervil_LeBaron"
+      },
+      {
+        "label": "Find a Grave",
+        "url": "https://www.findagrave.com/memorial/262915846/verlan_mcdonald-lebaron"
+      }
+    ]
+  },
+  {
+    "id": "adam",
+    "name": "Adam",
+    "role": "First man in the biblical creation account and progenitor of humankind.",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 4004,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Garden of Eden",
+      "note": "Traditional Ussher chronology dates Adam's creation to 4004 BC; critical scholarship reads Genesis 1–11 as etiological myth rather than history."
+    },
+    "died": {
+      "date": {
+        "year": 3074,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Genesis 5:5 gives Adam 930 years (Ussher: d. 3074 BC); scholars treat the figure as non-historical."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Adam and Eve",
+        "url": "https://en.wikipedia.org/wiki/Adam_and_Eve"
+      },
+      {
+        "label": "Genesis 5 (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/5?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "eve",
+    "name": "Eve",
+    "role": "First woman in the biblical creation account, called 'the mother of all living.'",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 4004,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Garden of Eden",
+      "note": "Traditionally created in the same era as Adam (~4004 BC); critical scholarship reads her as an etiological figure, not historical."
+    },
+    "died": {
+      "date": {
+        "year": 3070,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Scripture records no death date for Eve; this is a traditional estimate near Adam's era, and scholars treat the account as non-historical."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Adam and Eve",
+        "url": "https://en.wikipedia.org/wiki/Adam_and_Eve"
+      },
+      {
+        "label": "Genesis 3 (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/3?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "enoch",
+    "name": "Enoch",
+    "role": "Antediluvian patriarch, son of Jared, who 'walked with God and was taken.'",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 3382,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Traditional Ussher-based chronology places Enoch's birth ~3382 BC; critical scholarship reads the antediluvian patriarchs as non-historical."
+    },
+    "died": {
+      "date": {
+        "year": 3017,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Enoch was translated, not recorded as dying: Genesis 5:23 gives him 365 years (Heb. 11:5, 'translated that he should not see death'), and LDS scripture (Moses 7) describes Zion taken up to God; traditional translation year ~3017 BC."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Enoch (ancestor of Noah)",
+        "url": "https://en.wikipedia.org/wiki/Enoch_(ancestor_of_Noah)"
+      },
+      {
+        "label": "Moses 7 (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "noah",
+    "name": "Noah",
+    "role": "Patriarch who built the ark and survived the Flood (traditionally 2348 BC).",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 2948,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Traditional Ussher chronology dates Noah 2948–1998 BC, with the Flood at 2348 BC; scholars view the account as derived from earlier Mesopotamian flood myth."
+    },
+    "died": {
+      "date": {
+        "year": 1998,
+        "era": "bce",
+        "circa": true
+      },
+      "note": "Genesis 9:29 gives Noah 950 years (Ussher: d. 1998 BC); critical scholarship treats the figure as non-historical."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Noah",
+        "url": "https://en.wikipedia.org/wiki/Noah"
+      },
+      {
+        "label": "Genesis 9 (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/ot/gen/9?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "abraham",
+    "name": "Abraham",
+    "role": "Biblical patriarch, called from Ur to Canaan and regarded as the founding father of the covenant lineage.",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 1996,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Ur of the Chaldees, Mesopotamia",
+      "note": "Traditional birthplace per Genesis; Ussher-style chronology places his departure from Haran for Canaan c. 1922 BC."
+    },
+    "died": {
+      "date": {
+        "year": 1821,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Cave of Machpelah, near Hebron, Canaan",
+      "note": "Died at 175 and buried at Machpelah per Genesis; critical scholarship views the patriarchal narratives as later literary constructs."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Abraham",
+        "url": "https://en.wikipedia.org/wiki/Abraham"
+      },
+      {
+        "label": "LDS Bible Dictionary — Abraham",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/abraham"
+      }
+    ]
+  },
+  {
+    "id": "sarah",
+    "name": "Sarah",
+    "role": "Wife of Abraham and mother of Isaac, regarded as a matriarch of the covenant lineage.",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 2156,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Ur of the Chaldees, Mesopotamia",
+      "note": "Originally named Sarai; birthplace follows the traditional Genesis account."
+    },
+    "died": {
+      "date": {
+        "year": 2029,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Hebron (Kiriath-arba), Canaan",
+      "note": "Died at 127 (Gen 23:1) and buried at Machpelah; critical scholarship views the patriarchal narratives as later literary constructs."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Sarah",
+        "url": "https://en.wikipedia.org/wiki/Sarah"
+      },
+      {
+        "label": "LDS Bible Dictionary — Sarah",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/sarah"
+      }
+    ]
+  },
+  {
+    "id": "isaac",
+    "name": "Isaac",
+    "role": "Son of Abraham and Sarah and father of Jacob, second of the biblical patriarchs.",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 1896,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Canaan",
+      "note": "Born to Abraham and Sarah in the land of Canaan per the traditional Genesis account."
+    },
+    "died": {
+      "date": {
+        "year": 1716,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Hebron, Canaan",
+      "note": "Died at 180 and buried by his sons at Hebron per Genesis; critical scholarship views the patriarchal narratives as later literary constructs."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Isaac",
+        "url": "https://en.wikipedia.org/wiki/Isaac"
+      },
+      {
+        "label": "LDS Bible Dictionary — Isaac",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/isaac"
+      }
+    ]
+  },
+  {
+    "id": "jacob",
+    "name": "Jacob",
+    "role": "Son of Isaac, renamed Israel, whose twelve sons are traditionally the ancestors of the tribes of Israel.",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 1836,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Canaan",
+      "note": "Born in Canaan to Isaac and Rebecca as the second of twins per the traditional Genesis account."
+    },
+    "died": {
+      "date": {
+        "year": 1689,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Egypt",
+      "note": "Died in Egypt at 147 and buried in the Cave of Machpelah at Hebron per Genesis; critical scholarship views the patriarchal narratives as later literary constructs."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Jacob",
+        "url": "https://en.wikipedia.org/wiki/Jacob"
+      },
+      {
+        "label": "LDS Bible Dictionary — Jacob",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/jacob"
+      }
+    ]
+  },
+  {
+    "id": "joseph-son-of-jacob",
+    "name": "Joseph (son of Jacob)",
+    "role": "Son of Jacob who was sold into Egypt and rose to authority under Pharaoh, according to the Genesis account.",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 1745,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Paddan Aram, Aram-Naharaim (Harran)",
+      "note": "Born to Jacob and Rachel in Paddan Aram per the traditional Genesis account; sold into Egypt c. 1700 BC."
+    },
+    "died": {
+      "date": {
+        "year": 1635,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Egypt",
+      "note": "Died in Egypt at 110, asking that his bones be carried out of Egypt per Genesis; critical scholarship treats the narrative as a later literary composition."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Joseph (Genesis)",
+        "url": "https://en.wikipedia.org/wiki/Joseph_(Genesis)"
+      },
+      {
+        "label": "LDS Bible Dictionary — Joseph",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/joseph"
+      }
+    ]
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "role": "Prophet who led Israel out of Egypt and received the law at Sinai",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 1526,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Goshen, Egypt",
+      "note": "Traditional biblical chronology places his birth ~1526 BC, 80 years before the Exodus (early/biblical date 1446 BC); most scholars regard Moses as a legendary figure and dispute the Exodus's date and historicity."
+    },
+    "died": {
+      "date": {
+        "year": 1406,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Mount Nebo, Moab",
+      "note": "Deuteronomy 34:5-6 records his death on Mount Nebo at age 120, but LDS scripture (Alma 45:19) and the Bible Dictionary hold he was translated rather than dying."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Moses",
+        "url": "https://en.wikipedia.org/wiki/Moses"
+      },
+      {
+        "label": "Bible Dictionary — Moses (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/moses"
+      }
+    ]
+  },
+  {
+    "id": "aaron",
+    "name": "Aaron",
+    "role": "Elder brother of Moses and first high priest of Israel",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 1529,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Egypt",
+      "note": "Traditional chronology places his birth ~1529 BC, three years before Moses; information about Aaron comes only from religious texts."
+    },
+    "died": {
+      "date": {
+        "year": 1407,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Mount Hor",
+      "note": "Numbers 33:38-39 records his death on Mount Hor at age 123 in the fortieth year after the Exodus; Deuteronomy 10:6 instead names Moserah."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Aaron",
+        "url": "https://en.wikipedia.org/wiki/Aaron"
+      },
+      {
+        "label": "Bible Dictionary — Aaron (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/aaron-brother-of-moses"
+      }
+    ]
+  },
+  {
+    "id": "joshua",
+    "name": "Joshua",
+    "role": "Successor of Moses who led Israel in the conquest of Canaan",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 1500,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Goshen, Egypt",
+      "note": "Traditional chronology places his birth ~1500 BC; biblical chronology sets his life in the Bronze Age, with no precise date established by mainstream scholarship."
+    },
+    "died": {
+      "date": {
+        "year": 1390,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Timnath-serah, hill country of Ephraim",
+      "note": "Joshua 24:29-30 records his death at age 110 and burial at Timnath-serah (Timnath-heres) in the hill country of Ephraim."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Joshua",
+        "url": "https://en.wikipedia.org/wiki/Joshua"
+      },
+      {
+        "label": "Bible Dictionary — Joshua (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/joshua"
+      }
+    ]
+  },
+  {
+    "id": "david",
+    "name": "David",
+    "role": "Second king of Israel who established his capital at Jerusalem",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 1040,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Bethlehem",
+      "note": "Son of Jesse the Bethlehemite; traditional chronology places his birth ~1040 BC, though the timeframe of his reign is disputed among scholars."
+    },
+    "died": {
+      "date": {
+        "year": 970,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Jerusalem",
+      "note": "Traditional chronology has him die ~970 BC at about age 70 after a 40-year reign (~1010-970 BC), ruling from Jerusalem."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — David",
+        "url": "https://en.wikipedia.org/wiki/David"
+      },
+      {
+        "label": "Bible Dictionary — David (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/david"
+      }
+    ]
+  },
+  {
+    "id": "solomon",
+    "name": "Solomon",
+    "role": "Third king of Israel who built the first temple in Jerusalem",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 990,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Jerusalem",
+      "note": "Son of David and Bathsheba; traditional chronology places his birth ~990 BC, with dates described by scholars as hypothesised from biblical chronology."
+    },
+    "died": {
+      "date": {
+        "year": 931,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Jerusalem",
+      "note": "Traditional chronology has him die ~931 BC after a 40-year reign (~970-931 BC); his death and the division of the kingdom are dated to 931 BC."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Solomon",
+        "url": "https://en.wikipedia.org/wiki/Solomon"
+      },
+      {
+        "label": "Bible Dictionary — Solomon (churchofjesuschrist.org)",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/solomon"
+      }
+    ]
+  },
+  {
+    "id": "elijah",
+    "name": "Elijah",
+    "role": "Prophet in the northern kingdom of Israel during the reign of King Ahab (9th century BC).",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 900,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Tishbe, in Gilead (uncertain)",
+      "note": "Birth year not recorded; estimated from period of activity. Scripture introduces him only as 'the Tishbite.'"
+    },
+    "died": {
+      "date": {
+        "year": 850,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "near the Jordan River, by Jericho",
+      "note": "2 Kings 2 records he was taken up alive in a whirlwind (translated, not recorded as dying); year estimated from his mid-9th-century activity."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Elijah",
+        "url": "https://en.wikipedia.org/wiki/Elijah"
+      },
+      {
+        "label": "Bible Dictionary — Elijah",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/elijah?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "isaiah",
+    "name": "Isaiah",
+    "role": "Prophet in the kingdom of Judah whose oracles form the Book of Isaiah.",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 765,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Kingdom of Judah",
+      "note": "Birth year not recorded; estimated from period of activity (prophesied c. 740–686 BC under Uzziah, Jotham, Ahaz, and Hezekiah)."
+    },
+    "died": {
+      "date": {
+        "year": 695,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Jerusalem (traditional)",
+      "note": "Death year not recorded; estimated from period of activity. Talmudic tradition holds he was martyred (sawn in two) under Manasseh; time and manner of death are not stated in the Hebrew Bible."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Isaiah",
+        "url": "https://en.wikipedia.org/wiki/Isaiah"
+      },
+      {
+        "label": "Bible Dictionary — Isaiah",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/isaiah?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "jeremiah",
+    "name": "Jeremiah",
+    "role": "Prophet of Judah active from the reign of Josiah through the Babylonian destruction of Jerusalem.",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 650,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Anathoth, in the territory of Benjamin",
+      "note": "Birth year not recorded; estimated from period of activity (called as a prophet in 626 BC, the 13th year of Josiah)."
+    },
+    "died": {
+      "date": {
+        "year": 570,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Egypt",
+      "note": "Death year not recorded; estimated from period of activity. Taken to Egypt after Jerusalem's fall (587 BC); no authentic record of his death survives."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Jeremiah",
+        "url": "https://en.wikipedia.org/wiki/Jeremiah"
+      },
+      {
+        "label": "Bible Dictionary — Jeremiah",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/jeremiah?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "daniel",
+    "name": "Daniel",
+    "role": "Jewish exile in Babylon and namesake of the Book of Daniel.",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 620,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Jerusalem, Kingdom of Judah",
+      "note": "Birth year not recorded; estimated from period of activity. A noble Judahite youth carried to Babylon by Nebuchadnezzar (traditionally 605 BC)."
+    },
+    "died": {
+      "date": {
+        "year": 538,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Babylon / Persia (traditional tomb at Susa)",
+      "note": "Death year not recorded; estimated from period of activity — last dated reference is the third year of Cyrus; burial site is disputed by tradition."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Daniel",
+        "url": "https://en.wikipedia.org/wiki/Daniel_(biblical_figure)"
+      },
+      {
+        "label": "Bible Dictionary — Daniel",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/daniel?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "josiah",
+    "name": "Josiah",
+    "role": "King of Judah (reigned 640–609 BC), known for his religious reforms.",
+    "groups": [
+      "biblical",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 648,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Jerusalem (probable)",
+      "note": "Born c. 648 BC; became king at age eight in 640 BC (2 Kings 22)."
+    },
+    "died": {
+      "date": {
+        "year": 609,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Megiddo",
+      "note": "Fatally wounded fighting Pharaoh Necho II at Megiddo in 609 BC; accounts differ on whether he died there (2 Kings) or after being carried to Jerusalem (2 Chronicles)."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Josiah",
+        "url": "https://en.wikipedia.org/wiki/Josiah"
+      },
+      {
+        "label": "Bible Dictionary — Josiah",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/josiah?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "jesus-christ",
+    "name": "Jesus Christ",
+    "role": "Central figure of Christianity, believed by Christians to be the Son of God and the Messiah",
+    "groups": [
+      "biblical",
+      "new-testament"
+    ],
+    "born": {
+      "date": {
+        "year": 6,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Bethlehem, Judea",
+      "note": "Scholars place his birth roughly 6–4 BC; the traditional December 25 date is not historically certain."
+    },
+    "died": {
+      "date": {
+        "year": 30,
+        "circa": true
+      },
+      "place": "Golgotha, Jerusalem, Roman Judaea",
+      "note": "Crucified under Pontius Pilate; Christian and LDS belief holds that he rose from the dead (the Resurrection)."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Jesus",
+        "url": "https://en.wikipedia.org/wiki/Jesus"
+      },
+      {
+        "label": "Bible Dictionary — Jesus Christ",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/jesus-christ"
+      }
+    ]
+  },
+  {
+    "id": "john-the-baptist",
+    "name": "John the Baptist",
+    "role": "Jewish prophet who baptized Jesus and preached repentance in the region of the Jordan",
+    "groups": [
+      "biblical",
+      "new-testament"
+    ],
+    "born": {
+      "date": {
+        "year": 6,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Judea, Roman Empire",
+      "note": "Traditionally a kinsman of Jesus, born shortly before him."
+    },
+    "died": {
+      "date": {
+        "year": 29,
+        "circa": true
+      },
+      "place": "Machaerus, Roman Judaea",
+      "note": "Beheaded on the order of Herod Antipas after rebuking his marriage to Herodias."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — John the Baptist",
+        "url": "https://en.wikipedia.org/wiki/John_the_Baptist"
+      },
+      {
+        "label": "Bible Dictionary — John the Baptist",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/john-the-baptist"
+      }
+    ]
+  },
+  {
+    "id": "peter-the-apostle",
+    "name": "Peter the Apostle",
+    "role": "Chief of the Twelve Apostles and a leading figure of the early Christian church",
+    "groups": [
+      "biblical",
+      "new-testament"
+    ],
+    "born": {
+      "date": {
+        "year": 1,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Bethsaida, Galilee, Roman Empire",
+      "note": "A Galilean fisherman, originally named Simon, called by Jesus to be an apostle."
+    },
+    "died": {
+      "date": {
+        "year": 64,
+        "circa": true
+      },
+      "place": "Rome, Roman Empire",
+      "note": "Church tradition holds he was martyred by crucifixion in Rome under Nero, sometime between about AD 64 and 68."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Saint Peter",
+        "url": "https://en.wikipedia.org/wiki/Saint_Peter"
+      },
+      {
+        "label": "Bible Dictionary — Peter",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/peter"
+      }
+    ]
+  },
+  {
+    "id": "paul-the-apostle",
+    "name": "Paul the Apostle",
+    "role": "Apostle to the Gentiles and author of numerous epistles in the New Testament",
+    "groups": [
+      "biblical",
+      "new-testament"
+    ],
+    "born": {
+      "date": {
+        "year": 5,
+        "circa": true
+      },
+      "place": "Tarsus, Cilicia, Roman Empire",
+      "note": "Born a Jew and Roman citizen; originally named Saul before his conversion."
+    },
+    "died": {
+      "date": {
+        "year": 65,
+        "circa": true
+      },
+      "place": "Rome, Roman Empire",
+      "note": "Church tradition holds he was martyred in Rome under Nero, sometime around AD 64–67."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Paul the Apostle",
+        "url": "https://en.wikipedia.org/wiki/Paul_the_Apostle"
+      },
+      {
+        "label": "Bible Dictionary — Paul",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bd/paul"
+      }
+    ]
+  },
+  {
+    "id": "jared",
+    "name": "Jared",
+    "role": "Jaredite patriarch who led his family from the Tower of Babel to a promised land in the Americas.",
+    "groups": [
+      "book-of-mormon",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 2250,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Mesopotamia, near the great tower (Tower of Babel)",
+      "note": "The Book of Mormon gives no birth year; this is an approximation from the Jaredite departure tied to the Tower of Babel (~2200 BC)."
+    },
+    "died": {
+      "date": {
+        "year": 2170,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "the promised land (the Americas)",
+      "note": "The Book of Mormon gives no death year; this is an approximation from the Jaredite era after the ocean crossing to the promised land."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Jared (Book of Mormon)",
+        "url": "https://en.wikipedia.org/wiki/Jared_(Book_of_Mormon)"
+      },
+      {
+        "label": "Book of Mormon — Ether 1",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/1?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "brother-of-jared",
+    "name": "Brother of Jared (Mahonri Moriancumer)",
+    "role": "Unnamed Jaredite prophet whose faith preserved his people's language at the Tower of Babel; Joseph Smith is traditionally reported to have given his name as Mahonri Moriancumer.",
+    "groups": [
+      "book-of-mormon",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 2250,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Mesopotamia, near the great tower (Tower of Babel)",
+      "note": "The Book of Mormon gives no birth year; this is an approximation from the Jaredite departure tied to the Tower of Babel (~2200 BC). He is unnamed in the text."
+    },
+    "died": {
+      "date": {
+        "year": 2170,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "the promised land (the Americas)",
+      "note": "The Book of Mormon gives no death year; this is an approximation from the Jaredite era after the ocean crossing to the promised land."
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Brother of Jared",
+        "url": "https://en.wikipedia.org/wiki/Brother_of_Jared"
+      },
+      {
+        "label": "Book of Mormon — Ether 1",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/ether/1?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "lehi",
+    "name": "Lehi",
+    "role": "Prophet who led his family out of Jerusalem about 600 BC and across the ocean to a promised land.",
+    "groups": [
+      "book-of-mormon",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 650,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Jerusalem or its vicinity, Kingdom of Judah",
+      "note": "The Book of Mormon gives no birth year; this is an approximation from his being an established prophet who left Jerusalem about 600 BC."
+    },
+    "died": {
+      "date": {
+        "year": 582,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "the promised land (the Americas)",
+      "note": "The Book of Mormon gives no death year; this is an approximation within the 2 Nephi 4 span (about 588–570 BC), where the record states Lehi 'waxed old' and 'died, and was buried.'"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Lehi (Book of Mormon)",
+        "url": "https://en.wikipedia.org/wiki/Lehi_(Book_of_Mormon)"
+      },
+      {
+        "label": "Book of Mormon — 2 Nephi 4",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/4?lang=eng"
+      }
+    ]
+  },
+  {
+    "id": "nephi-son-of-lehi",
+    "name": "Nephi (son of Lehi)",
+    "role": "Son of Lehi, prophet and record-keeper who led his people after their arrival in the promised land.",
+    "groups": [
+      "book-of-mormon",
+      "ancient"
+    ],
+    "born": {
+      "date": {
+        "year": 615,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "Jerusalem, Kingdom of Judah",
+      "note": "The Book of Mormon gives no birth year; this is an approximation from his being a young man when the family left Jerusalem about 600 BC."
+    },
+    "died": {
+      "date": {
+        "year": 544,
+        "era": "bce",
+        "circa": true
+      },
+      "place": "the land of Nephi (the Americas)",
+      "note": "The Book of Mormon gives no death year; this is an approximation from the Jacob 1 span (about 544–421 BC), which opens with the record 'Nephi died.'"
+    },
+    "sources": [
+      {
+        "label": "Wikipedia — Nephi, son of Lehi",
+        "url": "https://en.wikipedia.org/wiki/Nephi,_son_of_Lehi"
+      },
+      {
+        "label": "Book of Mormon — Jacob 1",
+        "url": "https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/1?lang=eng"
+      }
+    ]
+  }
+]

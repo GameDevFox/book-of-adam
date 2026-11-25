@@ -1,0 +1,229 @@
+{
+  "page": "Poems 401–425",
+  "postId": 316,
+  "url": "https://erslexicon.wordpress.com/poems-401-425/",
+  "published": "2014-11-18T22:55:13+00:00",
+  "modified": "2014-12-16T05:06:51+00:00",
+  "fetchedAt": "2026-09-26T03:43:28.535Z",
+  "count": 25,
+  "poems": [
+    {
+      "id": "401",
+      "number": 401,
+      "title": "To Mr. and Mrs.",
+      "subtitle": "(They Know Who) Written on the Completion of Their Twenty-First Year of Membership in the Church",
+      "composed": "27 April 1868",
+      "published": "Deseret News, 6 May 1868",
+      "stanzaCount": 6,
+      "lineCount": 32
+    },
+    {
+      "id": "402",
+      "number": 402,
+      "title": "Hymn",
+      "subtitle": "for the 24th of June, 1868",
+      "composed": "ca. 24 June 1868",
+      "published": "Deseret News, 1 July 1868",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "403",
+      "number": 403,
+      "title": "The Good Boy",
+      "published": "Juvenile Instructor, 15 July 1868",
+      "stanzaCount": 4,
+      "lineCount": 16
+    },
+    {
+      "id": "404",
+      "number": 404,
+      "title": "To a Star",
+      "published": "Juvenile Instructor, 1 August 1868",
+      "stanzaCount": 4,
+      "lineCount": 16
+    },
+    {
+      "id": "405",
+      "number": 405,
+      "title": "The Full Moon",
+      "published": "Juvenile Instructor, 1 October 1868",
+      "stanzaCount": 4,
+      "lineCount": 16
+    },
+    {
+      "id": "406",
+      "number": 406,
+      "title": "“O God of life and glory”",
+      "published": "Deseret News, 14 October 1868",
+      "stanzaCount": 4,
+      "lineCount": 32
+    },
+    {
+      "id": "407",
+      "number": 407,
+      "title": "Santa Claus",
+      "published": "Juvenile Instructor, 15 December 1868",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "408",
+      "number": 408,
+      "title": "Tribute to the Memory",
+      "subtitle": "of Miss St. Clair",
+      "composed": "24 January 1869",
+      "published": "Deseret News, 3 February 1869",
+      "stanzaCount": 10,
+      "lineCount": 40
+    },
+    {
+      "id": "409",
+      "number": 409,
+      "title": "The Gentile’s Queries",
+      "subtitle": "The Saint’s Reply",
+      "date": "n.d.",
+      "stanzaCount": 7,
+      "lineCount": 25
+    },
+    {
+      "id": "410",
+      "number": 410,
+      "title": "Elegy",
+      "subtitle": "Written for Little Miss Charlotte Talula",
+      "composed": "February 1869",
+      "published": "Deseret News, 3 March 1869",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "411",
+      "number": 411,
+      "title": "Angel Whisperings",
+      "subtitle": "to the Dying Child",
+      "published": "Juvenile Instructor, 13 March 1869",
+      "stanzaCount": 9,
+      "lineCount": 36
+    },
+    {
+      "id": "412",
+      "number": 412,
+      "title": "Beauty Everywhere",
+      "published": "Juvenile Instructor, 3 July 1869",
+      "stanzaCount": 9,
+      "lineCount": 36
+    },
+    {
+      "id": "413",
+      "number": 413,
+      "title": "Dedication Hymn",
+      "composed": "5 August 1869",
+      "stanzaCount": 10,
+      "lineCount": 40
+    },
+    {
+      "id": "414",
+      "number": 414,
+      "title": "The Future",
+      "published": "Juvenile Instructor, 6 November 1869",
+      "stanzaCount": 10,
+      "lineCount": 40
+    },
+    {
+      "id": "415",
+      "number": 415,
+      "title": "Annie’s Sympathy",
+      "published": "Juvenile Instructor, 20 November 1869",
+      "stanzaCount": 10,
+      "lineCount": 40
+    },
+    {
+      "id": "416",
+      "number": 416,
+      "title": "Good Night to 1869",
+      "composed": "ca. 31 December 1869",
+      "published": "Deseret News, 12 January 1870",
+      "stanzaCount": 9,
+      "lineCount": 103
+    },
+    {
+      "id": "417",
+      "number": 417,
+      "title": "To the Sunbeam",
+      "subtitle": "[“O, beautiful sunbeam!”]",
+      "published": "Juvenile Instructor, 22 January 1870",
+      "stanzaCount": 10,
+      "lineCount": 40
+    },
+    {
+      "id": "418",
+      "number": 418,
+      "title": "To the Sunbeam",
+      "subtitle": "[“For your present example”]",
+      "published": "Juvenile Instructor, 5 February 1870",
+      "stanzaCount": 10,
+      "lineCount": 40
+    },
+    {
+      "id": "419",
+      "number": 419,
+      "title": "Little Lucy",
+      "published": "Juvenile Instructor, 19 February 1870",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "420",
+      "number": 420,
+      "title": "The Venerable Patriarch",
+      "subtitle": "John Young",
+      "published": "Deseret News, 4 May 1870",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "421",
+      "number": 421,
+      "title": "What Is, and What Is Not",
+      "subtitle": "for Woman",
+      "published": "Poems 2, 1877",
+      "stanzaCount": 5,
+      "lineCount": 40
+    },
+    {
+      "id": "422",
+      "number": 422,
+      "title": "A Gem",
+      "published": "Juvenile Instructor, 9 July 1870",
+      "stanzaCount": 5,
+      "lineCount": 20
+    },
+    {
+      "id": "423",
+      "number": 423,
+      "title": "Song of a Missionary’s Children",
+      "composed": "2 September 1870",
+      "published": "Juvenile Instructor, 3 September 1870",
+      "stanzaCount": 11,
+      "lineCount": 44
+    },
+    {
+      "id": "424",
+      "number": 424,
+      "title": "My Country—a Lamentation",
+      "composed": "September 1870",
+      "published": "Poems 2, 1877",
+      "stanzaCount": 19,
+      "lineCount": 38
+    },
+    {
+      "id": "425",
+      "number": 425,
+      "title": "How ’70 Leaves Us and How ’71 Finds Us",
+      "composed": "1870",
+      "published": "Deseret News, 11 January 1871",
+      "stanzaCount": 8,
+      "lineCount": 101
+    }
+  ]
+}

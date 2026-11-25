@@ -1,0 +1,222 @@
+{
+  "page": "Poems 26–50",
+  "postId": 372,
+  "url": "https://erslexicon.wordpress.com/poems-26-50/",
+  "published": "2014-11-20T22:38:43+00:00",
+  "modified": "2014-12-16T02:37:03+00:00",
+  "fetchedAt": "2026-09-26T03:43:28.506Z",
+  "count": 25,
+  "poems": [
+    {
+      "id": "26",
+      "number": 26,
+      "title": "The Year Gone By",
+      "published": "Ohio Star, 24 March 1831",
+      "stanzaCount": 5,
+      "lineCount": 24
+    },
+    {
+      "id": "27",
+      "number": 27,
+      "title": "The Widowed Mother",
+      "subtitle": "Inscribed to Miss __________",
+      "published": "Ohio Star, 31 March 1831",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "28",
+      "number": 28,
+      "title": "The Thoughts of Home",
+      "published": "Ohio Star, 28 July 1831",
+      "stanzaCount": 6,
+      "lineCount": 30
+    },
+    {
+      "id": "29",
+      "number": 29,
+      "title": "Home, Charming Sound",
+      "date": "n.d.",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "30",
+      "number": 30,
+      "title": "Lines Addressed to a Young Female Friend",
+      "published": "Ohio Star, 11 August 1831",
+      "stanzaCount": 3,
+      "lineCount": 24
+    },
+    {
+      "id": "31",
+      "number": 31,
+      "title": "Arrival of the First Colony",
+      "subtitle": "in Charlestown, Massachusetts",
+      "published": "Ohio Star, 13 October 1831",
+      "stanzaCount": 11,
+      "lineCount": 43
+    },
+    {
+      "id": "32",
+      "number": 32,
+      "title": "A Fragment",
+      "subtitle": "[The Hopes of Heaven]",
+      "published": "Ohio Star, 20 October 1831",
+      "stanzaCount": 4,
+      "lineCount": 53
+    },
+    {
+      "id": "33",
+      "number": 33,
+      "title": "The Prospects of Childhood",
+      "published": "Ohio Star, 27 October 1831",
+      "stanzaCount": 4,
+      "lineCount": 32
+    },
+    {
+      "id": "34",
+      "number": 34,
+      "title": "To a Politician",
+      "published": "Ohio Star, 17 November 1831",
+      "stanzaCount": 3,
+      "lineCount": 12
+    },
+    {
+      "id": "35",
+      "number": 35,
+      "title": "Forget Me Not",
+      "subtitle": "[My Epitaph] To A———",
+      "published": "Ohio Star, 9 February 1832",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "36",
+      "number": 36,
+      "title": "The Grave",
+      "published": "Ohio Star, 10 May 1832",
+      "editorial": "Stanza breaks reconstructed from rhyme and metre.",
+      "stanzaCount": 3,
+      "lineCount": 26
+    },
+    {
+      "id": "37",
+      "number": 37,
+      "title": "The Western Frontier",
+      "published": "Ohio Star, 26 July 1832",
+      "stanzaCount": 6,
+      "lineCount": 24
+    },
+    {
+      "id": "38",
+      "number": 38,
+      "title": "National Change",
+      "composed": "in 1834",
+      "stanzaCount": 3,
+      "lineCount": 12
+    },
+    {
+      "id": "39",
+      "number": 39,
+      "title": "Paraphrase",
+      "subtitle": "[“See! yon atmosphere is parting”]",
+      "published": "Recitations for the Primary Associations, 1882",
+      "stanzaCount": 4,
+      "lineCount": 26
+    },
+    {
+      "id": "40",
+      "number": 40,
+      "title": "“Earth shall adore Thee O thou King of Kings”",
+      "date": "n.d.",
+      "stanzaCount": 4,
+      "lineCount": 18
+    },
+    {
+      "id": "41",
+      "number": 41,
+      "title": "Praise Ye the Lord",
+      "published": "Messenger and Advocate, August 1835",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "42",
+      "number": 42,
+      "title": "“The glorious day is rolling on”",
+      "published": "Sacred Hymns, 1835",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "43",
+      "number": 43,
+      "title": "The Parting",
+      "date": "n.d.",
+      "stanzaCount": 7,
+      "lineCount": 28
+    },
+    {
+      "id": "44",
+      "number": 44,
+      "title": "On Being Importun’d by a Friend to Write",
+      "date": "n.d.",
+      "stanzaCount": 3,
+      "lineCount": 15
+    },
+    {
+      "id": "45",
+      "number": 45,
+      "title": "The Gathering of the Saints",
+      "subtitle": "and the Commencement of the City of Adam-ondi-Ahman",
+      "composed": "24 October 1838",
+      "published": "Poems 1, 1856",
+      "stanzaCount": 23,
+      "lineCount": 198
+    },
+    {
+      "id": "46",
+      "number": 46,
+      "title": "“Oh Liberty! O Sound, Once Delightful”",
+      "composed": "April 1839",
+      "published": "Quincy Whig, 4 May 1839",
+      "stanzaCount": 6,
+      "lineCount": 34
+    },
+    {
+      "id": "47",
+      "number": 47,
+      "title": "To the Citizens of Quincy",
+      "composed": "April 1839",
+      "published": "Quincy Whig, 11 May 1839",
+      "stanzaCount": 6,
+      "lineCount": 62
+    },
+    {
+      "id": "48",
+      "number": 48,
+      "title": "To a Revolutionary Father",
+      "composed": "May 1839",
+      "published": "Quincy Whig, 18 May 1839",
+      "stanzaCount": 5,
+      "lineCount": 30
+    },
+    {
+      "id": "49",
+      "number": 49,
+      "title": "An Echo from the Canadas",
+      "published": "Quincy Whig, 22 June 1839",
+      "stanzaCount": 8,
+      "lineCount": 32
+    },
+    {
+      "id": "50",
+      "number": 50,
+      "title": "My First View of a Western Prairie",
+      "published": "Quincy Whig, 29 June 1839",
+      "stanzaCount": 6,
+      "lineCount": 75
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "book": "Articles of Faith",
+  "full_title": "The Articles of Faith",
+  "lds_slug": "a-of-f",
+  "chapters": [
+    {
+      "chapter": 1,
+      "reference": "Articles of Faith 1",
+      "verses": [
+        {
+          "verse": 1,
+          "reference": "Articles of Faith 1:1"
+        },
+        {
+          "verse": 2,
+          "reference": "Articles of Faith 1:2"
+        },
+        {
+          "verse": 3,
+          "reference": "Articles of Faith 1:3"
+        },
+        {
+          "verse": 4,
+          "reference": "Articles of Faith 1:4"
+        },
+        {
+          "verse": 5,
+          "reference": "Articles of Faith 1:5"
+        },
+        {
+          "verse": 6,
+          "reference": "Articles of Faith 1:6"
+        },
+        {
+          "verse": 7,
+          "reference": "Articles of Faith 1:7"
+        },
+        {
+          "verse": 8,
+          "reference": "Articles of Faith 1:8"
+        },
+        {
+          "verse": 9,
+          "reference": "Articles of Faith 1:9"
+        },
+        {
+          "verse": 10,
+          "reference": "Articles of Faith 1:10"
+        },
+        {
+          "verse": 11,
+          "reference": "Articles of Faith 1:11"
+        },
+        {
+          "verse": 12,
+          "reference": "Articles of Faith 1:12"
+        },
+        {
+          "verse": 13,
+          "reference": "Articles of Faith 1:13"
+        }
+      ]
+    }
+  ]
+}

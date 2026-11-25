@@ -1,0 +1,7 @@
+dist/
+node_modules/
+.yarn/
+coverage/
+
+# datasets — canonical format is the data API's JSON.stringify write
+data/

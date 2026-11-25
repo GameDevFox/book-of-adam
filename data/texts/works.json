@@ -1,0 +1,65 @@
+[
+  {
+    "id": "book-of-mormon",
+    "title": "The Book of Mormon",
+    "groups": [
+      "book-of-mormon",
+      "restoration"
+    ],
+    "summary": "Scripture of the Latter Day Saint movement, first published at Palmyra, New York, in 1830."
+  },
+  {
+    "id": "journal-of-discourses",
+    "title": "Journal of Discourses",
+    "groups": [
+      "lds",
+      "restoration"
+    ],
+    "summary": "Twenty-six volumes of public sermons and addresses by early Latter-day Saint leaders, delivered 1851–1886 and published at Liverpool 1854–1886."
+  },
+  {
+    "id": "doctrine-and-covenants",
+    "title": "The Doctrine and Covenants",
+    "groups": [
+      "lds",
+      "restoration"
+    ],
+    "summary": "Revelations and inspired declarations of the Latter Day Saint movement, first published at Kirtland, Ohio, in 1835."
+  },
+  {
+    "id": "pearl-of-great-price",
+    "title": "The Pearl of Great Price",
+    "groups": [
+      "lds",
+      "restoration"
+    ],
+    "summary": "A selection of revelations, translations, and writings of Joseph Smith, first compiled at Liverpool in 1851."
+  },
+  {
+    "id": "bible",
+    "title": "The Holy Bible",
+    "groups": [
+      "bible"
+    ],
+    "summary": "The Christian scriptures; the King James (Authorized) Version was first published in 1611 and standardized in Benjamin Blayney's 1769 edition."
+  },
+  {
+    "id": "apocrypha",
+    "title": "The Apocrypha",
+    "groups": [
+      "bible",
+      "apocrypha"
+    ],
+    "summary": "The fourteen books of the Apocrypha printed between the Old and New Testaments in the 1611 King James Version; received as instructive but not canonical scripture (cf. D&C 91)."
+  },
+  {
+    "id": "eliza-r-snow-poems",
+    "title": "The Poems of Eliza R. Snow",
+    "groups": [
+      "lds",
+      "restoration",
+      "poetry"
+    ],
+    "summary": "The 507 poems Eliza R. Snow (1804–1887) published in her lifetime, 1825–1887, in newspapers, church periodicals, hymnals, and her two-volume Poems, Religious, Historical, and Political (1856, 1877)."
+  }
+]
